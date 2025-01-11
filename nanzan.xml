@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1428</fr:anchor><fr:addr
+type="user">nanzan</fr:addr><fr:route>nanzan.xml</fr:route><fr:title
+text="Nanzan University">Nanzan University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="homepage">https://www.nanzan-u.ac.jp</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1429</fr:anchor><fr:addr
+type="user">junkokondo</fr:addr><fr:route>junkokondo.xml</fr:route><fr:title
+text="Junko Kondo">Junko Kondo</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">近藤純子</html:span>
+
+</fr:meta><fr:meta
+name="position">Instructor of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="nanzan.xml"
+addr="nanzan"
+title="Nanzan University">Nanzan University</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

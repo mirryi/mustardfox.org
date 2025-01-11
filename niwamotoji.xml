@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1433</fr:anchor><fr:addr
+type="user">niwamotoji</fr:addr><fr:route>niwamotoji.xml</fr:route><fr:title
+text="Niwa Motoji">Niwa Motoji</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">丹羽基二著</html:span>
+
+</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1434</fr:anchor><fr:addr
+type="user">niwa-seishi-no-gogen</fr:addr><fr:route>niwa-seishi-no-gogen.xml</fr:route><fr:title
+text="
+  
+  姓氏の語源
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">姓氏の語源</html:span>
+
+</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1981</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="niwamotoji.xml"
+addr="niwamotoji"
+title="Niwa Motoji">Niwa Motoji</fr:link></fr:author></fr:authors><fr:meta
+name="isbn">978-4-04-061400-7</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{niwa_1981,
+  address={東京},
+  edition={初版},
+  series={角川小事典},
+  title={姓氏の語源},
+  isbn={978-4-04-061400-7},
+  publisher={角川書店},
+  author={丹羽基二著},
+  year={1981},
+  collection={角川小事典},
+  language={jpn}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

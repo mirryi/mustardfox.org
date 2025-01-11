@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1531</fr:anchor><fr:addr
+type="user">universityofoxford</fr:addr><fr:route>universityofoxford.xml</fr:route><fr:title
+text="University of Oxford">University of Oxford</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="homepage">https://www.ox.ac.uk</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1532</fr:anchor><fr:addr
+type="user">jllightfoot</fr:addr><fr:route>jllightfoot.xml</fr:route><fr:title
+text="J.L. Lightfoot">J.L. Lightfoot</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="orcid">0000-0002-1089-2642</fr:meta><fr:meta
+name="position">Professor of Greek Literature</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="universityofoxford.xml"
+addr="universityofoxford"
+title="University of Oxford">University of Oxford</fr:link></fr:meta><fr:meta
+name="homepage">https://www.classics.ox.ac.uk/people/professor-jane-lightfoot</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

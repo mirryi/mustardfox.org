@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1017</fr:anchor><fr:addr
+type="user">atlas</fr:addr><fr:route>atlas.xml</fr:route><fr:title
+text="ATLAS">ATLAS</fr:title><fr:taxon>Organization</fr:taxon><fr:authors /><fr:meta
+name="homepage">https://atlas.cs.brown.edu/</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>We build systems that lift the capabilities of programmers dealing with the vast complexity of modern software systems. Our systems automate away inessential complexity and automate in desired features — for example, securing programs that use hundreds of software dependencies, bolting distribution onto existing applications, and parallelizing large-scale pipelines built out of multi-language components. We characterize the behavior of the systems we build using real workloads seen in practice, often paired with mathematical models and proofs of key properties of interest.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>553</fr:anchor><fr:addr
+type="user">zzhaoe-000H</fr:addr><fr:route>zzhaoe-000H.xml</fr:route><fr:title
+text="Preamble">Preamble</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>This tree defines some basic macros.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:addr
+type="user">njpls-2024-12</fr:addr><fr:route>njpls-2024-12.xml</fr:route><fr:title
+text="NJPLS December 2024">NJPLS December 2024</fr:title><fr:taxon>Venue</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>6</fr:day></fr:date><fr:authors /><fr:meta
+name="homepage">https://njpls.org/dec2024.html</fr:meta><fr:meta
+name="venue">Cornell Tech, New York, United States</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr
+type="user">zzhaoe-0026</fr:addr><fr:route>zzhaoe-0026.xml</fr:route><fr:title
+text="Presented at NJPLS">Presented at NJPLS</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I gave a talk at <fr:link
+type="local"
+href="njpls-2024-12.xml"
+addr="njpls-2024-12"
+title="NJPLS December 2024">NJPLS</fr:link> in New York on some ongoing work about symbolic reasoning for effects on the file system.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

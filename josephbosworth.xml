@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1357</fr:anchor><fr:addr
+type="user">josephbosworth</fr:addr><fr:route>josephbosworth.xml</fr:route><fr:title
+text="Joseph Bosworth">Joseph Bosworth</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1358</fr:anchor><fr:addr
+type="user">bosworth-toller-anglo-saxon-dictionary</fr:addr><fr:route>bosworth-toller-anglo-saxon-dictionary.xml</fr:route><fr:title
+text="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's Anglo-Saxon Dictionary</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2014</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="josephbosworth.xml"
+addr="josephbosworth"
+title="Joseph Bosworth">Joseph Bosworth</fr:link></fr:author></fr:authors><fr:meta
+name="external">https://bosworthtoller.com</fr:meta><fr:meta
+name="bibtex"><![CDATA[@misc{bosworth2014_anglo_saxon_dictionary,
+  address={Prague},
+  title={Bosworth Toller's Anglo-Saxon Dictionary},
+  url={https://bosworthtoller.com},
+  note={Original Dictionary Title: An Anglo-Saxon Dictionary, Based on the Manuscript Collections of the Late Joseph Bosworth, D.D., F.R.S. Original Place: London},
+  publisher={Faculty of Arts, Charles University},
+  author={Bosworth, Joseph},
+  editor={Toller, Thomas Northcote and Sean, Christ and Tichy, Ondřej},
+  year={2014},
+  language={en}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

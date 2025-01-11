@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1290</fr:anchor><fr:addr
+type="user">gcbritton</fr:addr><fr:route>gcbritton.xml</fr:route><fr:title
+text="G.C. Britton">G.C. Britton</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1291</fr:anchor><fr:addr
+type="user">britton-1967</fr:addr><fr:route>britton-1967.xml</fr:route><fr:title
+text="&quot;Bealuwara Weorc&quot; in the &quot;Dream of the Rood&quot;">"Bealuwara Weorc" in the "Dream of the Rood"</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="gcbritton.xml"
+addr="gcbritton"
+title="G.C. Britton">G.C. Britton</fr:link></fr:author></fr:authors><fr:meta
+name="bibtex"><![CDATA[@article{britton1967_bealuwara_weorc_dream_of_the_rood,
+  title={"Bealuwara Weorc" in the "Dream of the Rood"},
+  volume={68},
+  issn={0028-3754},
+  number={3},
+  journal={Neuphilologische Mitteilungen},
+  publisher={Modern Language Society},
+  author={Britton, G. C.},
+  year={1967},
+  pages={273–276}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

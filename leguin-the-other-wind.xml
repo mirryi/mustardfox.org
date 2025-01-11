@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>921</fr:anchor><fr:addr
+type="user">leguin-the-other-wind</fr:addr><fr:route>leguin-the-other-wind.xml</fr:route><fr:title
+text="The Other Wind">The Other Wind</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2001</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ursulaleguin.xml"
+addr="ursulaleguin"
+title="Ursula K. Le Guin">Ursula K. Le Guin</fr:link></fr:author></fr:authors><fr:meta
+name="isbn">978-0-441-00993-0</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{leguin2003-the-other-wind,
+  location = {New York},
+  title = {The Other Wind},
+  isbn = {978-0-441-00993-0},
+  pagetotal = {211},
+  publisher = {Ace Books},
+  author = {Le Guin, Ursula K.},
+  date = {2003},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree>

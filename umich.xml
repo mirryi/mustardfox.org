@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1482</fr:anchor><fr:addr
+type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
+text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="homepage">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1483</fr:anchor><fr:addr
+type="user">zzhaoe-002E</fr:addr><fr:route>zzhaoe-002E.xml</fr:route><fr:title
+text="Poorly modernising &quot;The Battle of Brunanburh&quot;">Poorly modernising "The Battle of Brunanburh"</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Since ceasing to <fr:link
+type="local"
+href="zzhaoe-002D.xml"
+addr="zzhaoe-002D"
+title="The illusory middle landscape">return again and again to Skyrim</fr:link>, I have found that I return again and again to a desire to study Anglo-Saxon, for which I had taken a class a couple of years ago as a sophomore at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">Michigan</fr:link>. There were five or six of us enrolled,<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote">Mostly, from what I recall, seniors in the German department; though this is probably really inaccurate. But the best student seemed to be a Middle-Eastern studies fellow.</html:span></html:span>
+ though on a typical day only three or four might show up to class, which centered mostly around reading and modernising texts in Moore and Knott's <fr:link
+type="local"
+href="moore-knott-the-elements-of-old-english.xml"
+addr="moore-knott-the-elements-of-old-english"
+title="The Elements of Old English, 10th ed."><fr:em>The Elements of Old English</fr:em></fr:link>, 10th ed. There was some discussion of sound changes which I've entirely forgotten. It was sometimes a slog, sometimes great fun, and anyways it has been difficult to keep up since then, however much I would like. In recent weeks I've been slowly working through <fr:em><fr:link
+type="local"
+href="evans-an-introduction-to-old-english.xml"
+addr="evans-an-introduction-to-old-english"
+title="An Introduction to Old English">An Introduction to Old English</fr:link></fr:em>.<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote">The power of the interlibrary loan is not to be understated.</html:span></html:span>
+ It's proven to be, in many ways, substantially more digestible.</fr:p><fr:p>I could complain much about the textbooks and the other resources, but probably, at the end of the day, I just don't practice it enough. So here's to more practice,<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote">And to work these sidenotes to the limit.</html:span></html:span>
+ by glossing and modernising the famous "The Battle of Brunanburh", the only poem I've worked through in its entirety in the past. The text is the <fr:link
+type="external"
+href="https://oepoetryfacsimile.org/?document=8412">edition</fr:link> in the <fr:link
+type="local"
+href="foys-oepf3.xml"
+addr="foys-oepf3"
+title="Old English Poetry in Facsimile 3.0">OEPF</fr:link>, edited by <fr:link
+type="local"
+href="martinfoys.xml"
+addr="martinfoys"
+title="Martin Foys">Martin Foys</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1485</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
+type="local"
+href="zzhaoe-000S.xml"
+addr="zzhaoe-000S"
+title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
+type="local"
+href="jlc.xml"
+addr="jlc"
+title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>lt:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1486</fr:anchor><fr:addr
+type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
+text="Passed the JLPT N1!">Passed the JLPT N1!</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Happy to say that I was able to pass this past December's edition of the <fr:link
+type="external"
+href="https://www.jlpt.jp/e/">JLPT N1</fr:link>. A very big thanks to all my instructors at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">Michigan</fr:link>, especially <fr:link
+type="local"
+href="ayakasogabe.xml"
+addr="ayakasogabe"
+title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, <fr:link
+type="local"
+href="masaeyasuda.xml"
+addr="masaeyasuda"
+title="Masae Yasuda">Masae Yasuda</fr:link>, <fr:link
+type="local"
+href="yoshihiromochizuki.xml"
+addr="yoshihiromochizuki"
+title="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:link>, <fr:link
+type="local"
+href="junkokondo.xml"
+addr="junkokondo"
+title="Junko Kondo">Junko Kondo</fr:link>, <fr:link
+type="local"
+href="yamatokitahashi.xml"
+addr="yamatokitahashi"
+title="Yamato Kitahashi">Yamato Kitahashi</fr:link>, and <fr:link
+type="local"
+href="yoshimisakakibara.xml"
+addr="yoshimisakakibara"
+title="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:link>!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1488</fr:anchor><fr:addr
+type="user">zzhaoe-0010</fr:addr><fr:route>zzhaoe-0010.xml</fr:route><fr:title
+text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title><fr:taxon>Course</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2023</fr:year></fr:date><fr:authors /><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>I was the undergraduate teaching assistant for EECS 490 for the 2023-2024 year.</fr:p><fr:blockquote><fr:p>Programming languages are rich mathematical structures and powerful user interfaces. This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.</fr:p>
+
+  <fr:p>The goal is to change the way you think about programming and programming language design in ways that will remain relevant across the many technology hype cycles that you will encounter over the course of your careers.</fr:p></fr:blockquote><fr:p>The course was lectured by <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link>; <fr:link
+type="local"
+href="andrewblinn.xml"
+addr="andrewblinn"
+title="Andrew Blinn">Andrew Blinn</fr:link> and <fr:link
+type="local"
+href="davidmoon.xml"
+addr="davidmoon"
+title="David Moon">David Moon</fr:link> were the graduate teaching assistants in F23 and W24, respectively.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1489</fr:anchor><fr:addr
+type="user">andrewblinn</fr:addr><fr:route>andrewblinn.xml</fr:route><fr:title
+text="Andrew Blinn">Andrew Blinn</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">PhD Student</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://andrewblinn.com</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1490</fr:anchor><fr:addr
+type="user">ayakasogabe</fr:addr><fr:route>ayakasogabe.xml</fr:route><fr:title
+text="Ayaka Sogabe">Ayaka Sogabe</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">曽我部綾香</html:span>
+
+</fr:meta><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://lsa.umich.edu/asian/people/faculty/asogabe.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1491</fr:anchor><fr:addr
+type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
+text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://web.eecs.umich.edu/~comar/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1492</fr:anchor><fr:addr
+type="user">davidmoon</fr:addr><fr:route>davidmoon.xml</fr:route><fr:title
+text="David Moon">David Moon</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">PhD Student</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1493</fr:anchor><fr:addr
+type="user">fplab</fr:addr><fr:route>fplab.xml</fr:route><fr:title
+text="Future of Programming Lab">Future of Programming Lab</fr:title><fr:taxon>Organization</fr:taxon><fr:authors /><fr:meta
+name="homepage">http://fplab.mplse.org</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>FP Lab at the <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link> designs next-generation user interfaces for modern programming languages. Our research runs the methodological gamut, ranging from type-theoretic foundations through to human-centered design. We are particularly interested in applications to computer science education, accessibility, computational and data science, formal verification, and computational creativity.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1494</fr:anchor><fr:addr
+type="user">jlc</fr:addr><fr:route>jlc.xml</fr:route><fr:title
+text="Japanese Language Circle">Japanese Language Circle</fr:title><fr:taxon>Organization</fr:taxon><fr:authors /><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://linktr.ee/jlcumich</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A space for biweekly Japanese language conversation practice.</fr:p><fr:p>I was the Communications Chair (I sent emails + stuff) for the 2023–2024 academic year, succeeding the delightful <fr:link
+type="local"
+href="jackgisondi.xml"
+addr="jackgisondi"
+title="Jack Gisondi">Jack Gisondi</fr:link>. We met in room 2022 of the <fr:link
+type="external"
+href="https://maps.studentlife.umich.edu/building/thayer-academic-building">South Thayer Building</fr:link> on Monday and Thursday evenings from 7 PM (and ending any time between 8 PM and 2 AM).</fr:p><fr:p>Recurring topics apparently included mushrooms and the vegetable-or-not status of potatoes, and we also had some events—board games, origami, calligraphy, and so on. <fr:link
+type="local"
+href="suparnahande.xml"
+addr="suparnahande"
+title="Suparna Hande">Suparna Hande</fr:link> now bears this honorable torch.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1495</fr:anchor><fr:addr
+type="user">marcusgozon</fr:addr><fr:route>marcusgozon.xml</fr:route><fr:title
+text="Marcus Gozon">Marcus Gozon</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://mgozon.github.io/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1496</fr:anchor><fr:addr
+type="user">masaeyasuda</fr:addr><fr:route>masaeyasuda.xml</fr:route><fr:title
+text="Masae Yasuda">Masae Yasuda</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">安田昌江</html:span>
+
+</fr:meta><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://lsa.umich.edu/asian/people/faculty/mxyasuda.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1497</fr:anchor><fr:addr
+type="user">maxsnew</fr:addr><fr:route>maxsnew.xml</fr:route><fr:title
+text="Max S. New">Max S. New</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://maxsnew.com</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1498</fr:anchor><fr:addr
+type="user">vishnusatish</fr:addr><fr:route>vishnusatish.xml</fr:route><fr:title
+text="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1499</fr:anchor><fr:addr
+type="user">suparnahande</fr:addr><fr:route>suparnahande.xml</fr:route><fr:title
+text="Suparna Hande">Suparna Hande</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1500</fr:anchor><fr:addr
+type="user">yamatokitahashi</fr:addr><fr:route>yamatokitahashi.xml</fr:route><fr:title
+text="Yamato Kitahashi">Yamato Kitahashi</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">北橋日本</html:span>
+
+</fr:meta><fr:meta
+name="position">Lecturer of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://lsa.umich.edu/asian/people/faculty/ykitahas.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1501</fr:anchor><fr:addr
+type="user">yoshihiromochizuki</fr:addr><fr:route>yoshihiromochizuki.xml</fr:route><fr:title
+text="Yoshihiro Mochizuki">Yoshihiro Mochizuki</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">望月良浩</html:span>
+
+</fr:meta><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://lsa.umich.edu/asian/people/faculty/mochiey.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1502</fr:anchor><fr:addr
+type="user">yoshimisakakibara</fr:addr><fr:route>yoshimisakakibara.xml</fr:route><fr:title
+text="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">榊原芳美</html:span>
+
+</fr:meta><fr:meta
+name="position">Teaching Professor of Japanese</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
+name="homepage">https://lsa.umich.edu/asian/people/faculty/ysakaki.html</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

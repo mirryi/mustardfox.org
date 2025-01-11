@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1458</fr:anchor><fr:addr
+type="user">shionmiura</fr:addr><fr:route>shionmiura.xml</fr:route><fr:title
+text="Shion Miura">Shion Miura</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="original">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">三浦しをん</html:span>
+
+</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1459</fr:anchor><fr:addr
+type="user">zzhaoe-000C</fr:addr><fr:route>zzhaoe-000C.xml</fr:route><fr:title
+text="
+  
+  「舟を編む」
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">「舟を編む」</html:span>
+
+</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>7</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">
+<fr:p>先月に大学の友達を訪問し、誕生日プレゼントとしてもらった<fr:link
+type="local"
+href="shionmiura.xml"
+addr="shionmiura"
+title="Shion Miura">三浦しをん</fr:link>による、2012年本屋大賞受賞作である「<fr:link
+type="local"
+href="miura-fune-wo-amu.xml"
+addr="miura-fune-wo-amu"
+title="
+  
+  舟を編む
+
+">
+  
+  <html:span
+lang="ja">舟を編む</html:span>
+
+</fr:link>」は、一週間かけて読み終わった。長年にわたる情熱が切れず、言葉の海を渡る舟になれるように「大渡海」の完成に向ける馬締たち。短かったわりに、作業の大規模さを感じられ、不器用で愛おしいそれぞれの登場人物を知れ、言葉への敬意、言葉の力、大切さを改めて覚えさせていただいた作品だった。</fr:p>
+
+<fr:p>携帯電話の時代だというのに、辞書の編纂作業には、見出し語の重複や漏れがないか、用例採集カードや山積みの校正刷りをすべて手で確認する。編集部の部屋にコンピューターがあるみたいが、肝心な仕事には関わっていなさそう。今ならどうだろう。よくデーターベース化されたら、「玄武書房地獄の神保町合宿」は一ヶ月間を費やすまでもなく、起こるさえもなかったに思える。しかし、それで編集作業が楽になるどころか、言葉へのより鋭いセンス、愛情が求められるものだろう。これから、オックスフォード英語辞典や広辞苑を引くたびに、無数の辞書編集者へ感謝を覚えるべき。</fr:p>
+
+<fr:p>これで翻訳版は気になる。「あがる」と「のぼる」の微妙な違いや「への人」の問い合わせなどは、いったいどうやって訳されているかな、と思っていた。英語の翻訳版が大いに高評価を受けているらしく、よく工夫したにちがいない。ネットで購入しようかと思うほどでもあるが、積読が続いている今の状態で良心の呵責に耐えかねる。</fr:p>
+</html:span>
+
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1461</fr:anchor><fr:addr
+type="user">miura-fune-wo-amu</fr:addr><fr:route>miura-fune-wo-amu.xml</fr:route><fr:title
+text="
+  
+  舟を編む
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">舟を編む</html:span>
+
+</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="shionmiura.xml"
+addr="shionmiura"
+title="Shion Miura">Shion Miura</fr:link></fr:author></fr:authors><fr:meta
+name="isbn">978-4-334-76880-5</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

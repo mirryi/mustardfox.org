@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1076</fr:anchor><fr:addr
+type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
+text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
+name="homepage">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1077</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
+type="local"
+href="zzhaoe-000S.xml"
+addr="zzhaoe-000S"
+title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
+type="local"
+href="jlc.xml"
+addr="jlc"
+title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>lt:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1078</fr:anchor><fr:addr
+type="user">ericczhao</fr:addr><fr:route>ericczhao.xml</fr:route><fr:title
+text="Eric Zhao">Eric Zhao</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">PhD Student</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link></fr:meta><fr:meta
+name="orcid">0009-0000-4969-2376</fr:meta><fr:meta
+name="github">mirryi</fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="true"
+show-heading="false"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>461</fr:anchor><fr:addr
+type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
+text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link>, advised by <fr:link
+type="local"
+href="nikosvasilakis.xml"
+addr="nikosvasilakis"
+title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
+type="local"
+href="robertlewis.xml"
+addr="robertlewis"
+title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
+type="local"
+href="zzhaoe-000S.xml"
+addr="zzhaoe-000S"
+title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
+type="local"
+href="cyrusomar.xml"
+addr="cyrusomar"
+title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
+type="local"
+href="fplab.xml"
+addr="fplab"
+title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
+type="local"
+href="jlc.xml"
+addr="jlc"
+title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+  
+  <fr:tree
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
+type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
+  <html:table
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+  <html:tr>
+        
+  <html:td><fr:strong>email:</fr:strong></html:td>
+
+        
+  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>github:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://github.com/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>orcid:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
+
+      </html:tr>
+
+      
+  <html:tr>
+        
+  <html:td><fr:strong>lt:</fr:strong></html:td>
+
+        
+  <html:td><fr:link
+type="external"
+href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
+
+      </html:tr>
+
+    </html:table>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1079</fr:anchor><fr:addr
+type="user">nikosvasilakis</fr:addr><fr:route>nikosvasilakis.xml</fr:route><fr:title
+text="Nikos Vasilakis">Nikos Vasilakis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link></fr:meta><fr:meta
+name="homepage">https://nikos.vasilak.is</fr:meta><fr:meta
+name="orcid">0000-0001-7347-298X</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1080</fr:anchor><fr:addr
+type="user">robertlewis</fr:addr><fr:route>robertlewis.xml</fr:route><fr:title
+text="Robert Lewis">Robert Lewis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
+name="position">Lecturer of Computer Science</fr:meta><fr:meta
+name="institution"><fr:link
+type="local"
+href="brownuniversity.xml"
+addr="brownuniversity"
+title="Brown University">Brown University</fr:link></fr:meta><fr:meta
+name="homepage">https://robertylewis.com</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hi, I’m Robert Y. Lewis. I’m a lecturer in the Department of Computer Science at Brown University. My interests revolve around formal methods and verification, logic, and the foundations of mathematics, and the use of these in computer science and mathematics education. I work on interactive theorem proving, automated reasoning, and type theory.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

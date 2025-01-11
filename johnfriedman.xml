@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1346</fr:anchor><fr:addr
+type="user">johnfriedman</fr:addr><fr:route>johnfriedman.xml</fr:route><fr:title
+text="John Friedman">John Friedman</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1347</fr:anchor><fr:addr
+type="user">friedman-1965</fr:addr><fr:route>friedman-1965.xml</fr:route><fr:title
+text="The figure of Orpheus in antiquity and the Middle Ages">The figure of Orpheus in antiquity and the Middle Ages</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1965</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="johnfriedman.xml"
+addr="johnfriedman"
+title="John Friedman">John Friedman</fr:link></fr:author></fr:authors><fr:meta
+name="doi">10.25335/378F-2C92</fr:meta><fr:meta
+name="external">https://d.lib.msu.edu/etd/9700</fr:meta><fr:meta
+name="bibtex"><![CDATA[@phdthesis{friedman_1965,
+  title={The figure of Orpheus in antiquity and the Middle Ages},
+  url={https://d.lib.msu.edu/etd/9700},
+  doi={10.25335/378F-2C92},
+  school={Michigan State University},
+  author={Friedman, John Block}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

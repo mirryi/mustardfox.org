@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>919</fr:anchor><fr:addr
+type="user">leguin-tehanu</fr:addr><fr:route>leguin-tehanu.xml</fr:route><fr:title
+text="Tehanu">Tehanu</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2001</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ursulaleguin.xml"
+addr="ursulaleguin"
+title="Ursula K. Le Guin">Ursula K. Le Guin</fr:link></fr:author></fr:authors><fr:meta
+name="isbn">978-0-613-49527-1</fr:meta><fr:meta
+name="bibtex"><![CDATA[@book{leguin2001_tehanu,
+	title = {Tehanu},
+	isbn = {978-0-613-49527-1},
+	publisher = {Bt Bound},
+	author = {Le Guin, Ursula},
+	date = {2001},
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree>

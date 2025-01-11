@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>373</fr:anchor><fr:addr
+type="user">zzhaoe-0016</fr:addr><fr:route>zzhaoe-0016.xml</fr:route><fr:title
+text="
+  
+  ペット屋に（２）
+
+">
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja">ペット屋に（２）</html:span>
+
+</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>2</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  
+  <html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ja"><fr:p>古典に匹敵する我が作品：</fr:p></html:span>
+
+
+  <html:div
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="rl">
+  
+  <html:span
+lang="ja">
+<fr:p><fr:strong>ペット屋に（２）</fr:strong></fr:p>
+
+<fr:p>まだ孵ってない蛙が買えるかな 
+  <html:br />
+
+  買えるなら買った蛙が孵るかな 
+  <html:br />
+
+  孵るなら孵った蛙を飼えるかな 
+  <html:br />
+
+  ん？まさかずっと蛙だったかな 
+  <html:br />
+
+  とにかく帰るわ</fr:p>
+</html:span>
+
+</html:div>
+</fr:mainmatter><fr:backmatter /></fr:tree>

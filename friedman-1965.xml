@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>997</fr:anchor><fr:addr
+type="user">friedman-1965</fr:addr><fr:route>friedman-1965.xml</fr:route><fr:title
+text="The figure of Orpheus in antiquity and the Middle Ages">The figure of Orpheus in antiquity and the Middle Ages</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1965</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="johnfriedman.xml"
+addr="johnfriedman"
+title="John Friedman">John Friedman</fr:link></fr:author></fr:authors><fr:meta
+name="doi">10.25335/378F-2C92</fr:meta><fr:meta
+name="external">https://d.lib.msu.edu/etd/9700</fr:meta><fr:meta
+name="bibtex"><![CDATA[@phdthesis{friedman_1965,
+  title={The figure of Orpheus in antiquity and the Middle Ages},
+  url={https://d.lib.msu.edu/etd/9700},
+  doi={10.25335/378F-2C92},
+  school={Michigan State University},
+  author={Friedman, John Block}
+}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>999</fr:anchor><fr:addr
+type="user">zzhaoe-000W</fr:addr><fr:route>zzhaoe-000W.xml</fr:route><fr:title
+text="On the original Orpheus › Orpheus as known"><fr:link
+type="local"
+href="zzhaoe-000F.xml"
+addr="zzhaoe-000F"
+title="On the original Orpheus">On the original Orpheus</fr:link> › Orpheus as known</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The tale of Orpheus and Eurydice as now popularly known ends in tragedy. The bereaved Orpheus descends into the underworld, harp or lyre in hand; there, he plays music so sweet as to move Charon, and Cerberus, and even Hades, that the king of the underworld grants him to take Eurydice back into the realm of the living, with the condition that he must not look backwards whilst they're still in the nether's darkness. In some versions, as in Virgil's <fr:em>Gregorics</fr:em> (first century BCE), he forgets this charge; approaching the light of the living world, the joy-enraptured Orpheus looks to share his delight with Eurydice—and she's taken away from him. Other accounts, as in Ovid's <fr:em>Metamorphoses X</fr:em> (first century CE), suggest that he's possessed by a fear that the gods have tricked him. Either way, the famous musician fails and returns alone, twice-robbed.</fr:p><fr:p>Later, it seems that medieval authors began to conflate the character of Orpheus with the figure of Christ, perhaps in a reinterpretation of the katabasis as the Harrowing of Hell. A fourteenth century French author writes of the tale in <fr:em>Ovide Moralisé</fr:em> that "by Orpheus and by his harp we must understand the person of our Lord Jesus Christ... who played his harp so melodiously that he drew from Hell the sainted souls of the Holy Fathers who had descended there because of the sins of Adam and Eve."<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote"><fr:link
+type="local"
+href="friedman-1965.xml"
+addr="friedman-1965"
+title="The figure of Orpheus in antiquity and the Middle Ages">Friedman 1965</fr:link>, p. 274</html:span></html:span>
+ We are, as a result, left with works such as the much less well-known Middle English Breton lai "Sir Orfeo", itself perhaps based on French works. But there's a crucial transformation of the core arc known from antiquity: Sir Orfeo <fr:em>succeeds</fr:em> in retrieving his wife Heurodis from the fairy king and reclaims his throne in Winchester. It would seem that Christian influences made the original catastrophe instead eucatastrophic.</fr:p><fr:p>Yet what if this wasn't a novel alteration, but more like a return to the true original?</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

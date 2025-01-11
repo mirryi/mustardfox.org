@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>839</fr:anchor><fr:addr
+type="user">evans-an-introduction-to-old-english</fr:addr><fr:route>evans-an-introduction-to-old-english.xml</fr:route><fr:title
+text="An Introduction to Old English">An Introduction to Old English</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2023</fr:year></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="jonathanevans.xml"
+addr="jonathanevans"
+title="Jonathan Evans">Jonathan Evans</fr:link></fr:author></fr:authors><fr:meta
+name="isbn">978-1-603-29653-3</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
+toc="false"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
+text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="false"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>841</fr:anchor><fr:addr
+type="user">zzhaoe-002E</fr:addr><fr:route>zzhaoe-002E.xml</fr:route><fr:title
+text="Poorly modernising &quot;The Battle of Brunanburh&quot;">Poorly modernising "The Battle of Brunanburh"</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>10</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Since ceasing to <fr:link
+type="local"
+href="zzhaoe-002D.xml"
+addr="zzhaoe-002D"
+title="The illusory middle landscape">return again and again to Skyrim</fr:link>, I have found that I return again and again to a desire to study Anglo-Saxon, for which I had taken a class a couple of years ago as a sophomore at <fr:link
+type="local"
+href="umich.xml"
+addr="umich"
+title="The University of Michigan">Michigan</fr:link>. There were five or six of us enrolled,<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote">Mostly, from what I recall, seniors in the German department; though this is probably really inaccurate. But the best student seemed to be a Middle-Eastern studies fellow.</html:span></html:span>
+ though on a typical day only three or four might show up to class, which centered mostly around reading and modernising texts in Moore and Knott's <fr:link
+type="local"
+href="moore-knott-the-elements-of-old-english.xml"
+addr="moore-knott-the-elements-of-old-english"
+title="The Elements of Old English, 10th ed."><fr:em>The Elements of Old English</fr:em></fr:link>, 10th ed. There was some discussion of sound changes which I've entirely forgotten. It was sometimes a slog, sometimes great fun, and anyways it has been difficult to keep up since then, however much I would like. In recent weeks I've been slowly working through <fr:em><fr:link
+type="local"
+href="evans-an-introduction-to-old-english.xml"
+addr="evans-an-introduction-to-old-english"
+title="An Introduction to Old English">An Introduction to Old English</fr:link></fr:em>.<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote">The power of the interlibrary loan is not to be understated.</html:span></html:span>
+ It's proven to be, in many ways, substantially more digestible.</fr:p><fr:p>I could complain much about the textbooks and the other resources, but probably, at the end of the day, I just don't practice it enough. So here's to more practice,<html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+class="sidenote-number"><html:span
+class="sidenote">And to work these sidenotes to the limit.</html:span></html:span>
+ by glossing and modernising the famous "The Battle of Brunanburh", the only poem I've worked through in its entirety in the past. The text is the <fr:link
+type="external"
+href="https://oepoetryfacsimile.org/?document=8412">edition</fr:link> in the <fr:link
+type="local"
+href="foys-oepf3.xml"
+addr="foys-oepf3"
+title="Old English Poetry in Facsimile 3.0">OEPF</fr:link>, edited by <fr:link
+type="local"
+href="martinfoys.xml"
+addr="martinfoys"
+title="Martin Foys">Martin Foys</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
