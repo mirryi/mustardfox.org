@@ -7,16 +7,12 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1558</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1946</fr:anchor><fr:addr
 type="user">yoshimisakakibara</fr:addr><fr:route>yoshimisakakibara.xml</fr:route><fr:title
 text="Yoshimi Sakakibara">Yoshimi Sakakibara</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="original">
-  
-  <html:span
+name="original"><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">榊原芳美</html:span>
-
-</fr:meta><fr:meta
+lang="ja">榊原芳美</html:span></fr:meta><fr:meta
 name="position">Teaching Professor of Japanese</fr:meta><fr:meta
 name="institution"><fr:link
 type="local"
@@ -38,7 +34,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1559</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1947</fr:anchor><fr:addr
 type="user">zzhaoe-000T</fr:addr><fr:route>zzhaoe-000T.xml</fr:route><fr:title
 text="Passed the JLPT N1!">Passed the JLPT N1!</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>3</fr:month></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -89,7 +85,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1561</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1949</fr:anchor><fr:addr
 type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
 text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="homepage">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

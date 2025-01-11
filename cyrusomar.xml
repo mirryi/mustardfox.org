@@ -7,7 +7,7 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1092</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1404</fr:anchor><fr:addr
 type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
 text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
 name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
@@ -31,7 +31,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1093</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1405</fr:anchor><fr:addr
 type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
 text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
 type="local"
@@ -74,59 +74,33 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
-type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>674</fr:anchor><fr:addr
+type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:title
+text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p><html:table
 xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>email:</fr:strong></html:td>
+        <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
+      <html:tr>
+        <html:td><fr:strong>github:</fr:strong></html:td>
+        <html:td><fr:link
 type="external"
 href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
+      <html:tr>
+        <html:td><fr:strong>orcid:</fr:strong></html:td>
+        <html:td><fr:link
 type="external"
 href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>lt:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
+      <html:tr>
+        <html:td><fr:strong>lt:</fr:strong></html:td>
+        <html:td><fr:link
 type="external"
 href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
-
       </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
+    </html:table></fr:mainmatter><fr:backmatter /></fr:tree>
 </fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
 toc="true"
 numbered="false"
@@ -134,7 +108,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1094</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1406</fr:anchor><fr:addr
 type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
 text="Received the NSF Graduate Research Fellowship!">Received the NSF Graduate Research Fellowship!</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -161,7 +135,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1096</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1408</fr:anchor><fr:addr
 type="user">zzhaoe-0010</fr:addr><fr:route>zzhaoe-0010.xml</fr:route><fr:title
 text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title><fr:taxon>Course</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2023</fr:year></fr:date><fr:authors /><fr:meta
 name="institution"><fr:link
@@ -197,7 +171,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1097</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1409</fr:anchor><fr:addr
 type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
 text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
 name="homepage">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
@@ -215,7 +189,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1098</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1410</fr:anchor><fr:addr
 type="user">adams-et-al-2025</fr:addr><fr:route>adams-et-al-2025.xml</fr:route><fr:title
 text="Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus">Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -249,6 +223,7 @@ addr="popl-2025"
 title="POPL 2025">POPL 2025</fr:link></fr:meta><fr:meta
 name="doi">10.1145/3704909</fr:meta><fr:meta
 name="artifact">zzhaoe-000Q</fr:meta><fr:meta
+name="pdf">adams-et-al-2025/preprint.pdf</fr:meta><fr:meta
 name="bibtex"><![CDATA[@article{adams_2025a,
   author = {Adams, Michael D. and Griffis, Eric and Porter, Thomas J. and Satish, Sundara Vishnu and Zhao, Eric and Omar, Cyrus},
   title = {Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus},
@@ -272,7 +247,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>477</fr:anchor><fr:addr
 type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:title
 text="Abstract">Abstract</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -305,7 +280,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1105</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1417</fr:anchor><fr:addr
 type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -338,6 +313,7 @@ type="local"
 href="popl-2024.xml"
 addr="popl-2024"
 title="POPL 2024">POPL 2024</fr:link></fr:meta><fr:meta
+name="pdf">zhao-et-al-2024/preprint.pdf</fr:meta><fr:meta
 name="slides">zhao-et-al-2024/slides.pdf</fr:meta><fr:meta
 name="artifact">zzhaoe-000B</fr:meta><fr:meta
 name="bibtex"><![CDATA[@article{zhao_2024,
@@ -359,8 +335,8 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>493</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>708</fr:anchor><fr:addr
+type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:title
 text="Abstract">Abstract</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
@@ -400,7 +376,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1112</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1424</fr:anchor><fr:addr
 type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
 text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -451,7 +427,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1119</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1431</fr:anchor><fr:addr
 type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
 text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
@@ -474,7 +450,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1124</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1436</fr:anchor><fr:addr
 type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
 text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2023</fr:year></fr:date><fr:date><fr:year>2022</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"

@@ -132,6 +132,22 @@
     </li>
   </xsl:template>
 
+  <xsl:template match="f:meta[@name='issn']">
+    <li class="meta-item">
+      <a class="isbn link" href="{concat('https://portal.issn.org/resource/ISSN/', .)}">
+        <xsl:value-of select="." />
+      </a>
+    </li>
+  </xsl:template>
+
+  <xsl:template match="f:meta[@name='lc']">
+    <li class="meta-item">
+      <a class="lc link" href="{concat('https://www.loc.gov/search/?q=', .)}">
+        <xsl:value-of select="." />
+      </a>
+    </li>
+  </xsl:template>
+
   <xsl:template match="f:meta[@name='orcid']">
     <li class="meta-item">
       <a class="orcid" href="{concat('https://orcid.org/', .)}">
@@ -162,7 +178,7 @@
     </pre>
   </xsl:template>
 
-  <xsl:template match="f:meta[@name='venue']|f:meta[@name='position']|f:meta[@name='institution']|f:meta[@name='source']">
+  <xsl:template match="f:meta[@name='venue']|f:meta[@name='journal']|f:meta[@name='position']|f:meta[@name='institution']|f:meta[@name='source']">
     <li class="meta-item">
       <xsl:apply-templates />
     </li>
