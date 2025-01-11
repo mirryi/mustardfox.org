@@ -1,0 +1,2 @@
+const STORAGE_KEY='emanote-theme';window.emanote=window.emanote||{};window.emanote.theme={toggle(){const root=document.documentElement;const isDark=root.classList.toggle('dark');root.style.colorScheme=isDark?'dark':'light';try{localStorage.setItem(STORAGE_KEY,isDark?'dark':'light');}catch(e){console.warn('[emanote] theme preference not persisted:',e);}
+if(document.querySelector('.mermaid'))window.location.reload();},};
