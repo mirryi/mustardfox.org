@@ -1,0 +1,6 @@
+import{onElement}from'@emanote/morph';var monthCache={};function monthNames(){var lang=document.documentElement.lang||'';if(!monthCache[lang]){var fmt=new Intl.DateTimeFormat(lang||undefined,{month:'short',timeZone:'UTC'});var names=[];for(var m=0;m<12;m++){names.push(fmt.format(new Date(Date.UTC(2000,m,1,12))));}
+monthCache[lang]=names;}
+return monthCache[lang];}
+function dressAnnals(list){var months=monthNames();var previousYear=null;list.querySelectorAll('li').forEach(function(row){var cell=row.querySelector('.annal-date');var entry=row.querySelector('.annal-entry');if(!cell||!entry)return;if(cell.dataset.year){previousYear=cell.dataset.year;return;}
+var parts=cell.textContent.trim().split('-');var year=parts[0];if(!/^\d{4}$/.test(year))return;cell.dataset.year=year;cell.textContent=year;if(year===previousYear)cell.classList.add('annal-year-repeat');previousYear=year;var label=document.createElement('span');label.className='annal-month';label.textContent=months[parseInt(parts[1],10)-1]||'';row.insertBefore(label,entry);});}
+onElement('.annal-date',function(cell){var list=cell.closest('.annals');if(list)dressAnnals(list);});
