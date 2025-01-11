@@ -10,7 +10,7 @@
     <html>
       <head>
         <meta name="viewport" content="width=device-width" />
-        <link rel="stylesheet" href="style.css" />
+        <link rel="stylesheet" href="index.css" />
         <link rel="stylesheet" href="katex.min.css" />
         <script type="text/javascript">
           <xsl:if test="/f:tree/f:frontmatter/f:source-path">
@@ -19,7 +19,7 @@
             <xsl:text>'</xsl:text>
           </xsl:if>
         </script>
-        <script type="module" src="forester.js"></script>
+        <script type="module" src="index.js"></script>
         <title>
           <xsl:value-of select="/f:tree/f:frontmatter/f:title[@text]" />
         </title>
@@ -209,9 +209,12 @@
           <xsl:apply-templates select="f:meta[@name='position']" />
           <xsl:apply-templates select="f:meta[@name='institution']" />
           <xsl:apply-templates select="f:meta[@name='venue']" />
+          <xsl:apply-templates select="f:meta[@name='journal']" />
           <xsl:apply-templates select="f:meta[@name='source']" />
           <xsl:apply-templates select="f:meta[@name='doi']" />
           <xsl:apply-templates select="f:meta[@name='isbn']" />
+          <xsl:apply-templates select="f:meta[@name='issn']" />
+          <xsl:apply-templates select="f:meta[@name='lc']" />
           <xsl:apply-templates select="f:meta[@name='orcid']" />
           <xsl:apply-templates select="f:meta[@name='homepage']" />
           <xsl:apply-templates select="f:meta[@name='github']" />

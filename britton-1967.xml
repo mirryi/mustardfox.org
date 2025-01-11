@@ -7,9 +7,11 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>993</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1475</fr:anchor><fr:addr
 type="user">britton-1967</fr:addr><fr:route>britton-1967.xml</fr:route><fr:title
-text="&quot;Bealuwara Weorc&quot; in the &quot;Dream of the Rood&quot;">"Bealuwara Weorc" in the "Dream of the Rood"</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author><fr:link
+text="&quot;Bealuwara Weorc&quot; in the &quot;Dream of the Rood&quot;"><html:span
+xmlns:html="http://www.w3.org/1999/xhtml"
+lang="ang">"Bealuwara Weorc"</html:span> in the "Dream of the Rood"</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="gcbritton.xml"
 addr="gcbritton"
@@ -39,7 +41,7 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>995</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1477</fr:anchor><fr:addr
 type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
 text="On bealuwara weorc">On <fr:em><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
@@ -51,9 +53,7 @@ title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><
 type="local"
 href="dreamoftherood.xml"
 addr="dreamoftherood"
-title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p>
-  
-  <html:span
+title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ang"><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, 
   <html:br />
@@ -61,9 +61,7 @@ lang="ang"><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa,
   þæt ic bealuwara weorc gebiden hæbbe, 
   <html:br />
 
-  sarra sorga.</fr:blockquote></html:span>
-
-<fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, 
+  sarra sorga.</fr:blockquote></html:span><fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, 
   <html:br
 xmlns:html="http://www.w3.org/1999/xhtml" />
 
@@ -77,12 +75,13 @@ lang="ang">weorc</html:span></fr:em> is roughly Mdn.E. "work", and <fr:em><html:
 xmlns:html="http://www.w3.org/1999/xhtml"
 lang="ang">bealuwara</html:span></fr:em><html:span
 xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
+lang="en"><html:span
+class="sidenote-box"><html:span
+class="sidenote-number" /><html:span
 class="sidenote">This is perhaps the pl. gen. of an unrecorded <fr:em><html:span
 lang="ang">*bealuware</html:span></fr:em>, compounding <fr:em><html:span
 lang="ang">bealu</html:span></fr:em> ("baleful", "wicked") and <fr:em><html:span
-lang="ang">ware</html:span></fr:em> ("inhabitant").</html:span></html:span>
- has been translated variously as "miscreants", "wicked men". <fr:link
+lang="ang">ware</html:span></fr:em> ("inhabitant").</html:span></html:span></html:span> has been translated variously as "miscreants", "wicked men". <fr:link
 type="local"
 href="bosworth-toller-anglo-saxon-dictionary.xml"
 addr="bosworth-toller-anglo-saxon-dictionary"

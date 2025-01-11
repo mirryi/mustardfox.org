@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: CC0-1.0 */
 :root {
-    --hl-color: rgba(0, 100, 255, 0.04);
+    --hl-color: #f9a0421c;
 }
 
 .katex {
@@ -235,6 +235,10 @@ body {
   font-family: "EB Garamond";
   font-size: 14pt;
   line-height: 1.5;
+}
+
+span[lang="en"] {
+    font-family: "EB Garamond"
 }
 
 span[lang="ang"] {
@@ -485,6 +489,8 @@ nav#toc li {
 .doi,
 .orcid,
 .isbn,
+.issn
+.lc,
 .github {
   color: gray;
   font-weight: 200;
@@ -496,8 +502,8 @@ nav#toc li {
 }
 
 .block {
-  padding-left: 5px;
-  padding-right: 10px;
+  /* padding-left: 5px; */
+  /* padding-right: 10px; */
   padding-bottom: 2px;
   border-radius: 5px;
 }
@@ -758,10 +764,14 @@ ol li ol li ol {
  color: white;
 }
 
+.dim {
+    color: #bbb;
+}
+
 .sidenote {
     font-size: 0.75em;
     position: relative;
-    line-height: 1.2;
+    line-height: 1.1;
 }
 
 /* wide viewport */
@@ -773,9 +783,9 @@ ol li ol li ol {
         text-align: justify;
         hyphens: none;
 
-        top: -0.9rem;
+        top: -0.1rem;
         width: 17.5em;
-        margin-top: 1rem;
+        margin-top: 0.2rem;
     }
 }
 
@@ -786,7 +796,7 @@ ol li ol li ol {
         text-align: left;
 
         width: 90%;
-        margin: 0.5rem 0;
+        margin: 0.1rem 0;
         padding-left: 10%;
     }
 }
@@ -819,7 +829,13 @@ ol li ol li ol {
 
 @media (min-width: 1175px) {
     /* highlight the sidenote when mouse hovers on the sidenote number in body. */
-    .sidenote-number:hover .sidenote {
+    .sidenote-box:has(.sidenote-number:hover) .sidenote,
+    .sidenote-box:has(.sidenote-number:hover) .sidenote-content
+    {
         background-color: var(--hl-color);
     }
+
+    /* .sidenote-box:has(.sidenote-number:hover) .sidenote-content { */
+        /* background-color: var(--hl-color); */
+    /* } */
 }
