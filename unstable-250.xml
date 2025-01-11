@@ -7,43 +7,23 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>432</fr:anchor><fr:addr
 type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:title
-text="Utterly illegible Han ideographs › 
-  
-"><fr:link
+text="Metaprogramming literature › 2-level type theory (2LTT)"><fr:link
 type="local"
-href="zzhaoe-000Y.xml"
-addr="zzhaoe-000Y"
-title="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:link> › 
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/forest-fire.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+href="zzhaoe-002S.xml"
+addr="zzhaoe-002S"
+title="Metaprogramming literature">Metaprogramming literature</fr:link> › 2-level type theory (2LTT)</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">炎</html:span>
-
- ("blaze") + 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">森</html:span>
-
- ("forest"), meaning a forest fire.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">It is pronounced 
-  
-  <html:span
-lang="ja">「カリフォルニア」</html:span>
-
-.</html:span></html:span></fr:p></fr:mainmatter><fr:backmatter><fr:tree
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1145/3547641">Kovács (2022)</fr:link> adapt 2-level type theory for metaprogramming by placing a dependently typed meta-language atop a less expressive object language; however, it does not support <fr:em>running</fr:em> code nor intensional code analysis.</fr:p><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1145/3635800.3636964">Allais (2024)</fr:link> ...</fr:p><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2024)</fr:link> ...</fr:p></fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -58,314 +38,96 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>399</fr:anchor><fr:addr
-type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
-text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>434</fr:anchor><fr:addr
+type="user">zzhaoe-002S</fr:addr><fr:route>zzhaoe-002S.xml</fr:route><fr:title
+text="Metaprogramming literature">Metaprogramming literature</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𰻞</html:span>
-
- (<fr:em>bíang</fr:em>) when recording <fr:link
-type="local"
-href="zzhaoe-000X.xml"
-addr="zzhaoe-000X"
-title="
-  
-  𰻞𰻞麵
-
-">a recipe for 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𰻞𰻞麵</html:span>
-
-</fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link
-type="external"
-href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as one of the codepoints<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">Precisely, <fr:code>U+30EDE</fr:code>. There's also the simplified version, 
-  
-  <html:span
-lang="zh-hans">𰻝</html:span>
-
-, as <fr:code>U+30EDD</fr:code>.</html:span></html:span>
- in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">𱁬</html:span>
-
-,<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>.</html:span></html:span>
- an 84-stroke behemoth made by sticking 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">䨺</html:span>
-
-<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>. Three clouds 
-  
-  <html:span
-lang="ja">雲</html:span>
-
- together, meaning "cloudy".</html:span></html:span>
- and 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">龘</html:span>
-
-.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>. The three dragons 
-  
-  <html:span
-lang="ja">龍</html:span>
-
- are perhaps meant to resemble, it seems, a dragon flying or climbing.</html:span></html:span>
- It's a Japanese-coined character, or <fr:em>kokuji</fr:em>,<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">That is, 
-  
-  <html:span
-lang="ja">国字</html:span>
-
-.</html:span></html:span>
- but its origins are shrouded in some mystery. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to <fr:link
-type="local"
-href="niwa-seishi-no-gogen.xml"
-addr="niwa-seishi-no-gogen"
-title="
-  
-  姓氏の語源
-
-">a 1981 etymological dictionary of surnames</fr:link>. Some scholars think it's an erroneous ghost letter; or 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">䨺龘</html:span>
-
-, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link
-type="external"
-href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting in Chiba.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">
-  
-  <html:span
-lang="ja">北松戸、千葉県</html:span>
-
-.</html:span></html:span>
- I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𱁬𪚥</html:span>
-
-,<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>tài zhé</fr:em>. The latter character apparently means "verbose".</html:span></html:span>
- meaning something like "excessively complicated (of a Chinese character)". One has to zoom in rather much to make anything of it.</fr:p><fr:p>In Chinese, there's also 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">䲜</html:span>
-
-<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">"abundance of fish"; <fr:code>U+4C9C</fr:code>.</html:span></html:span>
- and 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">䨻</html:span>
-
-.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">"roar of thunder"; <fr:code>U+4A3B</fr:code>.</html:span></html:span>
- The Japanese have contrived 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">𰽔</html:span>
-
-<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>. It's the last one (#2607) <fr:link
-type="external"
-href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">here</fr:link>. Maybe the folks working on CJK fonts <fr:link
-type="local"
-href="zzhaoe-0014.xml"
-addr="zzhaoe-0014"
-title="Fonts for obscure Han ideographs">will get to it someday</fr:link>, though I can't imagine that it's very high priority.</html:span></html:span>
- which seems to me like a bewildering room of many mirrors.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people (and font authors) very sad:</fr:p>
-  
-
-  <fr:tree
-toc="false"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>379</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>436</fr:anchor><fr:addr
+type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
+text="Surveys">Surveys</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
+type="local"
+href="ericczhao.xml"
+addr="ericczhao"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1145/3354584">Lilis and Savidis (2019)</fr:link> survey and taxonomise metaprogramming languages and paradigms.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>438</fr:anchor><fr:addr
 type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/graveyard.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Higher-order abstract syntax (HOAS)">Higher-order abstract syntax (HOAS)</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">墓</html:span>
-
- ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1145/960116.54010">Pfenning and Elliot (1988)</fr:link> first introduce higher-order abstract syntax. To support functional programming on HOAS in type theories such as the calculus of inductive constructions, <fr:link
+type="external"
+href="https://doi.org/10.1145/1411204.1411226">Chilpala (2008)</fr:link>, following <fr:link
+type="external"
+href="https://doi.org/10.5555/645892.671587">Despeyroux et al. (1995)</fr:link> and <fr:link
+type="external"
+href="https://doi.org/10.1145/944705.944728">Washburn and Weirich (2003)</fr:link>, describe <fr:em>parametric</fr:em> HOAS (PHOAS).</fr:p><fr:p /></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>381</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>440</fr:anchor><fr:addr
 type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/whale-squid.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="Contextual modal type theories (CMTT)">Contextual modal type theories (CMTT)</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">鰞</html:span>
-
- ("squid") + 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">鯨</html:span>
-
- ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="local"
+href="nanevski-et-al-2008.xml"
+addr="nanevski-et-al-2008"
+title="Contextual modal type theory">Nanevski et al. (2008)</fr:link> first proposed contextual modal type theory based on context modal logic as a type-theoretic for staged computation on both closed and open terms, supporting <fr:em>running</fr:em> code. This was for a theory of simple types; <fr:link
+type="local"
+href="jang-et-al-2022.xml"
+addr="jang-et-al-2022"
+title="Mœbius: metaprogramming using contextual types: the stage where system f can pattern match on itself">Jang et al. (2022)</fr:link> extend it to System F. Neither properly support intensional code analysis (that is, pattern matching on code); <fr:link
+type="local"
+href="hu-pientka-2024.xml"
+addr="hu-pientka-2024"
+title="A Layered Approach to Intensional Analysis in Type Theory">Hu and Pientka (2024)</fr:link> introduce layered modal type theory with support for intensional analysis. <fr:link
+type="local"
+href="hu-pientka-2025.xml"
+addr="hu-pientka-2025"
+title="A Dependent Type Theory for Meta-programming with Intensional Analysis">Hu and Pientka (2025)</fr:link> furthermore gives a layered contextual modal <fr:em>dependent</fr:em> type theory with intensional analysis.</fr:p><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2019)</fr:link> use contextual modal types to mediate between HOAS representations and recursive computations on HOAS trees.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
+toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>442</fr:anchor><fr:addr
 type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/forest-fire.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
+text="2-Level type theory (2LTT)">2-Level type theory (2LTT)</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>24</fr:day></fr:date><fr:authors><fr:author><fr:link
 type="local"
 href="ericczhao.xml"
 addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">炎</html:span>
-
- ("blaze") + 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">森</html:span>
-
- ("forest"), meaning a forest fire.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">It is pronounced 
-  
-  <html:span
-lang="ja">「カリフォルニア」</html:span>
-
-.</html:span></html:span></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:addr
-type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/niagara-falls.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">滝</html:span>
-
- ("waterfall") <fr:tex
-display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-<fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link>'s <fr:link
-type="local"
-href="lipton-an-exaltation-of-larks.xml"
-addr="lipton-an-exaltation-of-larks"
-title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes). It seems to me good sense to take 
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/murder.svg"
-style="width: 1em" />
- (a quadriplication of 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">烏</html:span>
-
-, "crow") to mean a murder of crows, and to extend this principle to any other noun; we save, after all, several whole bytes.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1145/3547641">Kovács (2022)</fr:link> adapt 2-level type theory for metaprogramming by placing a dependently typed meta-language atop a less expressive object language; however, it does not support <fr:em>running</fr:em> code nor intensional code analysis.</fr:p><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1145/3635800.3636964">Allais (2024)</fr:link> ...</fr:p><fr:p><fr:link
+type="external"
+href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2024)</fr:link> ...</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>

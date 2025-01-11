@@ -7,63 +7,21 @@ show-heading="true"
 show-metadata="true"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>610</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2414</fr:anchor><fr:addr
 type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
-text="About › external"><fr:link
+text="Dostoyevsky describes the PhD › spoiler"><fr:link
 type="local"
-href="zzhaoe-0001.xml"
-addr="zzhaoe-0001"
-title="About">About</fr:link> › external</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>lt:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter><fr:tree
+href="zzhaoe-0030.xml"
+addr="zzhaoe-0030"
+title="Dostoyevsky describes the PhD">Dostoyevsky describes the PhD</fr:link> › spoiler</fr:title><fr:taxon>Warning</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="fyodordostoyevsky.xml"
+addr="fyodordostoyevsky"
+title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:link
+type="local"
+href="dostoyevsky-crime-and-punishment.xml"
+addr="dostoyevsky-crime-and-punishment"
+title="Crime and Punishment"><fr:em>Crime and Punishment</fr:em></fr:link>.</fr:mainmatter><fr:backmatter><fr:tree
 toc="false"
 numbered="false"
 show-heading="true"
@@ -78,100 +36,39 @@ show-heading="true"
 show-metadata="true"
 expanded="false"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>611</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>2416</fr:anchor><fr:addr
+type="user">zzhaoe-0030</fr:addr><fr:route>zzhaoe-0030.xml</fr:route><fr:title
+text="Dostoyevsky describes the PhD">Dostoyevsky describes the PhD</fr:title><fr:taxon>Quote</fr:taxon><fr:authors><fr:author><fr:link
 type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
+href="fyodordostoyevsky.xml"
+addr="fyodordostoyevsky"
+title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:link></fr:author></fr:authors><fr:meta
+name="original"><fr:link
 type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
-type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
-type="local"
-href="zzhaoe-000S.xml"
-addr="zzhaoe-000S"
-title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
-type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
-type="local"
-href="jlc.xml"
-addr="jlc"
-title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+href="dostoyevsky-crime-and-punishment.xml"
+addr="dostoyevsky-crime-and-punishment"
+title="Crime and Punishment"><fr:em>Crime and Punishment</fr:em></fr:link></fr:meta></fr:frontmatter><fr:mainmatter>
   
-  <fr:tree
+    
+    <fr:tree
 toc="false"
 numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>967</fr:anchor><fr:addr
 type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
+text="Spoiler">Spoiler</fr:title><fr:taxon>Warning</fr:taxon><fr:authors><fr:author><fr:link
+type="local"
+href="fyodordostoyevsky.xml"
+addr="fyodordostoyevsky"
+title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:link
+type="local"
+href="dostoyevsky-crime-and-punishment.xml"
+addr="dostoyevsky-crime-and-punishment"
+title="Crime and Punishment"><fr:em>Crime and Punishment</fr:em></fr:link>.</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+<fr:p>In chapter ii of the epilogue:
 
-        
-  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
-      </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>lt:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
-
-      </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+  <fr:blockquote>Vague and objectless anxiety in the present, and in the future a continual sacrifice leading to nothing—that was all that lay before him. And what comfort was it to him that at the end of eight years he would only be thirty‐two and able to begin a new life! What had he to live for? What had he to look forward to? Why should he strive? To live in order to exist? Why, he had been ready a thousand times before to give up existence for the sake of an idea, for a hope, even for a fancy. Mere existence had always been too little for him; he had always wanted more. Perhaps it was just because of the strength of his desires that he had thought himself a man to whom more was permissible than to others.</fr:blockquote></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
