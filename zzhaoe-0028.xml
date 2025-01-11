@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr
-type="user">zzhaoe-0028</fr:addr><fr:route>zzhaoe-0028.xml</fr:route><fr:title
-text="MS P.1396a &amp; b: correspondence of Nov. 1958">MS P.1396a &amp; b: correspondence of Nov. 1958</fr:title><fr:taxon>Fiction</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>12</fr:month><fr:day>17</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
-name="pdf">zzhaoe-0028/correspondence-of-nov-1958.pdf</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>665</fr:anchor>
+    <fr:addr type="user">zzhaoe-0028</fr:addr>
+    <fr:route>zzhaoe-0028.xml</fr:route>
+    <fr:title text="MS P.1396a &amp; b: correspondence of Nov. 1958">MS P.1396a &amp; b: correspondence of Nov. 1958</fr:title>
+    <fr:taxon>Fiction</fr:taxon>
+    <fr:date>
+      <fr:year>2024</fr:year>
+      <fr:month>12</fr:month>
+      <fr:day>17</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:meta name="pdf">zzhaoe-0028/correspondence-of-nov-1958.pdf</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter />
+</fr:tree>

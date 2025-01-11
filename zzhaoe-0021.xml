@@ -1,95 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>350</fr:anchor><fr:addr
-type="user">zzhaoe-0021</fr:addr><fr:route>zzhaoe-0021.xml</fr:route><fr:title
-text="Relistening to the Lord of the Rings">Relistening to the Lord of the Rings</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>3</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Plenty of folks have a tradition of rereading <fr:link
-type="local"
-href="tolkien-the-lord-of-the-rings.xml"
-addr="tolkien-the-lord-of-the-rings"
-title="The Lord of the Rings"><fr:em>The Lord of the Rings</fr:em></fr:link> every year or two—or, even better, with <fr:link
-type="local"
-href="tolkien-the-hobbit.xml"
-addr="tolkien-the-hobbit"
-title="The Hobbit, or, There and Back Again"><fr:em>The Hobbit</fr:em></fr:link> too. (Some people are also constantly rereading <fr:link
-type="local"
-href="tolkien-the-silmarillion.xml"
-addr="tolkien-the-silmarillion"
-title="The Silmarillion"><fr:em>The Silmarillion</fr:em></fr:link>, too, probably.) Doubtless many have watched and rewatched Peter Jackson's film trilogy a number of times. But fewer people, I'd suppose, are aware of the much earlier <fr:link
-type="local"
-href="sibley-the-lord-of-the-rings-radio-1981.xml"
-addr="sibley-the-lord-of-the-rings-radio-1981"
-title="The Lord of the Rings (1981 radio series)">1981 BBC radio dramatization</fr:link>.</fr:p><fr:p>In May of last year, when touring pretty much every single used bookshop in Covent Garden and Soho, I picked up the entire series in cassette tape (in a very nice box) at <fr:link
-type="local"
-href="marchepane.xml"
-addr="marchepane"
-title="Marchepane">Marchepane</fr:link>.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">It's a cozy little shop on Cecil Court packed with childrens' books and a very warm fellow.</html:span></html:span>
- I was also given a copy of the <fr:link
-type="local"
-href="sibley-tales-from-the-perilous-realm-radio-1992.xml"
-addr="sibley-tales-from-the-perilous-realm-radio-1992"
-title="Tales from the Perilous Realm (1992 radio series)">1992 radio adaptation</fr:link> of <fr:link
-type="local"
-href="tolkien-tales-from-the-perilous-realm.xml"
-addr="tolkien-tales-from-the-perilous-realm"
-title="Tales from the Perilous Realm"><fr:em>Tales from the Perilous Realm</fr:em></fr:link> to boot.</fr:p><fr:p>It is, in many, many ways, the <fr:em>definitive</fr:em> adaptation, in the literal sense of the word; one is reminded strongly of Michael Hordern's Gandalf and Peter Woodthorpe's Gollum when watching the much later films. With a gorgeous original soundtrack, the adaptation manages to bring Middle-earth afresh into the new medium (I'm immediately reminded of the very unique sequence for the Battle of the Pelennor Fields) whilst keeping astonishingly true to the original. Unfortunately, there's still no Tom Bombadil.</fr:p><fr:p>The earlier <fr:link
-type="local"
-href="kilgariff-the-hobbit-radio-1968.xml"
-addr="kilgariff-the-hobbit-radio-1968"
-title="The Hobbit (1968 radio series)">1968 radio dramatization of the Hobbit</fr:link> is also delightful, but not as quite as good as this—and indeed a bit jarring at first. But please, if ever you've the chance to listen to either one, you must.</fr:p><fr:blockquote>The Road goes ever on and on 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>701</fr:anchor>
+    <fr:addr type="user">zzhaoe-0021</fr:addr>
+    <fr:route>zzhaoe-0021.xml</fr:route>
+    <fr:title text="Relistening to the Lord of the Rings">Relistening to the Lord of the Rings</fr:title>
+    <fr:taxon>Musings</fr:taxon>
+    <fr:date>
+      <fr:year>2024</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>3</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>Plenty of folks have a tradition of rereading <fr:link type="local" href="tolkien-the-lord-of-the-rings.xml" addr="tolkien-the-lord-of-the-rings" title="The Lord of the Rings"><fr:em>The Lord of the Rings</fr:em></fr:link> every year or two—or, even better, with <fr:link type="local" href="tolkien-the-hobbit.xml" addr="tolkien-the-hobbit" title="The Hobbit, or, There and Back Again"><fr:em>The Hobbit</fr:em></fr:link> too. (Some people are also constantly rereading <fr:link type="local" href="tolkien-the-silmarillion.xml" addr="tolkien-the-silmarillion" title="The Silmarillion"><fr:em>The Silmarillion</fr:em></fr:link>, too, probably.) Doubtless many have watched and rewatched Peter Jackson's film trilogy a number of times. But fewer people, I'd suppose, are aware of the much earlier <fr:link type="local" href="sibley-the-lord-of-the-rings-radio-1981.xml" addr="sibley-the-lord-of-the-rings-radio-1981" title="The Lord of the Rings (1981 radio series)">1981 BBC radio dramatization</fr:link>.</fr:p>
+    <fr:p>In May of last year, when touring pretty much every single used bookshop in Covent Garden and Soho, I picked up the entire series in cassette tape (in a very nice box) at <fr:link type="local" href="marchepane.xml" addr="marchepane" title="Marchepane">Marchepane</fr:link>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">It's a cozy little shop on Cecil Court packed with childrens' books and a very warm fellow.</html:span></html:span></html:span> I was also given a copy of the <fr:link type="local" href="sibley-tales-from-the-perilous-realm-radio-1992.xml" addr="sibley-tales-from-the-perilous-realm-radio-1992" title="Tales from the Perilous Realm (1992 radio series)">1992 radio adaptation</fr:link> of <fr:link type="local" href="tolkien-tales-from-the-perilous-realm.xml" addr="tolkien-tales-from-the-perilous-realm" title="Tales from the Perilous Realm"><fr:em>Tales from the Perilous Realm</fr:em></fr:link> to boot.</fr:p>
+    <fr:p>It is, in many, many ways, the <fr:em>definitive</fr:em> adaptation, in the literal sense of the word; one is reminded strongly of Michael Hordern's Gandalf and Peter Woodthorpe's Gollum when watching the much later films. With a gorgeous original soundtrack, the adaptation manages to bring Middle-earth afresh into the new medium (I'm immediately reminded of the very unique sequence for the Battle of the Pelennor Fields) whilst keeping astonishingly true to the original. Unfortunately, there's still no Tom Bombadil.</fr:p>
+    <fr:p>The earlier <fr:link type="local" href="kilgariff-the-hobbit-radio-1968.xml" addr="kilgariff-the-hobbit-radio-1968" title="The Hobbit (1968 radio series)">1968 radio dramatization of the Hobbit</fr:link> is also delightful, but not as quite as good as this—and indeed a bit jarring at first. But please, if ever you've the chance to listen to either one, you must.</fr:p>
+    <fr:blockquote>The Road goes ever on and on 
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   Down from the door where it began. 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   Now far ahead the Road has gone, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   And you must follow, if you can, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   Pursuing it with eager ears... 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" /></fr:blockquote></fr:mainmatter><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>352</fr:anchor><fr:addr
-type="user">tolkien-tales-from-the-perilous-realm</fr:addr><fr:route>tolkien-tales-from-the-perilous-realm.xml</fr:route><fr:title
-text="Tales from the Perilous Realm">Tales from the Perilous Realm</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1997</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author></fr:authors><fr:meta
-name="bibtex"><![CDATA[@book{tolkien_1997,
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" /></fr:blockquote>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="References">References</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>703</fr:anchor>
+            <fr:addr type="user">tolkien-tales-from-the-perilous-realm</fr:addr>
+            <fr:route>tolkien-tales-from-the-perilous-realm.xml</fr:route>
+            <fr:title text="Tales from the Perilous Realm">Tales from the Perilous Realm</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1997</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="bibtex"><![CDATA[@book{tolkien_1997,
   location = {London},
   title = {Tales from the Perilous Realm},
   isbn = {978-0-261-10342-9},
@@ -97,64 +68,78 @@ name="bibtex"><![CDATA[@book{tolkien_1997,
   publisher = {{HarperCollins}},
   author = {Tolkien, J. R. R.},
   date = {1997},
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:addr
-type="user">sibley-tales-from-the-perilous-realm-radio-1992</fr:addr><fr:route>sibley-tales-from-the-perilous-realm-radio-1992.xml</fr:route><fr:title
-text="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm (1992 radio series)</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1992</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="briansibley.xml"
-addr="briansibley"
-title="Brian Sibley">Brian Sibley</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr
-type="user">sibley-the-lord-of-the-rings-radio-1981</fr:addr><fr:route>sibley-the-lord-of-the-rings-radio-1981.xml</fr:route><fr:title
-text="The Lord of the Rings (1981 radio series)">The Lord of the Rings (1981 radio series)</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1981</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="briansibley.xml"
-addr="briansibley"
-title="Brian Sibley">Brian Sibley</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="michaelbakewell.xml"
-addr="michaelbakewell"
-title="Michael Bakewell">Michael Bakewell</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>361</fr:anchor><fr:addr
-type="user">tolkien-the-silmarillion</fr:addr><fr:route>tolkien-the-silmarillion.xml</fr:route><fr:title
-text="The Silmarillion">The Silmarillion</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="christophertolkien.xml"
-addr="christophertolkien"
-title="Christopher Tolkien">Christopher Tolkien</fr:link></fr:author></fr:authors><fr:meta
-name="isbn">978-0-04-823139-0</fr:meta><fr:meta
-name="bibtex"><![CDATA[@book{tolkien_1977,
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>705</fr:anchor>
+            <fr:addr type="user">sibley-tales-from-the-perilous-realm-radio-1992</fr:addr>
+            <fr:route>sibley-tales-from-the-perilous-realm-radio-1992.xml</fr:route>
+            <fr:title text="Tales from the Perilous Realm (1992 radio series)">Tales from the Perilous Realm (1992 radio series)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1992</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="briansibley.xml" addr="briansibley" title="Brian Sibley">Brian Sibley</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>708</fr:anchor>
+            <fr:addr type="user">sibley-the-lord-of-the-rings-radio-1981</fr:addr>
+            <fr:route>sibley-the-lord-of-the-rings-radio-1981.xml</fr:route>
+            <fr:title text="The Lord of the Rings (1981 radio series)">The Lord of the Rings (1981 radio series)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1981</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="briansibley.xml" addr="briansibley" title="Brian Sibley">Brian Sibley</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="michaelbakewell.xml" addr="michaelbakewell" title="Michael Bakewell">Michael Bakewell</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>712</fr:anchor>
+            <fr:addr type="user">tolkien-the-silmarillion</fr:addr>
+            <fr:route>tolkien-the-silmarillion.xml</fr:route>
+            <fr:title text="The Silmarillion">The Silmarillion</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1977</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="christophertolkien.xml" addr="christophertolkien" title="Christopher Tolkien">Christopher Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="isbn">978-0-04-823139-0</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@book{tolkien_1977,
   location = {London u.a.},
   title = {The Silmarillion},
   isbn = {978-0-04-823139-0},
@@ -163,83 +148,121 @@ name="bibtex"><![CDATA[@book{tolkien_1977,
   author = {Tolkien, John R. R. and Tolkien, Christopher},
   date = {1977},
   note = {{OCLC}: 630802801},
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>364</fr:anchor><fr:addr
-type="user">kilgariff-the-hobbit-radio-1968</fr:addr><fr:route>kilgariff-the-hobbit-radio-1968.xml</fr:route><fr:title
-text="The Hobbit (1968 radio series)">The Hobbit (1968 radio series)</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1968</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="michaelkilgariff.xml"
-addr="michaelkilgariff"
-title="Michael Kilgariff">Michael Kilgariff</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>367</fr:anchor><fr:addr
-type="user">tolkien-the-lord-of-the-rings</fr:addr><fr:route>tolkien-the-lord-of-the-rings.xml</fr:route><fr:title
-text="The Lord of the Rings">The Lord of the Rings</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1955</fr:year></fr:date><fr:date><fr:year>1954</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:addr
-type="user">tolkien-the-hobbit</fr:addr><fr:route>tolkien-the-hobbit.xml</fr:route><fr:title
-text="The Hobbit, or, There and Back Again">The Hobbit, or, There and Back Again</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1937</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author></fr:authors><fr:meta
-name="bibtex"><![CDATA[@book{tolkien_1937,
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>715</fr:anchor>
+            <fr:addr type="user">kilgariff-the-hobbit-radio-1968</fr:addr>
+            <fr:route>kilgariff-the-hobbit-radio-1968.xml</fr:route>
+            <fr:title text="The Hobbit (1968 radio series)">The Hobbit (1968 radio series)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1968</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="michaelkilgariff.xml" addr="michaelkilgariff" title="Michael Kilgariff">Michael Kilgariff</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>718</fr:anchor>
+            <fr:addr type="user">tolkien-the-lord-of-the-rings</fr:addr>
+            <fr:route>tolkien-the-lord-of-the-rings.xml</fr:route>
+            <fr:title text="The Lord of the Rings">The Lord of the Rings</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1955</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>1954</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>720</fr:anchor>
+            <fr:addr type="user">tolkien-the-hobbit</fr:addr>
+            <fr:route>tolkien-the-hobbit.xml</fr:route>
+            <fr:title text="The Hobbit, or, There and Back Again">The Hobbit, or, There and Back Again</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1937</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="bibtex"><![CDATA[@book{tolkien_1937,
   location = {London},
   title = {The hobbit, or, There and back again},
   pagetotal = {310},
   publisher = {George Allen \& Unwin Ltd.},
   author = {Tolkien, J. R. R.},
   date = {1937},
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>371</fr:anchor><fr:addr
-type="user">marchepane</fr:addr><fr:route>marchepane.xml</fr:route><fr:title
-text="Marchepane">Marchepane</fr:title><fr:taxon>Bookshop</fr:taxon><fr:authors /><fr:meta
-name="venue">London, United Kingdom</fr:meta><fr:meta
-name="homepage">https://marchpanebooks.com/</fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>372</fr:anchor><fr:addr
-type="machine">#246</fr:addr><fr:route>unstable-246.xml</fr:route><fr:title
-text="Address">Address</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>16 Cecil Ct, Charing Cross Rd, London WC2N 4HE, United Kingdom.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>722</fr:anchor>
+            <fr:addr type="user">marchepane</fr:addr>
+            <fr:route>marchepane.xml</fr:route>
+            <fr:title text="Marchepane">Marchepane</fr:title>
+            <fr:taxon>Bookshop</fr:taxon>
+            <fr:authors />
+            <fr:meta name="venue">London, United Kingdom</fr:meta>
+            <fr:meta name="homepage">https://marchpanebooks.com/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>723</fr:anchor>
+                <fr:addr type="machine">#243</fr:addr>
+                <fr:route>unstable-243.xml</fr:route>
+                <fr:title text="Address">Address</fr:title>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>16 Cecil Ct, Charing Cross Rd, London WC2N 4HE, United Kingdom.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

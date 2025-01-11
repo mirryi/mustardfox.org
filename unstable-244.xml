@@ -1,64 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>940</fr:anchor><fr:addr
-type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
-text="An Exaltation of Larks › abstract"><fr:link
-type="local"
-href="lipton-an-exaltation-of-larks.xml"
-addr="lipton-an-exaltation-of-larks"
-title="An Exaltation of Larks">An Exaltation of Larks</fr:link> › abstract</fr:title><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>942</fr:anchor><fr:addr
-type="user">lipton-an-exaltation-of-larks</fr:addr><fr:route>lipton-an-exaltation-of-larks.xml</fr:route><fr:title
-text="An Exaltation of Larks">An Exaltation of Larks</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link></fr:author></fr:authors><fr:meta
-name="bibtex"><![CDATA[@book{lipton1991_an_exaltation_of_larks,
-  address={New York, N.Y., U.S.A.},
-  edition={The ultimate edition},
-  title={An Exaltation of Larks},
-  isbn={978-0-670-30044-0},
-  publisher={Viking},
-  author={Lipton, James},
-  year={1991},
-  language={eng}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>409</fr:anchor><fr:addr
-type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
-text="Abstract">Abstract</fr:title><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>466</fr:anchor>
+    <fr:addr type="machine">#244</fr:addr>
+    <fr:route>unstable-244.xml</fr:route>
+    <fr:title text="Metaprogramming literature › surveys"><fr:link type="local" href="zzhaoe-002S.xml" addr="zzhaoe-002S" title="Metaprogramming literature">Metaprogramming literature</fr:link> › surveys</fr:title>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>1</fr:month>
+      <fr:day>24</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p><fr:link type="external" href="https://doi.org/10.1145/3354584">Lilis and Savidis (2019)</fr:link> survey and taxonomise metaprogramming languages and paradigms.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>468</fr:anchor>
+            <fr:addr type="user">zzhaoe-002S</fr:addr>
+            <fr:route>zzhaoe-002S.xml</fr:route>
+            <fr:title text="Metaprogramming literature">Metaprogramming literature</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>433</fr:anchor>
+                <fr:addr type="machine">#244</fr:addr>
+                <fr:route>unstable-244.xml</fr:route>
+                <fr:title text="Surveys">Surveys</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/3354584">Lilis and Savidis (2019)</fr:link> survey and taxonomise metaprogramming languages and paradigms.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>435</fr:anchor>
+                <fr:addr type="machine">#245</fr:addr>
+                <fr:route>unstable-245.xml</fr:route>
+                <fr:title text="Higher-order abstract syntax (HOAS)">Higher-order abstract syntax (HOAS)</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/960116.54010">Pfenning and Elliot (1988)</fr:link> first introduce higher-order abstract syntax. To support functional programming on HOAS in type theories such as the calculus of inductive constructions, <fr:link type="external" href="https://doi.org/10.1145/1411204.1411226">Chilpala (2008)</fr:link>, following <fr:link type="external" href="https://doi.org/10.5555/645892.671587">Despeyroux et al. (1995)</fr:link> and <fr:link type="external" href="https://doi.org/10.1145/944705.944728">Washburn and Weirich (2003)</fr:link>, describe <fr:em>parametric</fr:em> HOAS (PHOAS).</fr:p>
+                <fr:p />
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>437</fr:anchor>
+                <fr:addr type="machine">#246</fr:addr>
+                <fr:route>unstable-246.xml</fr:route>
+                <fr:title text="Contextual modal type theories (CMTT)">Contextual modal type theories (CMTT)</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="local" href="nanevski-et-al-2008.xml" addr="nanevski-et-al-2008" title="Contextual modal type theory">Nanevski et al. (2008)</fr:link> first proposed contextual modal type theory based on context modal logic as a type-theoretic for staged computation on both closed and open terms, supporting <fr:em>running</fr:em> code. This was for a theory of simple types; <fr:link type="local" href="jang-et-al-2022.xml" addr="jang-et-al-2022" title="Mœbius: metaprogramming using contextual types: the stage where system f can pattern match on itself">Jang et al. (2022)</fr:link> extend it to System F. Neither properly support intensional code analysis (that is, pattern matching on code); <fr:link type="local" href="hu-pientka-2024.xml" addr="hu-pientka-2024" title="A Layered Approach to Intensional Analysis in Type Theory">Hu and Pientka (2024)</fr:link> introduce layered modal type theory with support for intensional analysis. <fr:link type="local" href="hu-pientka-2025.xml" addr="hu-pientka-2025" title="A Dependent Type Theory for Meta-programming with Intensional Analysis">Hu and Pientka (2025)</fr:link> furthermore gives a layered contextual modal <fr:em>dependent</fr:em> type theory with intensional analysis.</fr:p>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2019)</fr:link> use contextual modal types to mediate between HOAS representations and recursive computations on HOAS trees.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>439</fr:anchor>
+                <fr:addr type="machine">#247</fr:addr>
+                <fr:route>unstable-247.xml</fr:route>
+                <fr:title text="2-Level type theory (2LTT)">2-Level type theory (2LTT)</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/3547641">Kovács (2022)</fr:link> adapt 2-level type theory for metaprogramming by placing a dependently typed meta-language atop a less expressive object language; however, it does not support <fr:em>running</fr:em> code nor intensional code analysis.</fr:p>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/3635800.3636964">Allais (2024)</fr:link> ...</fr:p>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2024)</fr:link> ...</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

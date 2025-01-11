@@ -1,68 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1303</fr:anchor><fr:addr
-type="user">jllightfoot</fr:addr><fr:route>jllightfoot.xml</fr:route><fr:title
-text="J.L. Lightfoot">J.L. Lightfoot</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="orcid">0000-0002-1089-2642</fr:meta><fr:meta
-name="position">Professor of Greek Literature</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="universityofoxford.xml"
-addr="universityofoxford"
-title="University of Oxford">University of Oxford</fr:link></fr:meta><fr:meta
-name="homepage">https://www.classics.ox.ac.uk/people/professor-jane-lightfoot</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1304</fr:anchor><fr:addr
-type="user">universityofoxford</fr:addr><fr:route>universityofoxford.xml</fr:route><fr:title
-text="University of Oxford">University of Oxford</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="homepage">https://www.ox.ac.uk</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1305</fr:anchor><fr:addr
-type="user">lightfoot-2010</fr:addr><fr:route>lightfoot-2010.xml</fr:route><fr:title
-text="Fragments">Fragments</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2010</fr:year></fr:date><fr:authors><fr:author>Hermesianax</fr:author><fr:author><fr:link
-type="local"
-href="jllightfoot.xml"
-addr="jllightfoot"
-title="J.L. Lightfoot">J.L. Lightfoot</fr:link></fr:author></fr:authors><fr:meta
-name="doi">10.4159/DLCL.hermesianax_colophon-fragments.2010</fr:meta><fr:meta
-name="bibtex"><![CDATA[@misc{lightfoot_2010,
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1903</fr:anchor>
+    <fr:addr type="user">jllightfoot</fr:addr>
+    <fr:route>jllightfoot.xml</fr:route>
+    <fr:title text="J.L. Lightfoot">J.L. Lightfoot</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+    <fr:meta name="orcid">0000-0002-1089-2642</fr:meta>
+    <fr:meta name="position">Professor of Greek Literature</fr:meta>
+    <fr:meta name="institution">
+      <fr:link type="local" href="universityofoxford.xml" addr="universityofoxford" title="University of Oxford">University of Oxford</fr:link>
+    </fr:meta>
+    <fr:meta name="homepage">https://www.classics.ox.ac.uk/people/professor-jane-lightfoot</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1904</fr:anchor>
+            <fr:addr type="user">universityofoxford</fr:addr>
+            <fr:route>universityofoxford.xml</fr:route>
+            <fr:title text="University of Oxford">University of Oxford</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:authors />
+            <fr:meta name="homepage">https://www.ox.ac.uk</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1905</fr:anchor>
+            <fr:addr type="user">lightfoot-2010</fr:addr>
+            <fr:route>lightfoot-2010.xml</fr:route>
+            <fr:title text="Fragments">Fragments</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2010</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>Hermesianax</fr:author>
+              <fr:author>
+                <fr:link type="local" href="jllightfoot.xml" addr="jllightfoot" title="J.L. Lightfoot">J.L. Lightfoot</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.4159/DLCL.hermesianax_colophon-fragments.2010</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@misc{lightfoot_2010,
   title={Fragments},
   url={http://www.loebclassics.com/view/hermesianax_colophon-fragments/2010/work.xml},
   doi={10.4159/DLCL.hermesianax_colophon-fragments.2010},
   publisher={Harvard University Press},
   author={Hermesianax and Lightfoot, J. L.},
   year={2010}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

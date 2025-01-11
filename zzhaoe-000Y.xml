@@ -1,345 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>405</fr:anchor><fr:addr
-type="user">zzhaoe-000Y</fr:addr><fr:route>zzhaoe-000Y.xml</fr:route><fr:title
-text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𰻞</html:span>
-
- (<fr:em>bíang</fr:em>) when recording <fr:link
-type="local"
-href="zzhaoe-000X.xml"
-addr="zzhaoe-000X"
-title="
-  
-  𰻞𰻞麵
-
-">a recipe for 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𰻞𰻞麵</html:span>
-
-</fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link
-type="external"
-href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as one of the codepoints<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">Precisely, <fr:code>U+30EDE</fr:code>. There's also the simplified version, 
-  
-  <html:span
-lang="zh-hans">𰻝</html:span>
-
-, as <fr:code>U+30EDD</fr:code>.</html:span></html:span>
- in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">𱁬</html:span>
-
-,<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>.</html:span></html:span>
- an 84-stroke behemoth made by sticking 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">䨺</html:span>
-
-<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>. Three clouds 
-  
-  <html:span
-lang="ja">雲</html:span>
-
- together, meaning "cloudy".</html:span></html:span>
- and 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">龘</html:span>
-
-.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>. The three dragons 
-  
-  <html:span
-lang="ja">龍</html:span>
-
- are perhaps meant to resemble, it seems, a dragon flying or climbing.</html:span></html:span>
- It's a Japanese-coined character, or <fr:em>kokuji</fr:em>,<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">That is, 
-  
-  <html:span
-lang="ja">国字</html:span>
-
-.</html:span></html:span>
- but its origins are shrouded in some mystery. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to <fr:link
-type="local"
-href="niwa-seishi-no-gogen.xml"
-addr="niwa-seishi-no-gogen"
-title="
-  
-  姓氏の語源
-
-">a 1981 etymological dictionary of surnames</fr:link>. Some scholars think it's an erroneous ghost letter; or 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">䨺龘</html:span>
-
-, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link
-type="external"
-href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting in Chiba.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">
-  
-  <html:span
-lang="ja">北松戸、千葉県</html:span>
-
-.</html:span></html:span>
- I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𱁬𪚥</html:span>
-
-,<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>tài zhé</fr:em>. The latter character apparently means "verbose".</html:span></html:span>
- meaning something like "excessively complicated (of a Chinese character)". One has to zoom in rather much to make anything of it.</fr:p><fr:p>In Chinese, there's also 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">䲜</html:span>
-
-<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">"abundance of fish"; <fr:code>U+4C9C</fr:code>.</html:span></html:span>
- and 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">䨻</html:span>
-
-.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">"roar of thunder"; <fr:code>U+4A3B</fr:code>.</html:span></html:span>
- The Japanese have contrived 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">𰽔</html:span>
-
-<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>. It's the last one (#2607) <fr:link
-type="external"
-href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">here</fr:link>. Maybe the folks working on CJK fonts <fr:link
-type="local"
-href="zzhaoe-0014.xml"
-addr="zzhaoe-0014"
-title="Fonts for obscure Han ideographs">will get to it someday</fr:link>, though I can't imagine that it's very high priority.</html:span></html:span>
- which seems to me like a bewildering room of many mirrors.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people (and font authors) very sad:</fr:p>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>756</fr:anchor>
+    <fr:addr type="user">zzhaoe-000Y</fr:addr>
+    <fr:route>zzhaoe-000Y.xml</fr:route>
+    <fr:title text="Utterly illegible Han ideographs">Utterly illegible Han ideographs</fr:title>
+    <fr:taxon>Musings</fr:taxon>
+    <fr:date>
+      <fr:year>2024</fr:year>
+      <fr:month>8</fr:month>
+      <fr:day>21</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter><fr:p>I was surprised to find it possible to properly type (though not directly via Rime) and render the character <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="zh-hant">𰻞</html:span> (<fr:em>bíang</fr:em>) when recording <fr:link type="local" href="zzhaoe-000X.xml" addr="zzhaoe-000X" title="𰻞𰻞麵">a recipe for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="zh-hant">𰻞𰻞麵</html:span></fr:link> from my dad, since I was, for whatever reason, under the impression that it wasn't part of Unicode. Apparently, it was added in 2020 in <fr:link type="external" href="https://blog.unicode.org/2020/03/announcing-unicode-standard-version-130.html">Unicode 13.0</fr:link> as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">one of the codepoints</html:span><html:span class="sidenote-number" /><html:span class="sidenote">Precisely, <fr:code>U+30EDE</fr:code>. There's also the simplified version, <html:span lang="zh-hans">𰻝</html:span>, as <fr:code>U+30EDD</fr:code>.</html:span></html:span></html:span> in CJK Unified Ideographs Extension G, the first block of the Tertiary Ideographic Plane.</fr:p><fr:p>This block also includes <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="ja">𱁬</html:span></html:span>,<html:span class="sidenote-number" /><html:span class="sidenote"><fr:em>taito</fr:em>; <fr:em>daito</fr:em>; <fr:em>otodo</fr:em>; <fr:code>U+3106C</fr:code>.</html:span></html:span></html:span> an 84-stroke behemoth made by sticking <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="ja">䨺</html:span></html:span><html:span class="sidenote-number" /><html:span class="sidenote"><fr:em>tai</fr:em>; <fr:code>U+4A3A</fr:code>. Three clouds <html:span lang="ja">雲</html:span> together, meaning "cloudy".</html:span></html:span></html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="ja">龘</html:span></html:span>.<html:span class="sidenote-number" /><html:span class="sidenote"><fr:em>tou</fr:em>; <fr:code>U+9F98</fr:code>. The three dragons <html:span lang="ja">龍</html:span> are perhaps meant to resemble, it seems, a dragon flying or climbing.</html:span></html:span></html:span> It's a Japanese-coined character, or <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><fr:em>kokuji</fr:em></html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">That is, <html:span lang="ja">国字</html:span>.</html:span></html:span></html:span> but its origins are shrouded in some mystery. In the early 1960s, a man showed a namecard with this surname to the staff of a brokerage office... or so it goes according to <fr:link type="local" href="niwa-seishi-no-gogen.xml" addr="niwa-seishi-no-gogen" title="姓氏の語源">a 1981 etymological dictionary of surnames</fr:link>. Some scholars think it's an erroneous ghost letter; or <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">䨺龘</html:span>, written separately, was perhaps an alias. In any case, it's now the name of a <fr:link type="external" href="https://seg2017.com/otodo/">series of ramen shops</fr:link> starting <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">in Chiba</html:span>.<html:span class="sidenote-number" /><html:span class="sidenote"><html:span lang="ja">北松戸、千葉県</html:span>.</html:span></html:span></html:span> I think I'd like to go there sometime.</fr:p><fr:p>It seems like some netizens have borrowed the character into Chinese, developing humorous neologisms like <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="zh-hant">𱁬𪚥</html:span></html:span>,<html:span class="sidenote-number" /><html:span class="sidenote"><fr:em>tài zhé</fr:em>. The latter character apparently means "verbose".</html:span></html:span></html:span> meaning something like "excessively complicated (of a Chinese character)". One has to zoom in rather much to make anything of it.</fr:p><fr:p>In Chinese, there's also <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="zh-hant">䲜</html:span></html:span><html:span class="sidenote-number" /><html:span class="sidenote">"abundance of fish"; <fr:code>U+4C9C</fr:code>.</html:span></html:span></html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="zh-hant">䨻</html:span></html:span>.<html:span class="sidenote-number" /><html:span class="sidenote">"roar of thunder"; <fr:code>U+4A3B</fr:code>.</html:span></html:span></html:span> The Japanese have contrived <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content"><html:span lang="ja">𰽔</html:span></html:span><html:span class="sidenote-number" /><html:span class="sidenote"><fr:em>kagami</fr:em>; <fr:code>U+30F54</fr:code>. It's the last one (#2607) <fr:link type="external" href="https://ksbookshelf.com/nozomu-oohara/WaseikanjiJiten/WaseikanjiJiten_81.html">here</fr:link>. Maybe the folks working on CJK fonts <fr:link type="local" href="zzhaoe-0014.xml" addr="zzhaoe-0014" title="Fonts for obscure Han ideographs">will get to it someday</fr:link>, though I can't imagine that it's very high priority.</html:span></html:span></html:span> which seems to me like a bewildering room of many mirrors.</fr:p><fr:p>Here are some new characters I'd like to propose, to further enrich the space of overly dense and illegible ideographs and make the Unicode people (and font authors) very sad:</fr:p>
   
 
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>379</fr:anchor><fr:addr
-type="machine">#248</fr:addr><fr:route>unstable-248.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/graveyard.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">墓</html:span>
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>730</fr:anchor><fr:addr type="machine">#252</fr:addr><fr:route>unstable-252.xml</fr:route><fr:title text=""><html:object xmlns:html="http://www.w3.org/1999/xhtml" type="image/svg+xml" data="zzhaoe-000Y/graveyard.svg" style="width: 1em" /></fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>A quadriplication of <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">墓</html:span> ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
- ("grave"), meaning, of course, a graveyard.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>732</fr:anchor><fr:addr type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title text=""><html:object xmlns:html="http://www.w3.org/1999/xhtml" type="image/svg+xml" data="zzhaoe-000Y/whale-squid.svg" style="width: 1em" /></fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">鰞</html:span> ("squid") + <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">鯨</html:span> ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>381</fr:anchor><fr:addr
-type="machine">#249</fr:addr><fr:route>unstable-249.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/whale-squid.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">鰞</html:span>
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>734</fr:anchor><fr:addr type="machine">#254</fr:addr><fr:route>unstable-254.xml</fr:route><fr:title text=""><html:object xmlns:html="http://www.w3.org/1999/xhtml" type="image/svg+xml" data="zzhaoe-000Y/forest-fire.svg" style="width: 1em" /></fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">炎</html:span> ("blaze") + <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">森</html:span> ("forest"), meaning a forest fire.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">It is pronounced <html:span lang="ja">「カリフォルニア」</html:span>.</html:span></html:span></html:span></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
 
- ("squid") + 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">鯨</html:span>
-
- ("whale"), meaning a fight between a sperm whale and a colossal squid.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:addr
-type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/forest-fire.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">炎</html:span>
-
- ("blaze") + 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">森</html:span>
-
- ("forest"), meaning a forest fire.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">It is pronounced 
-  
-  <html:span
-lang="ja">「カリフォルニア」</html:span>
-
-.</html:span></html:span></fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:addr
-type="machine">#251</fr:addr><fr:route>unstable-251.xml</fr:route><fr:title
-text="
-  
-">
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/niagara-falls.svg"
-style="width: 1em" />
-</fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">滝</html:span>
-
- ("waterfall") <fr:tex
-display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
-<fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link>'s <fr:link
-type="local"
-href="lipton-an-exaltation-of-larks.xml"
-addr="lipton-an-exaltation-of-larks"
-title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes). It seems to me good sense to take 
-  <html:object
-xmlns:html="http://www.w3.org/1999/xhtml"
-type="image/svg+xml"
-data="zzhaoe-000Y/murder.svg"
-style="width: 1em" />
- (a quadriplication of 
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">烏</html:span>
-
-, "crow") to mean a murder of crows, and to extend this principle to any other noun; we save, after all, several whole bytes.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="References">References</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>407</fr:anchor><fr:addr
-type="user">lipton-an-exaltation-of-larks</fr:addr><fr:route>lipton-an-exaltation-of-larks.xml</fr:route><fr:title
-text="An Exaltation of Larks">An Exaltation of Larks</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link></fr:author></fr:authors><fr:meta
-name="bibtex"><![CDATA[@book{lipton1991_an_exaltation_of_larks,
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>736</fr:anchor><fr:addr type="machine">#255</fr:addr><fr:route>unstable-255.xml</fr:route><fr:title text=""><html:object xmlns:html="http://www.w3.org/1999/xhtml" type="image/svg+xml" data="zzhaoe-000Y/niagara-falls.svg" style="width: 1em" /></fr:title><fr:taxon>Definition</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>21</fr:day></fr:date><fr:authors><fr:author><fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">滝</html:span> ("waterfall") <fr:tex display="inline"><![CDATA[*]]></fr:tex> 4, meaning Niagara Falls.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+<fr:p>This is, I suppose, something of an exaltation of larks, and I'm reminded of my copy of <fr:link type="local" href="jameslipton.xml" addr="jameslipton" title="James Lipton">James Lipton</fr:link>'s <fr:link type="local" href="lipton-an-exaltation-of-larks.xml" addr="lipton-an-exaltation-of-larks" title="An Exaltation of Larks">book</fr:link> (it must be somewhere in the boxes). It seems to me good sense to take <html:object xmlns:html="http://www.w3.org/1999/xhtml" type="image/svg+xml" data="zzhaoe-000Y/murder.svg" style="width: 1em" /> (a quadriplication of <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">烏</html:span>, "crow") to mean a murder of crows, and to extend this principle to any other noun; we save, after all, several whole bytes.</fr:p></fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="References">References</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>758</fr:anchor>
+            <fr:addr type="user">lipton-an-exaltation-of-larks</fr:addr>
+            <fr:route>lipton-an-exaltation-of-larks.xml</fr:route>
+            <fr:title text="An Exaltation of Larks">An Exaltation of Larks</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1991</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jameslipton.xml" addr="jameslipton" title="James Lipton">James Lipton</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="bibtex"><![CDATA[@book{lipton1991_an_exaltation_of_larks,
   address={New York, N.Y., U.S.A.},
   edition={The ultimate edition},
   title={An Exaltation of Larks},
@@ -348,45 +60,51 @@ name="bibtex"><![CDATA[@book{lipton1991_an_exaltation_of_larks,
   author={Lipton, James},
   year={1991},
   language={eng}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>409</fr:anchor><fr:addr
-type="machine">#244</fr:addr><fr:route>unstable-244.xml</fr:route><fr:title
-text="Abstract">Abstract</fr:title><fr:date><fr:year>1991</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jameslipton.xml"
-addr="jameslipton"
-title="James Lipton">James Lipton</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>411</fr:anchor><fr:addr
-type="user">niwa-seishi-no-gogen</fr:addr><fr:route>niwa-seishi-no-gogen.xml</fr:route><fr:title
-text="
-  
-  姓氏の語源
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ja">姓氏の語源</html:span>
-
-</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1981</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="niwamotoji.xml"
-addr="niwamotoji"
-title="Niwa Motoji">Niwa Motoji</fr:link></fr:author></fr:authors><fr:meta
-name="isbn">978-4-04-061400-7</fr:meta><fr:meta
-name="bibtex"><![CDATA[@book{niwa_1981,
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>760</fr:anchor>
+                <fr:addr type="machine">#241</fr:addr>
+                <fr:route>unstable-241.xml</fr:route>
+                <fr:title text="Abstract">Abstract</fr:title>
+                <fr:date>
+                  <fr:year>1991</fr:year>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="jameslipton.xml" addr="jameslipton" title="James Lipton">James Lipton</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>762</fr:anchor>
+            <fr:addr type="user">niwa-seishi-no-gogen</fr:addr>
+            <fr:route>niwa-seishi-no-gogen.xml</fr:route>
+            <fr:title text="姓氏の語源">
+              <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">姓氏の語源</html:span>
+            </fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1981</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="niwamotoji.xml" addr="niwamotoji" title="Niwa Motoji">Niwa Motoji</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="isbn">978-4-04-061400-7</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@book{niwa_1981,
   address={東京},
   edition={初版},
   series={角川小事典},
@@ -397,84 +115,98 @@ name="bibtex"><![CDATA[@book{niwa_1981,
   year={1981},
   collection={角川小事典},
   language={jpn}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>413</fr:anchor><fr:addr
-type="user">zzhaoe-0014</fr:addr><fr:route>zzhaoe-0014.xml</fr:route><fr:title
-text="Fonts for obscure Han ideographs">Fonts for obscure Han ideographs</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I wrote recently about some <fr:link
-type="local"
-href="zzhaoe-000Y.xml"
-addr="zzhaoe-000Y"
-title="Utterly illegible Han ideographs">obscure Han ideographs that are somehow in Unicode</fr:link>. Maybe one day I'll be able to render that page with a serif font that properly handles all of the characters. <fr:link
-type="external"
-href="https://fonts.google.com/?preview.text=%F0%B0%BB%9E%F0%B1%81%AC%E4%A8%BA%E9%BE%98%F0%AA%9A%A5%E4%B2%9C%E4%A8%BB%F0%B0%BD%94&amp;preview.layout=grid&amp;lang=zh_Hant">Maybe</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>415</fr:anchor><fr:addr
-type="user">zzhaoe-0014</fr:addr><fr:route>zzhaoe-0014.xml</fr:route><fr:title
-text="Fonts for obscure Han ideographs">Fonts for obscure Han ideographs</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>28</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>I wrote recently about some <fr:link
-type="local"
-href="zzhaoe-000Y.xml"
-addr="zzhaoe-000Y"
-title="Utterly illegible Han ideographs">obscure Han ideographs that are somehow in Unicode</fr:link>. Maybe one day I'll be able to render that page with a serif font that properly handles all of the characters. <fr:link
-type="external"
-href="https://fonts.google.com/?preview.text=%F0%B0%BB%9E%F0%B1%81%AC%E4%A8%BA%E9%BE%98%F0%AA%9A%A5%E4%B2%9C%E4%A8%BB%F0%B0%BD%94&amp;preview.layout=grid&amp;lang=zh_Hant">Maybe</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>417</fr:anchor><fr:addr
-type="user">zzhaoe-000X</fr:addr><fr:route>zzhaoe-000X.xml</fr:route><fr:title
-text="
-  
-  𰻞𰻞麵
-
-">
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="zh-hant">𰻞𰻞麵</html:span>
-
-</fr:title><fr:taxon>Recipe</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>20</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Roughly, how to make the titular noodles, according to my dad:</fr:p><fr:ol><fr:li>Appropriate amount of flour in the bowl (but he tends to use the stainless steel pan).</fr:li>
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>764</fr:anchor>
+            <fr:addr type="user">zzhaoe-0014</fr:addr>
+            <fr:route>zzhaoe-0014.xml</fr:route>
+            <fr:title text="Fonts for obscure Han ideographs">Fonts for obscure Han ideographs</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>28</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>I wrote recently about some <fr:link type="local" href="zzhaoe-000Y.xml" addr="zzhaoe-000Y" title="Utterly illegible Han ideographs">obscure Han ideographs that are somehow in Unicode</fr:link>. Maybe one day I'll be able to render that page with a serif font that properly handles all of the characters. <fr:link type="external" href="https://fonts.google.com/?preview.text=%F0%B0%BB%9E%F0%B1%81%AC%E4%A8%BA%E9%BE%98%F0%AA%9A%A5%E4%B2%9C%E4%A8%BB%F0%B0%BD%94&amp;preview.layout=grid&amp;lang=zh_Hant">Maybe</fr:link>.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>766</fr:anchor>
+            <fr:addr type="user">zzhaoe-0014</fr:addr>
+            <fr:route>zzhaoe-0014.xml</fr:route>
+            <fr:title text="Fonts for obscure Han ideographs">Fonts for obscure Han ideographs</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>28</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>I wrote recently about some <fr:link type="local" href="zzhaoe-000Y.xml" addr="zzhaoe-000Y" title="Utterly illegible Han ideographs">obscure Han ideographs that are somehow in Unicode</fr:link>. Maybe one day I'll be able to render that page with a serif font that properly handles all of the characters. <fr:link type="external" href="https://fonts.google.com/?preview.text=%F0%B0%BB%9E%F0%B1%81%AC%E4%A8%BA%E9%BE%98%F0%AA%9A%A5%E4%B2%9C%E4%A8%BB%F0%B0%BD%94&amp;preview.layout=grid&amp;lang=zh_Hant">Maybe</fr:link>.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>768</fr:anchor>
+            <fr:addr type="user">zzhaoe-000X</fr:addr>
+            <fr:route>zzhaoe-000X.xml</fr:route>
+            <fr:title text="𰻞𰻞麵">
+              <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="zh-hant">𰻞𰻞麵</html:span>
+            </fr:title>
+            <fr:taxon>Recipe</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>20</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Roughly, how to make the titular noodles, according to my dad:</fr:p>
+            <fr:ol><fr:li>Appropriate amount of flour in the bowl (but he tends to use the stainless steel pan).</fr:li>
   <fr:li>Add some salt to the flour.</fr:li>
   <fr:li>Slowly stir in water until it all has a flaky texture.</fr:li>
   <fr:li>Work the flaky flour all together into a ball.</fr:li>
@@ -485,13 +217,24 @@ title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><
   <fr:li>Cut the dough into thin strips.</fr:li>
   <fr:li>Pull each strip into long noodles. Fold and pull more if possible.</fr:li>
   <fr:li>All into boiling water at once, for a minute or two. Once it's in, wangjangle with chopsticks immediately to prevent sticking.</fr:li>
-  <fr:li>Eat with toppings, such as hot chili oil (must), pressed garlic (highly preferred), and greens and meat.</fr:li></fr:ol></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>419</fr:anchor><fr:addr
-type="user">jameslipton</fr:addr><fr:route>jameslipton.xml</fr:route><fr:title
-text="James Lipton">James Lipton</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+  <fr:li>Eat with toppings, such as hot chili oil (must), pressed garlic (highly preferred), and greens and meat.</fr:li></fr:ol>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>770</fr:anchor>
+            <fr:addr type="user">jameslipton</fr:addr>
+            <fr:route>jameslipton.xml</fr:route>
+            <fr:title text="James Lipton">James Lipton</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>833</fr:anchor><fr:addr
-type="user">zzhaoe-000L</fr:addr><fr:route>zzhaoe-000L.xml</fr:route><fr:title
-text="Sorrow">Sorrow</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>What is life if not but sorrow? 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1276</fr:anchor>
+    <fr:addr type="user">zzhaoe-000L</fr:addr>
+    <fr:route>zzhaoe-000L.xml</fr:route>
+    <fr:title text="Sorrow">Sorrow</fr:title>
+    <fr:taxon>Poem</fr:taxon>
+    <fr:date>
+      <fr:year>2023</fr:year>
+      <fr:month>2</fr:month>
+      <fr:day>15</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:blockquote>What is life if not but sorrow? 
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   Wary now — I speak not merely 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   moment's gloom, despair all hollow. 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   Nay, only how we wear so dearly 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   keen the present's fleeting passage. 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   What happiness does linger through? 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   But dare I say — do not outrage! — 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   that better they had gone as due, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   for far the road does whistful wend, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
-  with sight ineffable at each bend.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree>
+  with sight ineffable at each bend.</fr:blockquote>
+  </fr:mainmatter>
+  <fr:backmatter />
+</fr:tree>

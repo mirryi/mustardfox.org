@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1411</fr:anchor>
+    <fr:addr type="machine">#241</fr:addr>
+    <fr:route>unstable-241.xml</fr:route>
+    <fr:title text="An Exaltation of Larks › abstract"><fr:link type="local" href="lipton-an-exaltation-of-larks.xml" addr="lipton-an-exaltation-of-larks" title="An Exaltation of Larks">An Exaltation of Larks</fr:link> › abstract</fr:title>
+    <fr:date>
+      <fr:year>1991</fr:year>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="jameslipton.xml" addr="jameslipton" title="James Lipton">James Lipton</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1413</fr:anchor>
+            <fr:addr type="user">lipton-an-exaltation-of-larks</fr:addr>
+            <fr:route>lipton-an-exaltation-of-larks.xml</fr:route>
+            <fr:title text="An Exaltation of Larks">An Exaltation of Larks</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1991</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jameslipton.xml" addr="jameslipton" title="James Lipton">James Lipton</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="bibtex"><![CDATA[@book{lipton1991_an_exaltation_of_larks,
+  address={New York, N.Y., U.S.A.},
+  edition={The ultimate edition},
+  title={An Exaltation of Larks},
+  isbn={978-0-670-30044-0},
+  publisher={Viking},
+  author={Lipton, James},
+  year={1991},
+  language={eng}
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>760</fr:anchor>
+                <fr:addr type="machine">#241</fr:addr>
+                <fr:route>unstable-241.xml</fr:route>
+                <fr:title text="Abstract">Abstract</fr:title>
+                <fr:date>
+                  <fr:year>1991</fr:year>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="jameslipton.xml" addr="jameslipton" title="James Lipton">James Lipton</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>An “exaltation of larks”? Yes! And a “leap of leopards,” a “parliament of owls,” an “ostentation of peacocks,” a “smack of jellyfish,” and a “murder of crows”! For those who have ever wondered if the familiar “pride of lions” and “gaggle of geese” were only the tip of a linguistic iceberg, James Lipton has provided the definitive answer: here are hundreds of equally pithy, and often poetic, terms unearthed by Mr. Lipton in the Books of Venery that were the constant study of anyone who aspired to the title of gentleman in the fifteenth century. When Mr. Lipton’s painstaking research revealed that five hundred years ago the terms of venery had already been turned into the Game of Venery, he embarked on an odyssey that has given us a “slouch of models,” a “shrivel of critics,” an “unction of undertakers,” a “blur of Impressionists,” a “score of bachelors,” and a “pocket of quarterbacks.” This ultimate edition of <fr:em>An Exaltation of Larks</fr:em> is Mr. Lipton’s brilliant answer to the assault on language and literacy in the last decades of the twentieth century. In it you will find more than 1,100 resurrected or newly minted contributions to that most endangered of all species, our language, in a setting of 250 witty, beautiful, and remarkably apt engravings.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

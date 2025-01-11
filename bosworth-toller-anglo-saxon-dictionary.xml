@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>906</fr:anchor><fr:addr
-type="user">bosworth-toller-anglo-saxon-dictionary</fr:addr><fr:route>bosworth-toller-anglo-saxon-dictionary.xml</fr:route><fr:title
-text="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's Anglo-Saxon Dictionary</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2014</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="josephbosworth.xml"
-addr="josephbosworth"
-title="Joseph Bosworth">Joseph Bosworth</fr:link></fr:author></fr:authors><fr:meta
-name="external">https://bosworthtoller.com</fr:meta><fr:meta
-name="bibtex"><![CDATA[@misc{bosworth2014_anglo_saxon_dictionary,
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1367</fr:anchor>
+    <fr:addr type="user">bosworth-toller-anglo-saxon-dictionary</fr:addr>
+    <fr:route>bosworth-toller-anglo-saxon-dictionary.xml</fr:route>
+    <fr:title text="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's Anglo-Saxon Dictionary</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:date>
+      <fr:year>2014</fr:year>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="josephbosworth.xml" addr="josephbosworth" title="Joseph Bosworth">Joseph Bosworth</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:meta name="external">https://bosworthtoller.com</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@misc{bosworth2014_anglo_saxon_dictionary,
   address={Prague},
   title={Bosworth Toller's Anglo-Saxon Dictionary},
   url={https://bosworthtoller.com},
@@ -25,76 +26,60 @@ name="bibtex"><![CDATA[@misc{bosworth2014_anglo_saxon_dictionary,
   editor={Toller, Thomas Northcote and Sean, Christ and Tichy, Ondřej},
   year={2014},
   language={en}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>908</fr:anchor><fr:addr
-type="user">zzhaoe-000G</fr:addr><fr:route>zzhaoe-000G.xml</fr:route><fr:title
-text="On bealuwara weorc">On <fr:em><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ang">bealuwara weorc</html:span></fr:em></fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2022</fr:year><fr:month>12</fr:month><fr:day>1</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In lines 78-80a of the "<fr:link
-type="local"
-href="dreamoftherood.xml"
-addr="dreamoftherood"
-title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p>
-  
-  <html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ang"><fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, 
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1369</fr:anchor>
+            <fr:addr type="user">zzhaoe-000G</fr:addr>
+            <fr:route>zzhaoe-000G.xml</fr:route>
+            <fr:title text="On bealuwara weorc">On <fr:em><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">bealuwara weorc</html:span></fr:em></fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2022</fr:year>
+              <fr:month>12</fr:month>
+              <fr:day>1</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>In lines 78-80a of the "<fr:link type="local" href="dreamoftherood.xml" addr="dreamoftherood" title="Dream of the Rood">Dream of the Rood</fr:link>":</fr:p>
+            <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+              <fr:blockquote>Nu ðu miht gehyran, hæleð min se leofa, 
   <html:br />
 
   þæt ic bealuwara weorc gebiden hæbbe, 
   <html:br />
 
-  sarra sorga.</fr:blockquote></html:span>
-
-<fr:p>Roughly modernised, the Cross speaks:</fr:p><fr:blockquote>Now you may hear, my dear warrior, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  sarra sorga.</fr:blockquote>
+            </html:span>
+            <fr:p>Roughly modernised, the Cross speaks:</fr:p>
+            <fr:blockquote>Now you may hear, my dear warrior, 
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   that I have endured the works of wicked men, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
-  grevious sorrows.</fr:blockquote><fr:p>Here, the neuter acc. <fr:em><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ang">weorc</html:span></fr:em> is roughly Mdn.E. "work", and <fr:em><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ang">bealuwara</html:span></fr:em><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">This is perhaps the pl. gen. of an unrecorded <fr:em><html:span
-lang="ang">*bealuware</html:span></fr:em>, compounding <fr:em><html:span
-lang="ang">bealu</html:span></fr:em> ("baleful", "wicked") and <fr:em><html:span
-lang="ang">ware</html:span></fr:em> ("inhabitant").</html:span></html:span>
- has been translated variously as "miscreants", "wicked men". <fr:link
-type="local"
-href="bosworth-toller-anglo-saxon-dictionary.xml"
-addr="bosworth-toller-anglo-saxon-dictionary"
-title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> <fr:link
-type="external"
-href="https://bosworthtoller.com/3140">gives</fr:link> "baleful inhabitants", "criminals". But <fr:link
-type="local"
-href="britton-1967.xml"
-addr="britton-1967"
-title="&quot;Bealuwara Weorc&quot; in the &quot;Dream of the Rood&quot;">apparently</fr:link> this bit has caused philologists some trouble.</fr:p><fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon") but also seems to echo <fr:em><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ang">bealu-wearg</html:span></fr:em> ("outlaw", "wolf") or <fr:em><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-lang="ang">bealu-broga</html:span></fr:em> ("monster", "terror").</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+  grevious sorrows.</fr:blockquote>
+            <fr:p>Here, the neuter acc. <fr:em><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">weorc</html:span></fr:em> is roughly Mdn.E. "work", and <fr:em><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">bealuwara</html:span></fr:em><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is perhaps the pl. gen. of an unrecorded <fr:em><html:span lang="ang">*bealuware</html:span></fr:em>, compounding <fr:em><html:span lang="ang">bealu</html:span></fr:em> ("baleful", "wicked") and <fr:em><html:span lang="ang">ware</html:span></fr:em> ("inhabitant").</html:span></html:span></html:span> has been translated variously as "miscreants", "wicked men". <fr:link type="local" href="bosworth-toller-anglo-saxon-dictionary.xml" addr="bosworth-toller-anglo-saxon-dictionary" title="Bosworth Toller's Anglo-Saxon Dictionary">Bosworth Toller's</fr:link> <fr:link type="external" href="https://bosworthtoller.com/3140">gives</fr:link> "baleful inhabitants", "criminals". But <fr:link type="local" href="britton-1967.xml" addr="britton-1967" title="&quot;Bealuwara Weorc&quot; in the &quot;Dream of the Rood&quot;">apparently</fr:link> this bit has caused philologists some trouble.</fr:p>
+            <fr:p>Interestingly, it's tempting to compare also "Balrog", which in Sindarin comes from <fr:em>BAL</fr:em> ("power") + <fr:em>raug/rog</fr:em> ("demon") but also seems to echo <fr:em><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">bealu-wearg</html:span></fr:em> ("outlaw", "wolf") or <fr:em><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">bealu-broga</html:span></fr:em> ("monster", "terror").</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

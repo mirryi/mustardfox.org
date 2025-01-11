@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1088</fr:anchor><fr:addr
-type="user">christophertolkien</fr:addr><fr:route>christophertolkien.xml</fr:route><fr:title
-text="Christopher Tolkien">Christopher Tolkien</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1089</fr:anchor><fr:addr
-type="user">tolkien-the-silmarillion</fr:addr><fr:route>tolkien-the-silmarillion.xml</fr:route><fr:title
-text="The Silmarillion">The Silmarillion</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="jrrtolkien.xml"
-addr="jrrtolkien"
-title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="christophertolkien.xml"
-addr="christophertolkien"
-title="Christopher Tolkien">Christopher Tolkien</fr:link></fr:author></fr:authors><fr:meta
-name="isbn">978-0-04-823139-0</fr:meta><fr:meta
-name="bibtex"><![CDATA[@book{tolkien_1977,
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1624</fr:anchor>
+    <fr:addr type="user">christophertolkien</fr:addr>
+    <fr:route>christophertolkien.xml</fr:route>
+    <fr:title text="Christopher Tolkien">Christopher Tolkien</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1625</fr:anchor>
+            <fr:addr type="user">tolkien-the-silmarillion</fr:addr>
+            <fr:route>tolkien-the-silmarillion.xml</fr:route>
+            <fr:title text="The Silmarillion">The Silmarillion</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1977</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="christophertolkien.xml" addr="christophertolkien" title="Christopher Tolkien">Christopher Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="isbn">978-0-04-823139-0</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@book{tolkien_1977,
   location = {London u.a.},
   title = {The Silmarillion},
   isbn = {978-0-04-823139-0},
@@ -45,4 +45,13 @@ name="bibtex"><![CDATA[@book{tolkien_1977,
   author = {Tolkien, John R. R. and Tolkien, Christopher},
   date = {1977},
   note = {{OCLC}: 630802801},
-}]]></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

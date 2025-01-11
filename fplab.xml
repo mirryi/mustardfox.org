@@ -1,146 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1287</fr:anchor><fr:addr
-type="user">fplab</fr:addr><fr:route>fplab.xml</fr:route><fr:title
-text="Future of Programming Lab">Future of Programming Lab</fr:title><fr:taxon>Organization</fr:taxon><fr:authors /><fr:meta
-name="homepage">http://fplab.mplse.org</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>FP Lab at the <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link> designs next-generation user interfaces for modern programming languages. Our research runs the methodological gamut, ranging from type-theoretic foundations through to human-centered design. We are particularly interested in applications to computer science education, accessibility, computational and data science, formal verification, and computational creativity.</fr:blockquote></fr:mainmatter><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1288</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
-type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
-type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
-type="local"
-href="zzhaoe-000S.xml"
-addr="zzhaoe-000S"
-title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
-type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
-type="local"
-href="jlc.xml"
-addr="jlc"
-title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1879</fr:anchor>
+    <fr:addr type="user">fplab</fr:addr>
+    <fr:route>fplab.xml</fr:route>
+    <fr:title text="Future of Programming Lab">Future of Programming Lab</fr:title>
+    <fr:taxon>Organization</fr:taxon>
+    <fr:authors />
+    <fr:meta name="homepage">http://fplab.mplse.org</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:blockquote>FP Lab at the <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link> designs next-generation user interfaces for modern programming languages. Our research runs the methodological gamut, ranging from type-theoretic foundations through to human-centered design. We are particularly interested in applications to computer science education, accessibility, computational and data science, formal verification, and computational creativity.</fr:blockquote>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1880</fr:anchor>
+            <fr:addr type="user">zzhaoe-0001</fr:addr>
+            <fr:route>zzhaoe-0001.xml</fr:route>
+            <fr:title text="About">About</fr:title>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>10</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>, advised by <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link type="local" href="robertlewis.xml" addr="robertlewis" title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link type="local" href="zzhaoe-000S.xml" addr="zzhaoe-000S" title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link type="local" href="fplab.xml" addr="fplab" title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link type="local" href="jlc.xml" addr="jlc" title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
   
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
-type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
-
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>810</fr:anchor><fr:addr type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:title text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p><html:table xmlns:html="http://www.w3.org/1999/xhtml">
+      <html:tr>
+        <html:td><fr:strong>email:</fr:strong></html:td>
+        <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>github:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://github.com/mirryi">mirryi</fr:link></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>orcid:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>lt:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>lt:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
       </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1289</fr:anchor><fr:addr
-type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
-text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="homepage">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+    </html:table></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1881</fr:anchor>
+            <fr:addr type="user">umich</fr:addr>
+            <fr:route>umich.xml</fr:route>
+            <fr:title text="The University of Michigan">The University of Michigan</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:authors />
+            <fr:meta name="homepage">https://umich.edu</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

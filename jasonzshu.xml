@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1954</fr:anchor>
+    <fr:addr type="user">jasonzshu</fr:addr>
+    <fr:route>jasonzshu.xml</fr:route>
+    <fr:title text="Jason Z. S. Hu">Jason Z. S. Hu</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1955</fr:anchor>
+            <fr:addr type="user">hu-pientka-2025</fr:addr>
+            <fr:route>hu-pientka-2025.xml</fr:route>
+            <fr:title text="A Dependent Type Theory for Meta-programming with Intensional Analysis">A Dependent Type Theory for Meta-programming with Intensional Analysis</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jasonzshu.xml" addr="jasonzshu" title="Jason Z. S. Hu">Jason Z. S. Hu</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="brigittepientka.xml" addr="brigittepientka" title="Brigitte Pientka">Brigitte Pientka</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1007/978-3-031-57262-3_3</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1958</fr:anchor>
+            <fr:addr type="user">hu-pientka-2024</fr:addr>
+            <fr:route>hu-pientka-2024.xml</fr:route>
+            <fr:title text="A Layered Approach to Intensional Analysis in Type Theory">A Layered Approach to Intensional Analysis in Type Theory</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jasonzshu.xml" addr="jasonzshu" title="Jason Z. S. Hu">Jason Z. S. Hu</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="brigittepientka.xml" addr="brigittepientka" title="Brigitte Pientka">Brigitte Pientka</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1145/3707203</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

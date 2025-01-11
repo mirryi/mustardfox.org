@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>512</fr:anchor>
+    <fr:addr type="user">zzhaoe-002M</fr:addr>
+    <fr:route>zzhaoe-002M.xml</fr:route>
+    <fr:title text="頭字説明">
+      <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">頭字説明</html:span>
+    </fr:title>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>1</fr:month>
+      <fr:day>16</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>My work-in-progress list of rather awful <fr:link type="local" href="zzhaoe-002L.xml" addr="zzhaoe-002L" title="頭字説明ゲーム">descriptions</fr:link>...</fr:p>
+    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">
+      <fr:p>
+        <html:table>
+    <html:tr>
+      <html:th>言葉</html:th>
+      <html:th>読み方</html:th>
+      <html:th>説明</html:th>
+      <html:th><fr:link type="local" href="zzhaoe-002P.xml" addr="zzhaoe-002P" title="頭字説明ゲーム › バリエーション">級</fr:link></html:th>
+      </html:tr>
+
+    <html:tr>
+    <html:td>昨日</html:td>
+    <html:td>きのう</html:td>
+    <html:td>記憶・の・後ろ</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>賞</html:td>
+    <html:td>しょう</html:td>
+    <html:td>勝負・得る</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>冬</html:td>
+    <html:td>ふゆ</html:td>
+    <html:td>ふわふわ・雪</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>休み</html:td>
+    <html:td>やすみ</html:td>
+    <html:td>やっと・吸える・水</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>走る</html:td>
+    <html:td>はしる</html:td>
+    <html:td>早く・進む・労</html:td>
+    <html:td>二</html:td>
+    </html:tr>
+
+  </html:table>
+      </fr:p>
+    </html:span>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>514</fr:anchor>
+            <fr:addr type="user">zzhaoe-002K</fr:addr>
+            <fr:route>zzhaoe-002K.xml</fr:route>
+            <fr:title text="A Japanese Acronymy">A Japanese Acronymy</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>16</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>I recently came across David Renshaw's <fr:link type="external" href="https://acronymy.net/">Acronymy</fr:link>, which is just brilliant. Now, I wonder what the task would be like in Japanese.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Maybe I'll build a <fr:code>toujigoy.net</fr:code> at some point.</html:span></html:span></html:span></fr:p>
+            <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>504</fr:anchor>
+                <fr:addr type="user">zzhaoe-002L</fr:addr>
+                <fr:route>zzhaoe-002L.xml</fr:route>
+                <fr:title text="頭字説明ゲーム">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">頭字説明ゲーム</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Given a word, the objective is to describe the word as an acronym. The trouble is, "acronym" isn't really a well-defined notion in Japanese. Let's take some examples (more <fr:link type="local" href="zzhaoe-002M.xml" addr="zzhaoe-002M" title="頭字説明">here</fr:link>).</fr:p>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>496</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002N</fr:addr>
+                    <fr:route>zzhaoe-002N.xml</fr:route>
+                    <fr:title text="基本">
+                      <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">基本</html:span>
+                    </fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>16</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>Take <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">冬</html:span> with its reading <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ふゆ」</html:span>: the goal is a construct a sequence of two words whose readings start with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゆ</html:span>, respectively. One might raise, for instance, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ふわふわ・雪」</html:span> as an apt descriptor. To <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">休み</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「やすみ」</html:span>, one might answer <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「やっと・吸える・水」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is a terrible answer; someone please come up with a better one. But anyways it probably has to get pretty metaphorical.</html:span></html:span></html:span> In other words, each kana in the reading is used as the start of the next word. Of course, using the word itself is disallowed.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or the same character at the start of a jukugo, and so on—use common sense in the spirit of the game.</html:span></html:span></html:span></fr:p>
+                    <fr:p>Jukugo with multiple readings are considered separately; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">人気</html:span> as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「にんき」</html:span> and as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ひとけ」</html:span> are different. But what about that <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span>, huh?</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>498</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002O</fr:addr>
+                    <fr:route>zzhaoe-002O.xml</fr:route>
+                    <fr:title text="撥音、促音、拗音、、、">
+                      <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">撥音、促音、拗音、、、</html:span>
+                    </fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>16</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>For <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span>, it seems reasonable to just say that the word may begin with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">な</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">に</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ぬ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ね</html:span>, or <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">の</html:span>;<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or any of their katakana equivalents.</html:span></html:span></html:span> I don't see any way around it. For small <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">っ</html:span>, the word need only begin with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">つ</html:span>. Small <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゃ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゅ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ょ</html:span>, and other small kana (such as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ェ</html:span> in <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">シェア</html:span>) are grouped with their antecedent, <fr:em>e.g.</fr:em>, for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">賞</html:span>—that is, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「しょう」</html:span>—the description must be two words that start with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">しょ</html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">う</html:span>, say, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「勝負・得る」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is likely too hard for words like <html:span lang="ja">シェア</html:span>; for these it's reasonable to consider them individually.</html:span></html:span></html:span></fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>500</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002P</fr:addr>
+                    <fr:route>zzhaoe-002P.xml</fr:route>
+                    <fr:title text="バリエーション">
+                      <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">バリエーション</html:span>
+                    </fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>16</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>To make the game much easier (or maybe just possible), we can extend the rule for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span> to all non-small kana, <fr:em>i.e.</fr:em>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">走る</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「はしる」</html:span>, is described by a triple of words starting with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">は</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ひ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span>, and so on; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">さ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">し</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">す</html:span>, and so on; and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ら</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">り</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">る</html:span>, and so on—say <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「早く・進む・労」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Call these <html:span lang="ja">二級頭字説明</html:span>, as opposed to those of the <html:span lang="ja">一級</html:span> sort.</html:span></html:span></html:span></fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>506</fr:anchor>
+                <fr:addr type="user">zzhaoe-002M</fr:addr>
+                <fr:route>zzhaoe-002M.xml</fr:route>
+                <fr:title text="頭字説明">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">頭字説明</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>My work-in-progress list of rather awful <fr:link type="local" href="zzhaoe-002L.xml" addr="zzhaoe-002L" title="頭字説明ゲーム">descriptions</fr:link>...</fr:p>
+                <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">
+                  <fr:p>
+                    <html:table>
+    <html:tr>
+      <html:th>言葉</html:th>
+      <html:th>読み方</html:th>
+      <html:th>説明</html:th>
+      <html:th><fr:link type="local" href="zzhaoe-002P.xml" addr="zzhaoe-002P" title="頭字説明ゲーム › バリエーション">級</fr:link></html:th>
+      </html:tr>
+
+    <html:tr>
+    <html:td>昨日</html:td>
+    <html:td>きのう</html:td>
+    <html:td>記憶・の・後ろ</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>賞</html:td>
+    <html:td>しょう</html:td>
+    <html:td>勝負・得る</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>冬</html:td>
+    <html:td>ふゆ</html:td>
+    <html:td>ふわふわ・雪</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>休み</html:td>
+    <html:td>やすみ</html:td>
+    <html:td>やっと・吸える・水</html:td>
+    <html:td>一</html:td>
+    </html:tr>
+
+    <html:tr>
+    <html:td>走る</html:td>
+    <html:td>はしる</html:td>
+    <html:td>早く・進む・労</html:td>
+    <html:td>二</html:td>
+    </html:tr>
+
+  </html:table>
+                  </fr:p>
+                </html:span>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>516</fr:anchor>
+            <fr:addr type="user">zzhaoe-002L</fr:addr>
+            <fr:route>zzhaoe-002L.xml</fr:route>
+            <fr:title text="頭字説明ゲーム">
+              <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">頭字説明ゲーム</html:span>
+            </fr:title>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>16</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Given a word, the objective is to describe the word as an acronym. The trouble is, "acronym" isn't really a well-defined notion in Japanese. Let's take some examples (more <fr:link type="local" href="zzhaoe-002M.xml" addr="zzhaoe-002M" title="頭字説明">here</fr:link>).</fr:p>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>496</fr:anchor>
+                <fr:addr type="user">zzhaoe-002N</fr:addr>
+                <fr:route>zzhaoe-002N.xml</fr:route>
+                <fr:title text="基本">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">基本</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Take <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">冬</html:span> with its reading <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ふゆ」</html:span>: the goal is a construct a sequence of two words whose readings start with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゆ</html:span>, respectively. One might raise, for instance, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ふわふわ・雪」</html:span> as an apt descriptor. To <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">休み</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「やすみ」</html:span>, one might answer <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「やっと・吸える・水」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is a terrible answer; someone please come up with a better one. But anyways it probably has to get pretty metaphorical.</html:span></html:span></html:span> In other words, each kana in the reading is used as the start of the next word. Of course, using the word itself is disallowed.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or the same character at the start of a jukugo, and so on—use common sense in the spirit of the game.</html:span></html:span></html:span></fr:p>
+                <fr:p>Jukugo with multiple readings are considered separately; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">人気</html:span> as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「にんき」</html:span> and as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ひとけ」</html:span> are different. But what about that <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span>, huh?</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>498</fr:anchor>
+                <fr:addr type="user">zzhaoe-002O</fr:addr>
+                <fr:route>zzhaoe-002O.xml</fr:route>
+                <fr:title text="撥音、促音、拗音、、、">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">撥音、促音、拗音、、、</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>For <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span>, it seems reasonable to just say that the word may begin with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">な</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">に</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ぬ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ね</html:span>, or <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">の</html:span>;<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or any of their katakana equivalents.</html:span></html:span></html:span> I don't see any way around it. For small <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">っ</html:span>, the word need only begin with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">つ</html:span>. Small <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゃ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゅ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ょ</html:span>, and other small kana (such as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ェ</html:span> in <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">シェア</html:span>) are grouped with their antecedent, <fr:em>e.g.</fr:em>, for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">賞</html:span>—that is, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「しょう」</html:span>—the description must be two words that start with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">しょ</html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">う</html:span>, say, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「勝負・得る」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is likely too hard for words like <html:span lang="ja">シェア</html:span>; for these it's reasonable to consider them individually.</html:span></html:span></html:span></fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>500</fr:anchor>
+                <fr:addr type="user">zzhaoe-002P</fr:addr>
+                <fr:route>zzhaoe-002P.xml</fr:route>
+                <fr:title text="バリエーション">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">バリエーション</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>To make the game much easier (or maybe just possible), we can extend the rule for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span> to all non-small kana, <fr:em>i.e.</fr:em>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">走る</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「はしる」</html:span>, is described by a triple of words starting with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">は</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ひ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span>, and so on; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">さ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">し</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">す</html:span>, and so on; and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ら</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">り</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">る</html:span>, and so on—say <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「早く・進む・労」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Call these <html:span lang="ja">二級頭字説明</html:span>, as opposed to those of the <html:span lang="ja">一級</html:span> sort.</html:span></html:span></html:span></fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>518</fr:anchor>
+            <fr:addr type="user">zzhaoe-002L</fr:addr>
+            <fr:route>zzhaoe-002L.xml</fr:route>
+            <fr:title text="頭字説明ゲーム">
+              <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">頭字説明ゲーム</html:span>
+            </fr:title>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>16</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Given a word, the objective is to describe the word as an acronym. The trouble is, "acronym" isn't really a well-defined notion in Japanese. Let's take some examples (more <fr:link type="local" href="zzhaoe-002M.xml" addr="zzhaoe-002M" title="頭字説明">here</fr:link>).</fr:p>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>496</fr:anchor>
+                <fr:addr type="user">zzhaoe-002N</fr:addr>
+                <fr:route>zzhaoe-002N.xml</fr:route>
+                <fr:title text="基本">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">基本</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Take <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">冬</html:span> with its reading <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ふゆ」</html:span>: the goal is a construct a sequence of two words whose readings start with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゆ</html:span>, respectively. One might raise, for instance, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ふわふわ・雪」</html:span> as an apt descriptor. To <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">休み</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「やすみ」</html:span>, one might answer <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「やっと・吸える・水」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is a terrible answer; someone please come up with a better one. But anyways it probably has to get pretty metaphorical.</html:span></html:span></html:span> In other words, each kana in the reading is used as the start of the next word. Of course, using the word itself is disallowed.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or the same character at the start of a jukugo, and so on—use common sense in the spirit of the game.</html:span></html:span></html:span></fr:p>
+                <fr:p>Jukugo with multiple readings are considered separately; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">人気</html:span> as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「にんき」</html:span> and as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「ひとけ」</html:span> are different. But what about that <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span>, huh?</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>498</fr:anchor>
+                <fr:addr type="user">zzhaoe-002O</fr:addr>
+                <fr:route>zzhaoe-002O.xml</fr:route>
+                <fr:title text="撥音、促音、拗音、、、">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">撥音、促音、拗音、、、</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>For <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span>, it seems reasonable to just say that the word may begin with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">な</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">に</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ぬ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ね</html:span>, or <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">の</html:span>;<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or any of their katakana equivalents.</html:span></html:span></html:span> I don't see any way around it. For small <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">っ</html:span>, the word need only begin with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">つ</html:span>. Small <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゃ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ゅ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ょ</html:span>, and other small kana (such as <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ェ</html:span> in <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">シェア</html:span>) are grouped with their antecedent, <fr:em>e.g.</fr:em>, for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">賞</html:span>—that is, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「しょう」</html:span>—the description must be two words that start with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">しょ</html:span> and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">う</html:span>, say, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「勝負・得る」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">This is likely too hard for words like <html:span lang="ja">シェア</html:span>; for these it's reasonable to consider them individually.</html:span></html:span></html:span></fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>500</fr:anchor>
+                <fr:addr type="user">zzhaoe-002P</fr:addr>
+                <fr:route>zzhaoe-002P.xml</fr:route>
+                <fr:title text="バリエーション">
+                  <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">バリエーション</html:span>
+                </fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>16</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>To make the game much easier (or maybe just possible), we can extend the rule for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span> to all non-small kana, <fr:em>i.e.</fr:em>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">走る</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「はしる」</html:span>, is described by a triple of words starting with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">は</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ひ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span>, and so on; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">さ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">し</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">す</html:span>, and so on; and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ら</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">り</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">る</html:span>, and so on—say <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「早く・進む・労」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Call these <html:span lang="ja">二級頭字説明</html:span>, as opposed to those of the <html:span lang="ja">一級</html:span> sort.</html:span></html:span></html:span></fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>520</fr:anchor>
+            <fr:addr type="user">zzhaoe-002P</fr:addr>
+            <fr:route>zzhaoe-002P.xml</fr:route>
+            <fr:title text="頭字説明ゲーム › バリエーション"><fr:link type="local" href="zzhaoe-002L.xml" addr="zzhaoe-002L" title="頭字説明ゲーム"><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">頭字説明ゲーム</html:span></fr:link> › <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">バリエーション</html:span></fr:title>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>16</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>To make the game much easier (or maybe just possible), we can extend the rule for <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ん</html:span> to all non-small kana, <fr:em>i.e.</fr:em>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">走る</html:span>, read <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「はしる」</html:span>, is described by a triple of words starting with <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">は</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ひ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ふ</html:span>, and so on; <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">さ</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">し</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">す</html:span>, and so on; and <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">ら</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">り</html:span>, <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">る</html:span>, and so on—say <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ja">「早く・進む・労」</html:span>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Call these <html:span lang="ja">二級頭字説明</html:span>, as opposed to those of the <html:span lang="ja">一級</html:span> sort.</html:span></html:span></html:span></fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1882</fr:anchor>
+    <fr:addr type="user">fyodordostoyevsky</fr:addr>
+    <fr:route>fyodordostoyevsky.xml</fr:route>
+    <fr:title text="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1883</fr:anchor>
+            <fr:addr type="user">dostoyevsky-crime-and-punishment</fr:addr>
+            <fr:route>dostoyevsky-crime-and-punishment.xml</fr:route>
+            <fr:title text="Crime and Punishment">Crime and Punishment</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1993</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>1867</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="fyodordostoyevsky.xml" addr="fyodordostoyevsky" title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="isbn">978-0-679-73450-5</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1885</fr:anchor>
+            <fr:addr type="user">zzhaoe-0030</fr:addr>
+            <fr:route>zzhaoe-0030.xml</fr:route>
+            <fr:title text="Dostoyevsky describes the PhD">Dostoyevsky describes the PhD</fr:title>
+            <fr:taxon>Quote</fr:taxon>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="fyodordostoyevsky.xml" addr="fyodordostoyevsky" title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="original">
+              <fr:link type="local" href="dostoyevsky-crime-and-punishment.xml" addr="dostoyevsky-crime-and-punishment" title="Crime and Punishment">
+                <fr:em>Crime and Punishment</fr:em>
+              </fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+  
+    
+    <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>964</fr:anchor><fr:addr type="machine">#250</fr:addr><fr:route>unstable-250.xml</fr:route><fr:title text="Spoiler">Spoiler</fr:title><fr:taxon>Warning</fr:taxon><fr:authors><fr:author><fr:link type="local" href="fyodordostoyevsky.xml" addr="fyodordostoyevsky" title="Fyodor Dostoyevsky">Fyodor Dostoyevsky</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:link type="local" href="dostoyevsky-crime-and-punishment.xml" addr="dostoyevsky-crime-and-punishment" title="Crime and Punishment"><fr:em>Crime and Punishment</fr:em></fr:link>.</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+<fr:p>In chapter ii of the epilogue:
+
+  <fr:blockquote>Vague and objectless anxiety in the present, and in the future a continual sacrifice leading to nothing—that was all that lay before him. And what comfort was it to him that at the end of eight years he would only be thirty‐two and able to begin a new life! What had he to live for? What had he to look forward to? Why should he strive? To live in order to exist? Why, he had been ready a thousand times before to give up existence for the sake of an idea, for a hope, even for a fancy. Mere existence had always been too little for him; he had always wanted more. Perhaps it was just because of the strength of his desires that he had thought himself a man to whom more was permissible than to others.</fr:blockquote></fr:p></fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

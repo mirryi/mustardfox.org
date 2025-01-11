@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1514</fr:anchor>
+    <fr:addr type="user">alfredtennyson</fr:addr>
+    <fr:route>alfredtennyson.xml</fr:route>
+    <fr:title text="Alfred Tennyson">Alfred Tennyson</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1515</fr:anchor>
+            <fr:addr type="user">zzhaoe-002E</fr:addr>
+            <fr:route>zzhaoe-002E.xml</fr:route>
+            <fr:title text="Poorly modernising &quot;The Battle of Brunanburh&quot;">Poorly modernising "The Battle of Brunanburh"</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>10</fr:month>
+              <fr:day>20</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Since ceasing to <fr:link type="local" href="zzhaoe-002D.xml" addr="zzhaoe-002D" title="The illusory middle landscape">return again and again to Skyrim</fr:link>, I have found that I return again and again to a desire to study Anglo-Saxon, for which I had taken a class a couple of years ago as a sophomore at <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">Michigan</fr:link>. There were five or six of us enrolled,<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Mostly, from what I recall, seniors in the German department; though this is probably really inaccurate. But the best student seemed to be a Middle-Eastern studies fellow.</html:span></html:span></html:span> though on a typical day only three or four might show up to class, which centered mostly around reading and modernising texts in Moore and Knott's <fr:link type="local" href="moore-knott-the-elements-of-old-english.xml" addr="moore-knott-the-elements-of-old-english" title="The Elements of Old English, 10th ed."><fr:em>The Elements of Old English</fr:em></fr:link>, 10th ed. There was some discussion of sound changes which I've entirely forgotten. It was sometimes a slog, sometimes great fun, and anyways it has been difficult to keep up since then, however much I would like. In recent weeks I've been slowly working through <fr:em><fr:link type="local" href="evans-an-introduction-to-old-english.xml" addr="evans-an-introduction-to-old-english" title="An Introduction to Old English">An Introduction to Old English</fr:link></fr:em>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">The power of the interlibrary loan is not to be understated.</html:span></html:span></html:span> It's proven to be, in many ways, substantially more digestible.</fr:p>
+            <fr:p>I could complain much about the textbooks and the other resources, but probably, at the end of the day, I just don't practice it enough. So here's to more practice,<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">And to work these sidenotes to the limit.</html:span></html:span></html:span> by glossing and modernising the famous "The Battle of Brunanburh", the only poem I've worked through in its entirety in the past. The text is the <fr:link type="external" href="https://oepoetryfacsimile.org/?document=8412">edition</fr:link> in the <fr:link type="local" href="foys-oepf3.xml" addr="foys-oepf3" title="Old English Poetry in Facsimile 3.0">OEPF</fr:link>, edited by <fr:link type="local" href="martinfoys.xml" addr="martinfoys" title="Martin Foys">Martin Foys</fr:link>. I suppose I can compare with <fr:link type="local" href="alfredtennyson.xml" addr="alfredtennyson" title="Alfred Tennyson">Tennyson</fr:link>'s afterwards.</fr:p>
+            <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>569</fr:anchor>
+                <fr:addr type="user">zzhaoe-002F</fr:addr>
+                <fr:route>zzhaoe-002F.xml</fr:route>
+                <fr:title text="A somewhat and poorly glossed &quot;The Battle of Brunanburh&quot;">A somewhat and poorly glossed "The Battle of Brunanburh"</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>11</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Parts I don't yet know how to gloss are left as '...'; they'll get filled in as time goes on...<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Probably.</html:span></html:span></html:span></fr:p>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>352</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002G</fr:addr>
+                    <fr:route>zzhaoe-002G.xml</fr:route>
+                    <fr:title text="Lines 1–5a">Lines 1–5a</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Her</html:span><html:span class="sidenote-number" /><html:span class="sidenote">adv. which can mean 'here', but in this case is probably closer to 'in this year'.</html:span></html:span></html:span>
+      Æþelstan <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">cyning</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">nom. sg. masc. n. <fr:em><html:span lang="ang">cyning</html:span></fr:em>, 'king'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">eorla dryhten</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">gen. pl. masc. n. <fr:em><html:span lang="ang">eorl</html:span></fr:em>, 'earl'. nom. sg. masc. n. <fr:em><html:span lang="ang">dryhten</html:span></fr:em>, 'lord'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">beorna beahgifa</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">gen. pl. masc. n. <fr:em><html:span lang="ang">beorn</html:span></fr:em>, 'warrior' (poet.). nom. sg. masc. n. <fr:em><html:span lang="ang">bēahgifa</html:span></fr:em>, 'ring-giver'; <fr:em><html:span lang="ang">bēah</html:span></fr:em> + <fr:em><html:span lang="ang">gifa</html:span></fr:em>.</html:span></html:span></html:span>
+           and <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">his broþor</html:span><html:span class="sidenote-number" /><html:span class="sidenote">3 gen. sg. masc. pron., 'his'. nom. sg. masc. n. <fr:em><html:span lang="ang">brōþor</html:span></fr:em>, 'brother'.</html:span></html:span></html:span>
+           eac, 
+  <html:br />
+
+    Eadmund <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">æþeling</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">nom. sg. masc. n. <fr:em><html:span lang="ang">æþeling</html:span></fr:em>, 'noble'; <fr:em><html:span lang="ang">æþel</html:span></fr:em> + <fr:em><html:span lang="ang">ing</html:span></fr:em> (dim. suf.).</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">ealdorlangne tir</html:span><html:span class="sidenote-number" /><html:span class="sidenote">acc. sg. masc. adj. <fr:em><html:span lang="ang">ealdorlang</html:span></fr:em>, 'life-long'; <fr:em><html:span lang="ang">ealdor</html:span></fr:em> + <fr:em><html:span lang="ang">lang</html:span></fr:em>; mod. <fr:em><html:span lang="ang">tir</html:span></fr:em>. acc. s.g masc. n. <fr:em><html:span lang="ang">tīr</html:span></fr:em>, 'glory'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">geslogon</html:span><html:span class="sidenote-number" /><html:span class="sidenote">...</html:span></html:span></html:span>
+      æt <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">sæcce</html:span><html:span class="sidenote-number" /><html:span class="sidenote">dat. sg. fem. n. <fr:em><html:span lang="ang">sæc</html:span></fr:em>, 'conflict'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">sweorda ecgum</html:span><html:span class="sidenote-number" /><html:span class="sidenote">gen. pl. neut. n. <fr:em><html:span lang="ang">sweord</html:span></fr:em>, 'sword'. ins. pl. fem. n. <fr:em><html:span lang="ang">ecg</html:span></fr:em>, 'edge'.</html:span></html:span></html:span> 
+  <html:br />
+
+    ymbe Brunanburh.      <html:span class="dim">Bordweal clufan,</html:span> <fr:link type="local" href="zzhaoe-002H.xml" addr="zzhaoe-002H" title="Lines 5b–10a">›</fr:link></fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>354</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002H</fr:addr>
+                    <fr:route>zzhaoe-002H.xml</fr:route>
+                    <fr:title text="Lines 5b–10a">Lines 5b–10a</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>15</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><fr:link type="local" href="zzhaoe-002G.xml" addr="zzhaoe-002G" title="Lines 1–5a">‹</fr:link> <html:span class="dim">ymbe Brunanburh.</html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Bordweal</html:span><html:span class="sidenote-number" /><html:span class="sidenote">nom. sg. masc. n. <fr:em><html:span lang="ang">bordweal</html:span></fr:em>, 'shield-wall'; <fr:em><html:span lang="ang">bord</html:span></fr:em> + <fr:em><html:span lang="ang">weal</html:span></fr:em>.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">clufan</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">...</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">heowan</html:span><html:span class="sidenote-number" /><html:span class="sidenote">...</html:span></html:span></html:span>
+      <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">heaþolinde</html:span><html:span class="sidenote-number" /><html:span class="sidenote">acc. pl. fem. n. <fr:em><html:span lang="ang">heaþolind</html:span></fr:em>, 'linden war-shield'</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">hamora lafan</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">gen. pl. masc. n. <fr:em><html:span lang="ang">hamor</html:span></fr:em>, 'hammer'. ins.(?) pl. fem. n. <fr:em><html:span lang="ang">lāf</html:span></fr:em>, 'remains, legacy' (poet. usage). The phrase <fr:em><html:span lang="ang">hamora lafan</html:span></fr:em> refers to swords, which are made by hammers.</html:span></html:span></html:span> 
+  <html:br />
+
+        <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">afaran Eadweardes</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">3 pl. pret. ind. str. vi vb. <fr:em><html:span lang="ang">āfaran</html:span></fr:em>, 'to depart, march out'. gen. sg. masc. n. <fr:em><html:span lang="ang">Eadweard</html:span></fr:em>, 'Edward'; gen. of source(?).</html:span></html:span></html:span>
+           swa <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">him geæþele wæs</html:span><html:span class="sidenote-number" /><html:span class="sidenote">3 dat. pl. masc. pron. 'them'. .... 3 sg. pret. ind. anom. vb. <fr:em><html:span lang="ang">bēon</html:span></fr:em>, 'to be'.</html:span></html:span></html:span> 
+  <html:br />
+
+    from <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">cneomægum</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">dat. pl. masc. n. <fr:em><html:span lang="ang">*cnēomǣg</html:span></fr:em>, 'relation, kindred'; <fr:em><html:span lang="ang">cnēomǣgas</html:span></fr:em> is attested.</html:span></html:span></html:span>
+           þæt <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">hi æt campe</html:span><html:span class="sidenote-number" /><html:span class="sidenote">3 nom. pl. masc. pron. 'they'. prep. 'at'. dat. sg. masc. n. <fr:em><html:span lang="ang">camp</html:span></fr:em>, 'battle'.</html:span></html:span></html:span> oft 
+  <html:br />
+
+    wiþ <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">laþra gehwæne</html:span><html:span class="sidenote-number" /><html:span class="sidenote">...</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">land ealgodon</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">acc. sg. neut. n. <fr:em><html:span lang="ang">land</html:span></fr:em>, 'land'. 3 pl. pret. ind. wk. 2 vb. <fr:em><html:span lang="ang">ealgian</html:span></fr:em>, 'to defend'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">hord and hamas</html:span>.<html:span class="sidenote-number" /><html:span class="sidenote">acc. sg. masc. n. <fr:em><html:span lang="ang">hord</html:span></fr:em>, 'hoard'. conj. 'and'. acc. pl. masc. n. <fr:em>hām</fr:em>, 'home'.</html:span></html:span></html:span>
+           <html:span class="dim">Hettend crungun,</html:span> <fr:link type="local" href="zzhaoe-002J.xml" addr="zzhaoe-002J" title="Lines 10b–17a">›</fr:link> 
+  <html:br /></fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>356</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002J</fr:addr>
+                    <fr:route>zzhaoe-002J.xml</fr:route>
+                    <fr:title text="Lines 10b–17a">Lines 10b–17a</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>19</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><fr:link type="local" href="zzhaoe-002H.xml" addr="zzhaoe-002H" title="Lines 5b–10a">‹</fr:link> <html:span class="dim">hord and hamas.</html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Hettend crungun</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">nom. pl. masc. n. <fr:em><html:span lang="ang">hettend</html:span></fr:em> (str. <fr:em>nd</fr:em>-stem), 'enemy'. 3 pl. pret. ind. str. iiia vb. <fr:em><html:span lang="ang">cringan</html:span></fr:em>, 'fall, yield'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Sceotta leoda</html:span><html:span class="sidenote-number" /><html:span class="sidenote">gen. pl. masc. n. <fr:em><html:span lang="ang">Sceottas</html:span></fr:em> (str. <fr:em>n</fr:em>-stem), 'the Scots (the Irish)'; of <fr:em><html:span lang="ang">leoda</html:span></fr:em>. gen. pl. masc. n. <fr:em><html:span lang="ang">lēod</html:span></fr:em>, 'prince'; of <fr:em><html:span lang="ang">Hettend</html:span></fr:em>(?).</html:span></html:span></html:span>
+           and <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">scipflotan</html:span><html:span class="sidenote-number" /><html:span class="sidenote">nom. pl. wk. masc. n. <fr:em><html:span lang="ang">sċipflota</html:span></fr:em>, 'sailor'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">fæge feollan</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">nom. pl. masc. str. adj. <fr:em><html:span lang="ang">fǣġe</html:span></fr:em>, 'fey, doomed to die'. 3 pl. pret. ind. str. vii vb. <fr:em><html:span lang="ang">feallan</html:span></fr:em>, 'to fall'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">feld dennade</html:span><html:span class="sidenote-number" /><html:span class="sidenote">nom. sg. masc. n. <fr:em><html:span lang="ang">feld</html:span></fr:em>, 'field'. 3 sg. pret. ind. wk. 2 vb. <fr:em><html:span lang="ang">dennian</html:span></fr:em>, 'to become slippery'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">secga swate</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">gen. pl. masc. n. <fr:em><html:span lang="ang">seċġ</html:span></fr:em>, 'warrior' (poet. usage). dat.(?) sg. masc. <fr:em><html:span lang="ang">swāt</html:span></fr:em>, 'blood'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">siðþan sunne up</html:span><html:span class="sidenote-number" /><html:span class="sidenote">conj. 'since'. nom. sg. wk. fem. n. <fr:em><html:span lang="ang">sunne</html:span></fr:em>, 'sun'. adv. 'up'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">on morgentid</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">prep. w. acc., 'on, during'. acc. sg. fem. n. <fr:em><html:span lang="ang">morġentīd</html:span></fr:em>, 'morning-tide'; <fr:em><html:span lang="ang">morġen</html:span></fr:em> + <fr:em><html:span lang="ang">tīd</html:span></fr:em>.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">mære tungol</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">acc. sg. neut. str. adj. <fr:em><html:span lang="ang">mǣre</html:span></fr:em>, 'renowned'; of <fr:em>tungol</fr:em>. acc. sg. neut. n. <fr:em>tungol</fr:em>, 'heavenly body, star'; app. <fr:em><html:span lang="ang">sunne</html:span></fr:em>.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">glad ofer grundas</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">3 sg. pret. ind. str. i vb. <fr:em><html:span lang="ang">glīdan</html:span></fr:em>, 'to glide, slip'. prep. w. acc. indicating motion from above. acc. pl. masc. n. <fr:em><html:span lang="ang">grund</html:span></fr:em>, 'ground'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">godes condel beorht</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">gen. sg. masc. n. <fr:em><html:span lang="ang">gōd</html:span></fr:em>, 'God'. nom. sg. fem. n. <fr:em><html:span lang="ang">condel</html:span></fr:em>, 'candel'. nom. sg. fem. str. adj. <fr:em><html:span lang="ang">beorht</html:span></fr:em>, 'bright'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">eces drihtnes</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">gen. sg. masc. str. adj. <fr:em><html:span lang="ang">ēce</html:span></fr:em>, 'eternal, perpetual'. gen. sg. masc. n. <fr:em>drihten</fr:em>, 'lord'; of <fr:em><html:span lang="ang">godes</html:span></fr:em>.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">oð sio æþele gesceaft</html:span><html:span class="sidenote-number" /><html:span class="sidenote">conj. 'until'. nom. sg. fem. def. art. nom. sg. fem. wk. adj. <fr:em><html:span lang="ang">æþele</html:span></fr:em>, 'noble, eminent'. nom. sg. fem. n. <fr:em><html:span lang="ang">gesceaft</html:span></fr:em>, 'the creation'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">sah to setle</html:span>.<html:span class="sidenote-number" /><html:span class="sidenote">3 sg. pret. ind. str. i vb. <fr:em><html:span lang="ang">sīgan</html:span></fr:em>, 'to sink, fall'. prep. w. dat. 'to'. dat. sg. masc./neut. n. <fr:em><html:span lang="ang">setl</html:span></fr:em>, 'seat, residence'.</html:span></html:span></html:span>
+           <html:span class="dim">Þær læg secg mænig</html:span> <fr:link type="local" href="zzhaoe-002Q.xml" addr="zzhaoe-002Q" title="Lines 17b–20a">›</fr:link> 
+  <html:br /></fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>358</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002Q</fr:addr>
+                    <fr:route>zzhaoe-002Q.xml</fr:route>
+                    <fr:title text="Lines 17b–20a">Lines 17b–20a</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>20</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><fr:link type="local" href="zzhaoe-002J.xml" addr="zzhaoe-002J" title="Lines 10b–17a">‹</fr:link> <html:span class="dim">sah to setle</html:span>.
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Þær læg secg mænig</html:span><html:span class="sidenote-number" /><html:span class="sidenote">adv. 'there'. 3 sg. pret. ind. str. v vb. <fr:em><html:span lang="ang">liċġan</html:span></fr:em>, 'to lie'. nom. sg. masc. n. <fr:em><html:span lang="ang">seċġ</html:span></fr:em>, 'man' (poet.). adj. w. sg. n. 'many'; of <fr:em><html:span lang="ang">secg</html:span></fr:em>.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">garum ageted</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">ins. pl. masc. n. <fr:em><html:span lang="ang">gar</html:span></fr:em>, 'spear, arms'. pp. wk. 1 vb. <fr:em><html:span lang="ang">agetan</html:span></fr:em>, 'to destroy'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">guma norþerna</html:span><html:span class="sidenote-number" /><html:span class="sidenote">nom. sg. wk. masc. n. <fr:em><html:span lang="ang">guma</html:span></fr:em>, 'man'; of <fr:em><html:span lang="ang">secg mænig</html:span></fr:em>. nom. sg. mas. wk. adj. <fr:em><html:span lang="ang">norþerne</html:span></fr:em>, 'northern'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">ofer scild scoten</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">prep. w. acc. 'over'. acc. sg. masc. n. <fr:em><html:span lang="ang">sċild</html:span></fr:em>, 'shield'. pp. str. ii vb. <fr:em><html:span lang="ang">sċēotan</html:span></fr:em>, 'to shoot'; of <fr:em><html:span lang="ang">secg mænig</html:span></fr:em>, <fr:em><html:span lang="ang">guma</html:span></fr:em>.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">swilce Scittisc eac</html:span>,<html:span class="sidenote-number" /><html:span class="sidenote">adv. 'as, like'. nom. pl. masc. undecl.(?) adj. <fr:em><html:span lang="ang">Scittisc</html:span></fr:em>, 'Scottish (Irish)'. adv. 'also, too'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">werig, wiges sæd</html:span>.<html:span class="sidenote-number" /><html:span class="sidenote">nom. sg. masc. str. adj. <fr:em><html:span lang="ang">weriġ</html:span></fr:em>, 'weary, tired'. gen. sg. masc. n. <fr:em><html:span lang="ang">wīg</html:span></fr:em>, 'war, battle' (poet.). nom. sg. masc. str. adj. <fr:em><html:span lang="ang">sǣd</html:span></fr:em>, 'sated, weary'.</html:span></html:span></html:span>
+           <html:span class="dim">Wesseaxe forð</html:span> <fr:link type="local" href="zzhaoe-002R.xml" addr="zzhaoe-002R" title="Lines 20b–24a">›</fr:link> 
+  <html:br /></fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>360</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002R</fr:addr>
+                    <fr:route>zzhaoe-002R.xml</fr:route>
+                    <fr:title text="Lines 20b–24a">Lines 20b–24a</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>20</fr:day>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>3</fr:month>
+                      <fr:day>20</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><fr:link type="local" href="zzhaoe-002Q.xml" addr="zzhaoe-002Q" title="A somewhat and poorly glossed &quot;The Battle of Brunanburh&quot; › lines 17b–20a">‹</fr:link> <html:span class="dim">werig, wiges sæd.</html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Wesseaxe forð</html:span><html:span class="sidenote-number" /><html:span class="sidenote">dat. sg. masc. n. <fr:em><html:span lang="ang">Wesseaxe</html:span></fr:em>, 'Wessex'. adv. 'forth, thence'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">ondlongne dæg</html:span><html:span class="sidenote-number" /><html:span class="sidenote">acc. sg. neut. str. adj. <fr:em><html:span lang="ang">ondlong</html:span></fr:em>, 'all-along, throughout'. acc. sg. masc. n. <fr:em><html:span lang="ang">dæg</html:span></fr:em>, 'day'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">eorodcistum</html:span><html:span class="sidenote-number" /><html:span class="sidenote">dat. pl. fem. n. <fr:em><html:span lang="ang">ēorodcist</html:span></fr:em>, 'company, troop'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">on last legdun</html:span><html:span class="sidenote-number" /><html:span class="sidenote">prep. w. dat./ins. expressing .... dat.(?) sg. masc. n. <fr:em><html:span lang="ang">lāst</html:span></fr:em>, 'footstep, track'. 3 pl. pret. ind. wk. 1 vb. <fr:em><html:span lang="ang">leċġan</html:span></fr:em>, 'to slay'(?).</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">laþum þeodum</html:span><html:span class="sidenote-number" /><html:span class="sidenote">dat. pl. fem. adj. <fr:em><html:span lang="ang">lāþ</html:span></fr:em>, 'hateful, evil'. dat. pl. fem. n. <fr:em><html:span lang="ang">þeōd</html:span></fr:em>, 'nation, people'.</html:span></html:span></html:span>, 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">heowan herefleman</html:span><html:span class="sidenote-number" /><html:span class="sidenote">3 pl. pret. ind. str. vii vb. <fr:em><html:span lang="ang">hēawan</html:span></fr:em>, 'to strike, chop'. acc. pl. masc. n. <fr:em><html:span lang="ang">hereflēma</html:span></fr:em>, 'one who flees from battle'.</html:span></html:span></html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">hindan þearle</html:span><html:span class="sidenote-number" /><html:span class="sidenote">adv. 'from behind'. adv. 'severely, sorely'.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">mecum mylenscearpan</html:span>.<html:span class="sidenote-number" /><html:span class="sidenote">ins. pl. masc. n. <fr:em><html:span lang="ang">mēce</html:span></fr:em>, 'sword, falchion'. ins. pl. masc. adj. <fr:em><html:span lang="ang">mylenscearp</html:span></fr:em>, 'ground sharp'; str. decl. <fr:em><html:span lang="ang">mylenscearpum</html:span></fr:em> in some MS.</html:span></html:span></html:span>
+           <html:span class="dim">Myrce ne wyrndon</html:span> <fr:link type="local" href="zzhaoe-002Y.xml" addr="zzhaoe-002Y" title="A somewhat and poorly glossed &quot;The Battle of Brunanburh&quot; › lines 24b–28a">›</fr:link> 
+  <html:br /></fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>362</fr:anchor>
+                    <fr:addr type="user">zzhaoe-002Y</fr:addr>
+                    <fr:route>zzhaoe-002Y.xml</fr:route>
+                    <fr:title text="Lines 24b–28a">Lines 24b–28a</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>3</fr:month>
+                      <fr:day>20</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><fr:link type="local" href="zzhaoe-002R.xml" addr="zzhaoe-002R" title="Lines 20b–24a">‹</fr:link> <html:span class="dim">mecum mylenscearpan.</html:span>
+           <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">Myrce ne wyrndon</html:span><html:span class="sidenote-number" /><html:span class="sidenote">nom. pl. masc. n. <fr:em><html:span lang="ang">Myrce</html:span></fr:em>, 'The Mercians'. 3 pl. pret. ind. wk. 2 vb. <fr:em><html:span lang="ang">wyrnan</html:span></fr:em>, 'to keep from, refuse'; in this case w. gen. of what is prohibited.</html:span></html:span></html:span> 
+  <html:br />
+
+    <html:span lang="en"><html:span class="sidenote-box"><html:span class="sidenote-content">heardes hondplegan</html:span><html:span class="sidenote-number" /><html:span class="sidenote">gen. sg. masc. adj. <fr:em><html:span lang="ang">heard</html:span></fr:em>, 'hard, harsh'. gen. sg. masc. n. <fr:em><html:span lang="ang">honplega</html:span></fr:em>, 'hand-play'.</html:span></html:span></html:span>
+           hæleþa nanum 
+  <html:br />
+
+    þæra þe mid Anlafe
+           ofer æra gebland 
+  <html:br />
+
+    on lides bosme
+           land gesohtun, 
+  <html:br />
+
+    fæge to gefeohte.
+           Fife lægun 
+  <html:br /></fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>364</fr:anchor>
+                    <fr:addr type="machine">#251</fr:addr>
+                    <fr:route>unstable-251.xml</fr:route>
+                    <fr:title text="Lines 28b–73">Lines 28b–73</fr:title>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>1</fr:month>
+                      <fr:day>11</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="ang">
+                      <fr:p><fr:link type="local" href="zzhaoe-002U.xml" addr="zzhaoe-002U" title="Second-hand book sellers to avoid online › hard avoid">‹</fr:link> <html:span class="dim">fæge to gefeohte.</html:span>
+           Fife lægun 
+  <html:br />
+
+    on þam campstede
+           cyningas giunge, 
+  <html:br />
+
+    sweordum aswefede,      swilce seofene eac 
+  <html:br />
+
+    eorlas Anlafes,       unrim heriges, 
+  <html:br />
+
+    flotan and Sceotta.      Þær geflemed wearð 
+  <html:br />
+
+    Norðmanna bregu,      nede gebeded, 
+  <html:br />
+
+    to lides stefne      litle weorode; 
+  <html:br />
+
+    cread cnear on flot,      cyning ut gewat 
+  <html:br />
+
+    on fealene flod,      feorh generede. 
+  <html:br />
+
+    Swilce þær eac se froda      mid fleame com 
+  <html:br />
+
+    on his cyþþe norð,      Costontinus, 
+  <html:br />
+
+    har hildering,      hreman ne þorfte 
+  <html:br />
+
+    mæca gemanan;      he wæs his mæga sceard, 
+  <html:br />
+
+    freonda gefylled      on (his) folcstede, 
+  <html:br />
+
+    beslagen æt sæcce,      and his sunu forlet 
+  <html:br />
+
+    on wælstowe      wundun fergrunden, 
+  <html:br />
+
+    giungne æt guðe.      Gelpan ne þorfte 
+  <html:br />
+
+    beorn blandenfeax      bilgeslehtes, 
+  <html:br />
+
+    eald inwidda,      ne Anlaf þy ma; 
+  <html:br />
+
+    mid heora herelafum      hlehhan ne þorftun 
+  <html:br />
+
+    þæt heo beaduweorca      beteran wurdun 
+  <html:br />
+
+    on campstede      cumbolgehnastes, 
+  <html:br />
+
+    garmittinge,      gumena gemotes, 
+  <html:br />
+
+    wæpengewrixles,      þæs hi on wælfelda 
+  <html:br />
+
+    wiþ Eadweardes      afaran plegodan. 
+  <html:br />
+
+    Gewitan him þa Norþmen      nægledcnearrum, 
+  <html:br />
+
+    dreorig daraða laf,      on Dinges mere 
+  <html:br />
+
+    ofer deop wæter      Difelin secan, 
+  <html:br />
+
+    eft Iraland,      æwiscmode. 
+  <html:br />
+
+    Swilce þa gebroþer      begen ætsamne, 
+  <html:br />
+
+    cyning and æþeling,      cyþþe sohton, 
+  <html:br />
+
+    Wesseaxena land,      wiges hremige. 
+  <html:br />
+
+    Letan him behindan      hræw bryttian 
+  <html:br />
+
+    saluwigpadan,      (and) þone sweartan hræfn, 
+  <html:br />
+
+    hyrnednebban,      and þane hasewanpadan, 
+  <html:br />
+
+    earn æftan hwit,      æses brucan, 
+  <html:br />
+
+    græ-  -digne guðhafoc      and þæt græge deor, 
+  <html:br />
+
+    wulf on wealde.      Ne wearð wæl mare 
+  <html:br />
+
+    on þis eiglande      æfer gieta 
+  <html:br />
+
+    folces gefylled      beforan þissum 
+  <html:br />
+
+    sweordes ecgum,      þæs þe us secgað bec, 
+  <html:br />
+
+    ealde uðwitan,      siþþan eastan hider 
+  <html:br />
+
+    Engle and Seaxe      up becoman, 
+  <html:br />
+
+    ofer brad brimu      Brytene sohtan, 
+  <html:br />
+
+    wlance wigsmiþas,      Weala s ofercoman, 
+  <html:br />
+
+    eorlas arhwate      eard begeatan.</fr:p>
+                    </html:span>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

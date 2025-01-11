@@ -1,151 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>743</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
-text="Total Type Error Localization and Recovery with Holes › abstract"><fr:link
-type="local"
-href="zhao-et-al-2024.xml"
-addr="zhao-et-al-2024"
-title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link> › abstract</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="raefmaroof.xml"
-addr="raefmaroof"
-title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ananddukkipati.xml"
-addr="ananddukkipati"
-title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="zhiyipan.xml"
-addr="zhiyipan"
-title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
-type="local"
-href="zzhaoe-000A.xml"
-addr="zzhaoe-000A"
-title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
-type="local"
-href="zzhaoe-000A.xml"
-addr="zzhaoe-000A"
-title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Context">Context</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>750</fr:anchor><fr:addr
-type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
-text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="raefmaroof.xml"
-addr="raefmaroof"
-title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ananddukkipati.xml"
-addr="ananddukkipati"
-title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="zhiyipan.xml"
-addr="zhiyipan"
-title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
-name="doi">10.1145/3632910</fr:meta><fr:meta
-name="venue"><fr:link
-type="local"
-href="popl-2024.xml"
-addr="popl-2024"
-title="POPL 2024">POPL 2024</fr:link></fr:meta><fr:meta
-name="slides">zhao-et-al-2024/slides.pdf</fr:meta><fr:meta
-name="artifact">zzhaoe-000B</fr:meta><fr:meta
-name="bibtex"><![CDATA[@article{zhao_2024,
-  title={Total Type Error Localization and Recovery with Holes},
-  volume={8},
-  issn={2475-1421},
-  doi={10.1145/3632910},
-  number={POPL},
-  journal={Proceedings of the ACM on Programming Languages},
-  author={Zhao, Eric and Maroof, Raef and Dukkipati, Anand and Blinn, Andrew and Pan, Zhiyi and Omar, Cyrus},
-  year={2024},
-  month={Jan},
-  pages={2041–2068},
-  language={en}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>493</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
-text="Abstract">Abstract</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="raefmaroof.xml"
-addr="raefmaroof"
-title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ananddukkipati.xml"
-addr="ananddukkipati"
-title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="zhiyipan.xml"
-addr="zhiyipan"
-title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
-type="local"
-href="zzhaoe-000A.xml"
-addr="zzhaoe-000A"
-title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
-type="local"
-href="zzhaoe-000A.xml"
-addr="zzhaoe-000A"
-title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>429</fr:anchor>
+    <fr:addr type="machine">#247</fr:addr>
+    <fr:route>unstable-247.xml</fr:route>
+    <fr:title text="Metaprogramming literature › 2-level type theory (2LTT)"><fr:link type="local" href="zzhaoe-002S.xml" addr="zzhaoe-002S" title="Metaprogramming literature">Metaprogramming literature</fr:link> › 2-level type theory (2LTT)</fr:title>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>1</fr:month>
+      <fr:day>24</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p><fr:link type="external" href="https://doi.org/10.1145/3547641">Kovács (2022)</fr:link> adapt 2-level type theory for metaprogramming by placing a dependently typed meta-language atop a less expressive object language; however, it does not support <fr:em>running</fr:em> code nor intensional code analysis.</fr:p>
+    <fr:p><fr:link type="external" href="https://doi.org/10.1145/3635800.3636964">Allais (2024)</fr:link> ...</fr:p>
+    <fr:p><fr:link type="external" href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2024)</fr:link> ...</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>431</fr:anchor>
+            <fr:addr type="user">zzhaoe-002S</fr:addr>
+            <fr:route>zzhaoe-002S.xml</fr:route>
+            <fr:title text="Metaprogramming literature">Metaprogramming literature</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>24</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>433</fr:anchor>
+                <fr:addr type="machine">#244</fr:addr>
+                <fr:route>unstable-244.xml</fr:route>
+                <fr:title text="Surveys">Surveys</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/3354584">Lilis and Savidis (2019)</fr:link> survey and taxonomise metaprogramming languages and paradigms.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>435</fr:anchor>
+                <fr:addr type="machine">#245</fr:addr>
+                <fr:route>unstable-245.xml</fr:route>
+                <fr:title text="Higher-order abstract syntax (HOAS)">Higher-order abstract syntax (HOAS)</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/960116.54010">Pfenning and Elliot (1988)</fr:link> first introduce higher-order abstract syntax. To support functional programming on HOAS in type theories such as the calculus of inductive constructions, <fr:link type="external" href="https://doi.org/10.1145/1411204.1411226">Chilpala (2008)</fr:link>, following <fr:link type="external" href="https://doi.org/10.5555/645892.671587">Despeyroux et al. (1995)</fr:link> and <fr:link type="external" href="https://doi.org/10.1145/944705.944728">Washburn and Weirich (2003)</fr:link>, describe <fr:em>parametric</fr:em> HOAS (PHOAS).</fr:p>
+                <fr:p />
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>437</fr:anchor>
+                <fr:addr type="machine">#246</fr:addr>
+                <fr:route>unstable-246.xml</fr:route>
+                <fr:title text="Contextual modal type theories (CMTT)">Contextual modal type theories (CMTT)</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="local" href="nanevski-et-al-2008.xml" addr="nanevski-et-al-2008" title="Contextual modal type theory">Nanevski et al. (2008)</fr:link> first proposed contextual modal type theory based on context modal logic as a type-theoretic for staged computation on both closed and open terms, supporting <fr:em>running</fr:em> code. This was for a theory of simple types; <fr:link type="local" href="jang-et-al-2022.xml" addr="jang-et-al-2022" title="Mœbius: metaprogramming using contextual types: the stage where system f can pattern match on itself">Jang et al. (2022)</fr:link> extend it to System F. Neither properly support intensional code analysis (that is, pattern matching on code); <fr:link type="local" href="hu-pientka-2024.xml" addr="hu-pientka-2024" title="A Layered Approach to Intensional Analysis in Type Theory">Hu and Pientka (2024)</fr:link> introduce layered modal type theory with support for intensional analysis. <fr:link type="local" href="hu-pientka-2025.xml" addr="hu-pientka-2025" title="A Dependent Type Theory for Meta-programming with Intensional Analysis">Hu and Pientka (2025)</fr:link> furthermore gives a layered contextual modal <fr:em>dependent</fr:em> type theory with intensional analysis.</fr:p>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2019)</fr:link> use contextual modal types to mediate between HOAS representations and recursive computations on HOAS trees.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>439</fr:anchor>
+                <fr:addr type="machine">#247</fr:addr>
+                <fr:route>unstable-247.xml</fr:route>
+                <fr:title text="2-Level type theory (2LTT)">2-Level type theory (2LTT)</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>24</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/3547641">Kovács (2022)</fr:link> adapt 2-level type theory for metaprogramming by placing a dependently typed meta-language atop a less expressive object language; however, it does not support <fr:em>running</fr:em> code nor intensional code analysis.</fr:p>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1145/3635800.3636964">Allais (2024)</fr:link> ...</fr:p>
+                <fr:p><fr:link type="external" href="https://doi.org/10.1109/LICS.2019.8785683">Pientka et al. (2024)</fr:link> ...</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

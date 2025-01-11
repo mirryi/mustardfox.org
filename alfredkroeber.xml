@@ -1,92 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1018</fr:anchor><fr:addr
-type="user">alfredkroeber</fr:addr><fr:route>alfredkroeber.xml</fr:route><fr:title
-text="Alfred Kroeber">Alfred Kroeber</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="institution"><fr:link
-type="local"
-href="ucberkley.xml"
-addr="ucberkley"
-title="University of California, Berkley">University of California, Berkley</fr:link></fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1019</fr:anchor><fr:addr
-type="user">zzhaoe-000N</fr:addr><fr:route>zzhaoe-000N.xml</fr:route><fr:title
-text="On names">On names</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>12</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>In the last couple of days I've been making my way through <fr:link
-type="local"
-href="ursulaleguin.xml"
-addr="ursulaleguin"
-title="Ursula K. Le Guin">Ursula K. Le Guin</fr:link>'s <fr:em>Earthsea</fr:em> cycle (<fr:em><fr:link
-type="local"
-href="leguin-a-wizard-of-earthsea.xml"
-addr="leguin-a-wizard-of-earthsea"
-title="A Wizard of Earthsea">A Wizard of Earthsea</fr:link></fr:em> and <fr:em><fr:link
-type="local"
-href="leguin-the-tombs-of-atuan.xml"
-addr="leguin-the-tombs-of-atuan"
-title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and a bit of <fr:em><fr:link
-type="local"
-href="leguin-the-farthest-shore.xml"
-addr="leguin-the-farthest-shore"
-title="The Farthest Shore">The Farthest Shore</fr:link></fr:em> thus far), and I've been thinking a little bit about names. Of course, none of this is going to be very well-formed, and I'm sure the philosophy of language people will have much aching to be said.</fr:p><fr:p>In the Archipelago, true magic—the real stuff of changing, not mere trickery and illusions—is all about knowing the <fr:em>true name</fr:em> of something. The true name of an object is its name in the True Speech, and knowledge of it gives the speaker power over it. Though it's not precisely clear how magic works in Earthsea, it points at the reality that names identify, communicate, and reveal the truth of things and that creativity with words can deeply impact our understanding of them, even if, I suppose, no single name can properly encompass the whole essence of its referent.</fr:p><fr:p>I was reminded during a commute of <fr:link
-type="local"
-href="kroeber-ishi-in-two-worlds.xml"
-addr="kroeber-ishi-in-two-worlds"
-title="Ishi in Two Worlds: A Biography of the Last Wild Indian in North America"><fr:em>Ishi in Two Worlds</fr:em></fr:link>, a biography by <fr:link
-type="local"
-href="ursulaleguin.xml"
-addr="ursulaleguin"
-title="Ursula K. Le Guin">Le Guin</fr:link>'s mother <fr:link
-type="local"
-href="theodorakroeber.xml"
-addr="theodorakroeber"
-title="Theodora Kroeber">Theodora Kroeber</fr:link>, which I've been meaning to read for some time. It follows the life of Ishi, the last known member of the indigenous Yahi people in present-day California, who in 1908, at around fifty years of age, emerged for the first time into 20th century American society and was taken in by anthropologists at <fr:link
-type="local"
-href="ucberkley.xml"
-addr="ucberkley"
-title="University of California, Berkley">Berkley</fr:link>. "Ishi" was something of an adopted name given by anthropologist <fr:link
-type="local"
-href="alfredkroeber.xml"
-addr="alfredkroeber"
-title="Alfred Kroeber">Alfred Kroeber</fr:link> who studied him, meaning <fr:em>man</fr:em> in the now extinct Yana language; in Yahi culture, it seems that one was not to speak his own name until formally introduced by another. I thought this felt something like a <fr:em>true name</fr:em>, but, unlike Ged, it is not even his own to give, and as the last of his people, none are left to name him.</fr:p><fr:p>To learn of this struck me as tragic—how much more might one <fr:em>know</fr:em> (in a personal way) about "Ishi" through his lost name?—and yet somehow this aspect of Yahi culture also seems to make so much sense: names may reveal the truth of things, but they do not stand alone, existing rather so that we may relate to each other. If each of us lived in isolation, there would, surely, be hardly any need for a personal name.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1021</fr:anchor><fr:addr
-type="user">ucberkley</fr:addr><fr:route>ucberkley.xml</fr:route><fr:title
-text="University of California, Berkley">University of California, Berkley</fr:title><fr:authors /><fr:meta
-name="homepage">https://berkeley.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1510</fr:anchor>
+    <fr:addr type="user">alfredkroeber</fr:addr>
+    <fr:route>alfredkroeber.xml</fr:route>
+    <fr:title text="Alfred Kroeber">Alfred Kroeber</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+    <fr:meta name="institution">
+      <fr:link type="local" href="ucberkley.xml" addr="ucberkley" title="University of California, Berkley">University of California, Berkley</fr:link>
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1511</fr:anchor>
+            <fr:addr type="user">zzhaoe-000N</fr:addr>
+            <fr:route>zzhaoe-000N.xml</fr:route>
+            <fr:title text="On names">On names</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>12</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>In the last couple of days I've been making my way through <fr:link type="local" href="ursulaleguin.xml" addr="ursulaleguin" title="Ursula K. Le Guin">Ursula K. Le Guin</fr:link>'s <fr:em>Earthsea</fr:em> cycle (<fr:em><fr:link type="local" href="leguin-a-wizard-of-earthsea.xml" addr="leguin-a-wizard-of-earthsea" title="A Wizard of Earthsea">A Wizard of Earthsea</fr:link></fr:em> and <fr:em><fr:link type="local" href="leguin-the-tombs-of-atuan.xml" addr="leguin-the-tombs-of-atuan" title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and a bit of <fr:em><fr:link type="local" href="leguin-the-farthest-shore.xml" addr="leguin-the-farthest-shore" title="The Farthest Shore">The Farthest Shore</fr:link></fr:em> thus far), and I've been thinking a little bit about names. Of course, none of this is going to be very well-formed, and I'm sure the philosophy of language people will have much aching to be said.</fr:p>
+            <fr:p>In the Archipelago, true magic—the real stuff of changing, not mere trickery and illusions—is all about knowing the <fr:em>true name</fr:em> of something. The true name of an object is its name in the True Speech, and knowledge of it gives the speaker power over it. Though it's not precisely clear how magic works in Earthsea, it points at the reality that names identify, communicate, and reveal the truth of things and that creativity with words can deeply impact our understanding of them, even if, I suppose, no single name can properly encompass the whole essence of its referent.</fr:p>
+            <fr:p>I was reminded during a commute of <fr:link type="local" href="kroeber-ishi-in-two-worlds.xml" addr="kroeber-ishi-in-two-worlds" title="Ishi in Two Worlds: A Biography of the Last Wild Indian in North America"><fr:em>Ishi in Two Worlds</fr:em></fr:link>, a biography by <fr:link type="local" href="ursulaleguin.xml" addr="ursulaleguin" title="Ursula K. Le Guin">Le Guin</fr:link>'s mother <fr:link type="local" href="theodorakroeber.xml" addr="theodorakroeber" title="Theodora Kroeber">Theodora Kroeber</fr:link>, which I've been meaning to read for some time. It follows the life of Ishi, the last known member of the indigenous Yahi people in present-day California, who in 1908, at around fifty years of age, emerged for the first time into 20th century American society and was taken in by anthropologists at <fr:link type="local" href="ucberkley.xml" addr="ucberkley" title="University of California, Berkley">Berkley</fr:link>. "Ishi" was something of an adopted name given by anthropologist <fr:link type="local" href="alfredkroeber.xml" addr="alfredkroeber" title="Alfred Kroeber">Alfred Kroeber</fr:link> who studied him, meaning <fr:em>man</fr:em> in the now extinct Yana language; in Yahi culture, it seems that one was not to speak his own name until formally introduced by another. I thought this felt something like a <fr:em>true name</fr:em>, but, unlike Ged, it is not even his own to give, and as the last of his people, none are left to name him.</fr:p>
+            <fr:p>To learn of this struck me as tragic—how much more might one <fr:em>know</fr:em> (in a personal way) about "Ishi" through his lost name?—and yet somehow this aspect of Yahi culture also seems to make so much sense: names may reveal the truth of things, but they do not stand alone, existing rather so that we may relate to each other. If each of us lived in isolation, there would, surely, be hardly any need for a personal name.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1513</fr:anchor>
+            <fr:addr type="user">ucberkley</fr:addr>
+            <fr:route>ucberkley.xml</fr:route>
+            <fr:title text="University of California, Berkley">University of California, Berkley</fr:title>
+            <fr:authors />
+            <fr:meta name="homepage">https://berkeley.edu</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

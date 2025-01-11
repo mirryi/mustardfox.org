@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>348</fr:anchor><fr:addr
-type="user">zzhaoe-0022</fr:addr><fr:route>zzhaoe-0022.xml</fr:route><fr:title
-text="Exhaustive pattern matching with regular expressions">Exhaustive pattern matching with regular expressions</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>9</fr:month><fr:day>11</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>It occurred to me that it should be fairly straightforward to support functional programming-style pattern matching on strings using regular expressions. Something like this:</fr:p><fr:pre>match str with
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>699</fr:anchor>
+    <fr:addr type="user">zzhaoe-0022</fr:addr>
+    <fr:route>zzhaoe-0022.xml</fr:route>
+    <fr:title text="Exhaustive pattern matching with regular expressions">Exhaustive pattern matching with regular expressions</fr:title>
+    <fr:taxon>Musings</fr:taxon>
+    <fr:date>
+      <fr:year>2024</fr:year>
+      <fr:month>9</fr:month>
+      <fr:day>11</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>It occurred to me that it should be fairly straightforward to support functional programming-style pattern matching on strings using regular expressions. Something like this:</fr:p>
+    <fr:pre>match str with
 | `a.*a` =&gt; ... -- str begins and ends with 'a'
 | `b+`   =&gt; ... -- str is a sequence of 'b's
-| _      =&gt; ... -- catch-all branch</fr:pre><fr:p>Given an engine that supports back-references and so on, it seems straightforward to support these. With named capture groups, patterns can bind fresh variables.</fr:p><fr:pre><![CDATA[match "'abc'" with
+| _      =&gt; ... -- catch-all branch</fr:pre>
+    <fr:p>Given an engine that supports back-references and so on, it seems straightforward to support these. With named capture groups, patterns can bind fresh variables.</fr:p>
+    <fr:pre><![CDATA[match "'abc'" with
 | `'(?<inner>.*)'`
 | `"(?<inner>.*)"` => ... -- inner := "abc"
 | `\d+`            => ...
-| _                => ...]]></fr:pre><fr:p>One should be able to perform exhaustiveness checking to ensure that all possible strings are captured by the patterns. Naïvely, one could ask if the language of all strings is included in the union of the patterns and use some regular language inclusion algorithm. A pattern is redundant if its language is included in another previous pattern.</fr:p><fr:p>I wouldn't be surprised if this exists in some language out there.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+| _                => ...]]></fr:pre>
+    <fr:p>One should be able to perform exhaustiveness checking to ensure that all possible strings are captured by the patterns. Naïvely, one could ask if the language of all strings is included in the union of the patterns and use some regular language inclusion algorithm. A pattern is redundant if its language is included in another previous pattern.</fr:p>
+    <fr:p>I wouldn't be surprised if this exists in some language out there.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter />
+</fr:tree>

@@ -1,149 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1430</fr:anchor><fr:addr
-type="user">nikosvasilakis</fr:addr><fr:route>nikosvasilakis.xml</fr:route><fr:title
-text="Nikos Vasilakis">Nikos Vasilakis</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link></fr:meta><fr:meta
-name="homepage">https://nikos.vasilak.is</fr:meta><fr:meta
-name="orcid">0000-0001-7347-298X</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.</fr:blockquote></fr:mainmatter><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1431</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
-type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
-type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
-type="local"
-href="zzhaoe-000S.xml"
-addr="zzhaoe-000S"
-title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
-type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
-type="local"
-href="jlc.xml"
-addr="jlc"
-title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>2107</fr:anchor>
+    <fr:addr type="user">nikosvasilakis</fr:addr>
+    <fr:route>nikosvasilakis.xml</fr:route>
+    <fr:title text="Nikos Vasilakis">Nikos Vasilakis</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+    <fr:meta name="position">Assistant Professor of Computer Science</fr:meta>
+    <fr:meta name="institution">
+      <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>
+    </fr:meta>
+    <fr:meta name="homepage">https://nikos.vasilak.is</fr:meta>
+    <fr:meta name="orcid">0000-0001-7347-298X</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:blockquote>I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.</fr:blockquote>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2108</fr:anchor>
+            <fr:addr type="user">zzhaoe-0001</fr:addr>
+            <fr:route>zzhaoe-0001.xml</fr:route>
+            <fr:title text="About">About</fr:title>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>10</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>, advised by <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link type="local" href="robertlewis.xml" addr="robertlewis" title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link type="local" href="zzhaoe-000S.xml" addr="zzhaoe-000S" title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link type="local" href="fplab.xml" addr="fplab" title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link type="local" href="jlc.xml" addr="jlc" title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
   
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
-type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
-
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>810</fr:anchor><fr:addr type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:title text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p><html:table xmlns:html="http://www.w3.org/1999/xhtml">
+      <html:tr>
+        <html:td><fr:strong>email:</fr:strong></html:td>
+        <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>github:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://github.com/mirryi">mirryi</fr:link></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>orcid:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>lt:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>lt:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
       </html:tr>
-
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1432</fr:anchor><fr:addr
-type="user">brownuniversity</fr:addr><fr:route>brownuniversity.xml</fr:route><fr:title
-text="Brown University">Brown University</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="homepage">https://www.brown.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+    </html:table></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2109</fr:anchor>
+            <fr:addr type="user">zzhaoe-0033</fr:addr>
+            <fr:route>zzhaoe-0033.xml</fr:route>
+            <fr:title text="Started my PhD">Started my PhD</fr:title>
+            <fr:taxon>News</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Starting my PhD at the end of this month in programming languages and formal methods with <fr:link type="local" href="robertlewis.xml" addr="robertlewis" title="Robert Lewis">Rob Lewis</fr:link> and <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link>.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2111</fr:anchor>
+            <fr:addr type="user">brownuniversity</fr:addr>
+            <fr:route>brownuniversity.xml</fr:route>
+            <fr:title text="Brown University">Brown University</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:authors />
+            <fr:meta name="homepage">https://www.brown.edu</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2112</fr:anchor>
+            <fr:addr type="user">lazarek-et-al-2025</fr:addr>
+            <fr:route>lazarek-et-al-2025.xml</fr:route>
+            <fr:title text="From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs">From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>6</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="lukaslazarek.xml" addr="lukaslazarek" title="Lukas Lazarek">Lukas Lazarek</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="seongheonjung.xml" addr="seongheonjung" title="Seong-Heon Jung">Seong-Heon Jung</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="vagoslamprou.xml" addr="vagoslamprou" title="Vagos Lamprou">Vagos Lamprou</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="zekaili.xml" addr="zekaili" title="Zekai Li">Zekai Li</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="anirudhnarsipur.xml" addr="anirudhnarsipur" title="Anirudh Narsipur">Anirudh Narsipur</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="michaelgreenberg.xml" addr="michaelgreenberg" title="Michael Greenberg">Michael Greenberg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="konstantinoskallas.xml" addr="konstantinoskallas" title="Konstantinos Kallas">Konstantinos Kallas</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="konstantinosmamouras.xml" addr="konstantinosmamouras" title="Konstantinos Mamouras">Konstantinos Mamouras</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1145/3713082.3730395</fr:meta>
+            <fr:meta name="venue">
+              <fr:link type="local" href="hotos-2025.xml" addr="hotos-2025" title="HotOS XX">HotOS XX</fr:link>
+            </fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{lazarek2025,
+  author = {Lazarek, Lukas and Jung, Seong-Heon and Lamprou, Evangelos and Li, Zekai and Narsipur, Anirudh and Zhao, Eric and Greenberg, Michael and Kallas, Konstantinos and Mamouras, Konstantinos and Vasilakis, Nikos},
+  title = {From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs},
+  year = {2025},
+  isbn = {9798400714757},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3713082.3730395},
+  doi = {10.1145/3713082.3730395},
+  booktitle = {Proceedings of the 2025 Workshop on Hot Topics in Operating Systems},
+  pages = {88–95},
+  numpages = {8},
+  keywords = {Linux, Unix, inference, shell, static analysis, type systems},
+  location = {Banff, AB, Canada},
+  series = {HotOS '25}
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>277</fr:anchor>
+                <fr:addr type="machine">#248</fr:addr>
+                <fr:route>unstable-248.xml</fr:route>
+                <fr:title text="Abstract">Abstract</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>6</fr:month>
+                  <fr:day>6</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="lukaslazarek.xml" addr="lukaslazarek" title="Lukas Lazarek">Lukas Lazarek</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="seongheonjung.xml" addr="seongheonjung" title="Seong-Heon Jung">Seong-Heon Jung</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="vagoslamprou.xml" addr="vagoslamprou" title="Vagos Lamprou">Vagos Lamprou</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="zekaili.xml" addr="zekaili" title="Zekai Li">Zekai Li</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="anirudhnarsipur.xml" addr="anirudhnarsipur" title="Anirudh Narsipur">Anirudh Narsipur</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="michaelgreenberg.xml" addr="michaelgreenberg" title="Michael Greenberg">Michael Greenberg</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="konstantinoskallas.xml" addr="konstantinoskallas" title="Konstantinos Kallas">Konstantinos Kallas</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="konstantinosmamouras.xml" addr="konstantinosmamouras" title="Konstantinos Mamouras">Konstantinos Mamouras</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Shell programming is as prevalent as ever. It is also quite complex, due to the structure of shell programs, their use of opaque software components, and their complex interactions with the broader environment. As a result, even when exercising an abundance of care, shell developers discover devastating bugs in their programs only at runtime: at best, shell programs going wrong crash the execution of a long-running task; at worst, they silently corrupt the broader environment in which they execute---affecting user data, modifying system files, and rendering entire systems unusable. Could the shell's users enjoy the benefits of semantics-driven static analysis before their programs' execution---as offered by most other production languages?</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

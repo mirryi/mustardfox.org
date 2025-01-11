@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>2019</fr:anchor>
+    <fr:addr type="user">lukaslazarek</fr:addr>
+    <fr:route>lukaslazarek.xml</fr:route>
+    <fr:title text="Lukas Lazarek">Lukas Lazarek</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+    <fr:meta name="institution">
+      <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>
+    </fr:meta>
+    <fr:meta name="position">Postdoctoral Associate</fr:meta>
+    <fr:meta name="homepage">https://llazarek.github.io</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2020</fr:anchor>
+            <fr:addr type="user">zzhaoe-0037</fr:addr>
+            <fr:route>zzhaoe-0037.xml</fr:route>
+            <fr:title text="At HotOS XX">At HotOS XX</fr:title>
+            <fr:taxon>News</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>5</fr:month>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>I will be at <fr:link type="external" href="https://sigops.org/s/conferences/hotos/2025/index.html">HotOS XX</fr:link> this month 13-16. Our very own <fr:link type="local" href="lukaslazarek.xml" addr="lukaslazarek" title="Lukas Lazarek">Lukas Lazarek</fr:link> will be presenting our <fr:link type="local" href="lazarek-et-al-2025.xml" addr="lazarek-et-al-2025" title="From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs">paper</fr:link> on semantics-driven static analysis for shell programs.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2022</fr:anchor>
+            <fr:addr type="user">brownuniversity</fr:addr>
+            <fr:route>brownuniversity.xml</fr:route>
+            <fr:title text="Brown University">Brown University</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:authors />
+            <fr:meta name="homepage">https://www.brown.edu</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2023</fr:anchor>
+            <fr:addr type="user">lazarek-et-al-2025</fr:addr>
+            <fr:route>lazarek-et-al-2025.xml</fr:route>
+            <fr:title text="From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs">From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>6</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="lukaslazarek.xml" addr="lukaslazarek" title="Lukas Lazarek">Lukas Lazarek</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="seongheonjung.xml" addr="seongheonjung" title="Seong-Heon Jung">Seong-Heon Jung</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="vagoslamprou.xml" addr="vagoslamprou" title="Vagos Lamprou">Vagos Lamprou</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="zekaili.xml" addr="zekaili" title="Zekai Li">Zekai Li</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="anirudhnarsipur.xml" addr="anirudhnarsipur" title="Anirudh Narsipur">Anirudh Narsipur</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="michaelgreenberg.xml" addr="michaelgreenberg" title="Michael Greenberg">Michael Greenberg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="konstantinoskallas.xml" addr="konstantinoskallas" title="Konstantinos Kallas">Konstantinos Kallas</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="konstantinosmamouras.xml" addr="konstantinosmamouras" title="Konstantinos Mamouras">Konstantinos Mamouras</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1145/3713082.3730395</fr:meta>
+            <fr:meta name="venue">
+              <fr:link type="local" href="hotos-2025.xml" addr="hotos-2025" title="HotOS XX">HotOS XX</fr:link>
+            </fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{lazarek2025,
+  author = {Lazarek, Lukas and Jung, Seong-Heon and Lamprou, Evangelos and Li, Zekai and Narsipur, Anirudh and Zhao, Eric and Greenberg, Michael and Kallas, Konstantinos and Mamouras, Konstantinos and Vasilakis, Nikos},
+  title = {From Ahead-of- to Just-in-Time and Back Again: Static Analysis for Unix Shell Programs},
+  year = {2025},
+  isbn = {9798400714757},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3713082.3730395},
+  doi = {10.1145/3713082.3730395},
+  booktitle = {Proceedings of the 2025 Workshop on Hot Topics in Operating Systems},
+  pages = {88–95},
+  numpages = {8},
+  keywords = {Linux, Unix, inference, shell, static analysis, type systems},
+  location = {Banff, AB, Canada},
+  series = {HotOS '25}
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>277</fr:anchor>
+                <fr:addr type="machine">#248</fr:addr>
+                <fr:route>unstable-248.xml</fr:route>
+                <fr:title text="Abstract">Abstract</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>6</fr:month>
+                  <fr:day>6</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="lukaslazarek.xml" addr="lukaslazarek" title="Lukas Lazarek">Lukas Lazarek</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="seongheonjung.xml" addr="seongheonjung" title="Seong-Heon Jung">Seong-Heon Jung</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="vagoslamprou.xml" addr="vagoslamprou" title="Vagos Lamprou">Vagos Lamprou</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="zekaili.xml" addr="zekaili" title="Zekai Li">Zekai Li</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="anirudhnarsipur.xml" addr="anirudhnarsipur" title="Anirudh Narsipur">Anirudh Narsipur</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="michaelgreenberg.xml" addr="michaelgreenberg" title="Michael Greenberg">Michael Greenberg</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="konstantinoskallas.xml" addr="konstantinoskallas" title="Konstantinos Kallas">Konstantinos Kallas</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="konstantinosmamouras.xml" addr="konstantinosmamouras" title="Konstantinos Mamouras">Konstantinos Mamouras</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Shell programming is as prevalent as ever. It is also quite complex, due to the structure of shell programs, their use of opaque software components, and their complex interactions with the broader environment. As a result, even when exercising an abundance of care, shell developers discover devastating bugs in their programs only at runtime: at best, shell programs going wrong crash the execution of a long-running task; at worst, they silently corrupt the broader environment in which they execute---affecting user data, modifying system files, and rendering entire systems unusable. Could the shell's users enjoy the benefits of semantics-driven static analysis before their programs' execution---as offered by most other production languages?</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

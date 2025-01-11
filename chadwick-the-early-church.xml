@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1463</fr:anchor>
+    <fr:addr type="user">chadwick-the-early-church</fr:addr>
+    <fr:route>chadwick-the-early-church.xml</fr:route>
+    <fr:title text="The Early Church">The Early Church</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:date>
+      <fr:year>1968</fr:year>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="henrychadwick.xml" addr="henrychadwick" title="Henry Chadwick">Henry Chadwick</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:meta name="isbn">978-0-140-23199-4</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1465</fr:anchor>
+            <fr:addr type="user">zzhaoe-002U</fr:addr>
+            <fr:route>zzhaoe-002U.xml</fr:route>
+            <fr:title text="Second-hand book sellers to avoid online › hard avoid"><fr:link type="local" href="zzhaoe-002T.xml" addr="zzhaoe-002T" title="Second-hand book sellers to avoid online">Second-hand book sellers to avoid online</fr:link> › hard avoid</fr:title>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>27</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:ul><fr:li><fr:strong>Better World Books</fr:strong> (<fr:code>betterworldbooks</fr:code>). The two books I have ordered through them came with label stickers which have been impossible to remove cleanly. One did come with bookmark, which is not unappreciated.</fr:li>
+    <fr:li><fr:strong>Books Run</fr:strong> (<fr:code>booksrun</fr:code>). Similarly, <fr:em><fr:link type="local" href="chadwick-the-early-church.xml" addr="chadwick-the-early-church" title="The Early Church">The Early Church</fr:link></fr:em> had an enormous sticker on the back cover.</fr:li></fr:ul>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

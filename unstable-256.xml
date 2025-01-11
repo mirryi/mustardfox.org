@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>791</fr:anchor>
+    <fr:addr type="machine">#256</fr:addr>
+    <fr:route>unstable-256.xml</fr:route>
+    <fr:title text="Orpheus in Atuan › spoiler"><fr:link type="local" href="zzhaoe-000U.xml" addr="zzhaoe-000U" title="Orpheus in Atuan">Orpheus in Atuan</fr:link> › spoiler</fr:title>
+    <fr:taxon>Warning</fr:taxon>
+    <fr:date>
+      <fr:year>2024</fr:year>
+      <fr:month>8</fr:month>
+      <fr:day>15</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+  <fr:p><fr:em><fr:link type="local" href="leguin-the-tombs-of-atuan.xml" addr="leguin-the-tombs-of-atuan" title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and maybe <fr:em><fr:link type="local" href="leguin-the-farthest-shore.xml" addr="leguin-the-farthest-shore" title="The Farthest Shore">The Farthest Shore</fr:link></fr:em>.</fr:p>
+</fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>793</fr:anchor>
+            <fr:addr type="user">zzhaoe-000U</fr:addr>
+            <fr:route>zzhaoe-000U.xml</fr:route>
+            <fr:title text="Orpheus in Atuan">Orpheus in Atuan</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>15</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+  
+    
+    <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>777</fr:anchor><fr:addr type="machine">#256</fr:addr><fr:route>unstable-256.xml</fr:route><fr:title text="Spoiler">Spoiler</fr:title><fr:taxon>Warning</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter>
+  <fr:p><fr:em><fr:link type="local" href="leguin-the-tombs-of-atuan.xml" addr="leguin-the-tombs-of-atuan" title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> and maybe <fr:em><fr:link type="local" href="leguin-the-farthest-shore.xml" addr="leguin-the-farthest-shore" title="The Farthest Shore">The Farthest Shore</fr:link></fr:em>.</fr:p>
+</fr:mainmatter><fr:backmatter /></fr:tree>
+  
+<fr:p>Having recently <fr:link type="local" href="zzhaoe-000F.xml" addr="zzhaoe-000F" title="On the original Orpheus">read too much about Orpheus</fr:link>, I find myself looking for something resembling an Orphic katabasis in other stories... The Labyrinth in <fr:em><fr:link type="local" href="leguin-the-tombs-of-atuan.xml" addr="leguin-the-tombs-of-atuan" title="The Tombs of Atuan">The Tombs of Atuan</fr:link></fr:em> seems awfully underworld-ish.</fr:p><fr:p>Ged's to-be-legendary heist is to reclaim that half of Ring of Erreth-Akbe which is kept deep under the Temple of the Nameless Ones on the Kargish isle of Atuan. He succeeds. But arguably, there's something much greater that he reclaims from the dark: a human soul, Tenar's. I don't suppose he expected do so, but I can't help but see some Orpheus-like elements to his descent and return from the darkness.</fr:p><fr:p>He's no artist of music, but an artist of names, a mage, and indeed perhaps the greatest, at least since Erreth-Akbe. Into the darkness he goes with his instrument of power; he contends with the Nameless Hades therein, his art against their heaving will, that he wards off a great earthquake. The Arha he finds and leads back up (or rather she with her knowledge of the winding tunnels leads him up) is but a mere shadow of who she could be. But he is the <fr:link type="local" href="zzhaoe-000V.xml" addr="zzhaoe-000V" title="On the original Orpheus › the successful Orpheus?">successful Orpheus</fr:link>, for together they burst forth into the light of day, and Tenar is, in all ways but that of flesh, reborn.</fr:p><fr:p>Then one is reminded of the Sir Orfeo, for they fare from that dark Place, climbing forest and peak out of the desert, and return to the isles of the Archipelago. And indeed, after many years, a throne is to be reclaimed (though not quite by Ged).</fr:p></fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

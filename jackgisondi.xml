@@ -1,45 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1334</fr:anchor><fr:addr
-type="user">jackgisondi</fr:addr><fr:route>jackgisondi.xml</fr:route><fr:title
-text="Jack Gisondi">Jack Gisondi</fr:title><fr:taxon>Person</fr:taxon><fr:authors /></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1335</fr:anchor><fr:addr
-type="user">jlc</fr:addr><fr:route>jlc.xml</fr:route><fr:title
-text="Japanese Language Circle">Japanese Language Circle</fr:title><fr:taxon>Organization</fr:taxon><fr:authors /><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="homepage">https://linktr.ee/jlcumich</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>A space for biweekly Japanese language conversation practice.</fr:p><fr:p>I was the Communications Chair (I sent emails + stuff) for the 2023–2024 academic year, succeeding the delightful <fr:link
-type="local"
-href="jackgisondi.xml"
-addr="jackgisondi"
-title="Jack Gisondi">Jack Gisondi</fr:link>. We met in room 2022 of the <fr:link
-type="external"
-href="https://maps.studentlife.umich.edu/building/thayer-academic-building">South Thayer Building</fr:link> on Monday and Thursday evenings from 7 PM (and ending any time between 8 PM and 2 AM).</fr:p><fr:p>Recurring topics apparently included mushrooms and the vegetable-or-not status of potatoes, and we also had some events—board games, origami, calligraphy, and so on. <fr:link
-type="local"
-href="suparnahande.xml"
-addr="suparnahande"
-title="Suparna Hande">Suparna Hande</fr:link> now bears this honorable torch.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1936</fr:anchor>
+    <fr:addr type="user">jackgisondi</fr:addr>
+    <fr:route>jackgisondi.xml</fr:route>
+    <fr:title text="Jack Gisondi">Jack Gisondi</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1937</fr:anchor>
+            <fr:addr type="user">jlc</fr:addr>
+            <fr:route>jlc.xml</fr:route>
+            <fr:title text="Japanese Language Circle">Japanese Language Circle</fr:title>
+            <fr:taxon>Organization</fr:taxon>
+            <fr:authors />
+            <fr:meta name="institution">
+              <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link>
+            </fr:meta>
+            <fr:meta name="homepage">https://linktr.ee/jlcumich</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>A space for semiweekly Japanese language conversation practice.</fr:p>
+            <fr:p>I was the Communications Chair (I sent emails + stuff) for the 2023–2024 academic year, succeeding the delightful <fr:link type="local" href="jackgisondi.xml" addr="jackgisondi" title="Jack Gisondi">Jack Gisondi</fr:link>. We met in room 2022 of the <fr:link type="external" href="https://maps.studentlife.umich.edu/building/thayer-academic-building">South Thayer Building</fr:link> on Monday and Thursday evenings from 7 PM (and ending any time between 8 PM and 2 AM).</fr:p>
+            <fr:p>Recurring topics apparently included mushrooms and the vegetable-or-not status of potatoes, and we also had some events—board games, origami, calligraphy, and so on. Afterwards, <fr:link type="local" href="suparnahande.xml" addr="suparnahande" title="Suparna Hande">Suparna Hande</fr:link> bore this honorable torch before passing it on.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

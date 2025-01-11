@@ -1,255 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1092</fr:anchor><fr:addr
-type="user">cyrusomar</fr:addr><fr:route>cyrusomar.xml</fr:route><fr:title
-text="Cyrus Omar">Cyrus Omar</fr:title><fr:taxon>Person</fr:taxon><fr:authors /><fr:meta
-name="position">Assistant Professor of Computer Science</fr:meta><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta><fr:meta
-name="homepage">https://web.eecs.umich.edu/~comar/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1093</fr:anchor><fr:addr
-type="user">zzhaoe-0001</fr:addr><fr:route>zzhaoe-0001.xml</fr:route><fr:title
-text="About">About</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link
-type="local"
-href="brownuniversity.xml"
-addr="brownuniversity"
-title="Brown University">Brown University</fr:link>, advised by <fr:link
-type="local"
-href="nikosvasilakis.xml"
-addr="nikosvasilakis"
-title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link
-type="local"
-href="robertlewis.xml"
-addr="robertlewis"
-title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link
-type="local"
-href="zzhaoe-000S.xml"
-addr="zzhaoe-000S"
-title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link
-type="local"
-href="fplab.xml"
-addr="fplab"
-title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link
-type="local"
-href="jlc.xml"
-addr="jlc"
-title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1628</fr:anchor>
+    <fr:addr type="user">cyrusomar</fr:addr>
+    <fr:route>cyrusomar.xml</fr:route>
+    <fr:title text="Cyrus Omar">Cyrus Omar</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+    <fr:meta name="position">Assistant Professor of Computer Science</fr:meta>
+    <fr:meta name="institution">
+      <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link>
+    </fr:meta>
+    <fr:meta name="homepage">https://web.eecs.umich.edu/~comar/</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1629</fr:anchor>
+            <fr:addr type="user">zzhaoe-0001</fr:addr>
+            <fr:route>zzhaoe-0001.xml</fr:route>
+            <fr:title text="About">About</fr:title>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+              <fr:day>10</fr:day>
+            </fr:date>
+            <fr:authors />
+          </fr:frontmatter>
+          <fr:mainmatter><fr:p>I'm a first year doctoral student at <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>, advised by <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link> and <fr:link type="local" href="robertlewis.xml" addr="robertlewis" title="Robert Lewis">Robert Lewis</fr:link>. My interests are in programming languages, especially type theory, proof assistants, and formal verification. I'm also supported by the <fr:link type="local" href="zzhaoe-000S.xml" addr="zzhaoe-000S" title="Received the NSF Graduate Research Fellowship!">NSF Graduate Research Fellowship</fr:link>.</fr:p><fr:p>Previously, I was an undergraduate in computer science at <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link>, where I worked with <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link> in the <fr:link type="local" href="fplab.xml" addr="fplab" title="Future of Programming Lab">Future of Programming Lab</fr:link>. I was also the Communications Chair of the <fr:link type="local" href="jlc.xml" addr="jlc" title="Japanese Language Circle">Japanese Language Circle</fr:link> for some time.</fr:p>
   
-  <fr:tree
-toc="false"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:addr
-type="machine">#253</fr:addr><fr:route>unstable-253.xml</fr:route><fr:title
-text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p>
-  <html:table
-xmlns:html="http://www.w3.org/1999/xhtml">
-      
-  <html:tr>
-        
-  <html:td><fr:strong>email:</fr:strong></html:td>
-
-        
-  <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
-
+  <fr:tree toc="false" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>810</fr:anchor><fr:addr type="machine">#257</fr:addr><fr:route>unstable-257.xml</fr:route><fr:title text="External">External</fr:title><fr:date><fr:year>2024</fr:year><fr:month>8</fr:month><fr:day>10</fr:day></fr:date><fr:authors /></fr:frontmatter><fr:mainmatter><fr:p>Feel free to reach out:</fr:p><html:table xmlns:html="http://www.w3.org/1999/xhtml">
+      <html:tr>
+        <html:td><fr:strong>email:</fr:strong></html:td>
+        <html:td><fr:code>eric_c_zhao / brown / edu</fr:code></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>github:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://github.com/mirryi">mirryi</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>github:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://github.com/mirryi">mirryi</fr:link></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>orcid:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>orcid:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://orcid.org/0009-0000-4969-2376">0009-0000-4969-2376</fr:link></html:td>
       </html:tr>
-
-      
-  <html:tr>
-        
-  <html:td><fr:strong>lt:</fr:strong></html:td>
-
-        
-  <html:td><fr:link
-type="external"
-href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
-
+      <html:tr>
+        <html:td><fr:strong>lt:</fr:strong></html:td>
+        <html:td><fr:link type="external" href="https://www.librarything.com/profile/mirryi">mirryi</fr:link></html:td>
       </html:tr>
+    </html:table></fr:mainmatter><fr:backmatter /></fr:tree>
+</fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1630</fr:anchor>
+            <fr:addr type="user">zzhaoe-000S</fr:addr>
+            <fr:route>zzhaoe-000S.xml</fr:route>
+            <fr:title text="Received the NSF Graduate Research Fellowship!">Received the NSF Graduate Research Fellowship!</fr:title>
+            <fr:taxon>News</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>4</fr:month>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Honored to receive an <fr:link type="external" href="https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp">NSF Graduate Research Fellowship</fr:link>. Enormous thanks to my advisor <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>, <fr:link type="local" href="maxsnew.xml" addr="maxsnew" title="Max S. New">Max S. New</fr:link>, <fr:link type="local" href="ayakasogabe.xml" addr="ayakasogabe" title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, and many other supporters!</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1632</fr:anchor>
+            <fr:addr type="user">zzhaoe-0010</fr:addr>
+            <fr:route>zzhaoe-0010.xml</fr:route>
+            <fr:title text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title>
+            <fr:taxon>Course</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:authors />
+            <fr:meta name="institution">
+              <fr:link type="local" href="umich.xml" addr="umich" title="The University of Michigan">The University of Michigan</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>I was the undergraduate teaching assistant for EECS 490 for the 2023-2024 year.</fr:p>
+            <fr:blockquote><fr:p>Programming languages are rich mathematical structures and powerful user interfaces. This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.</fr:p>
 
-    </html:table>
-</fr:mainmatter><fr:backmatter /></fr:tree>
-</fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1094</fr:anchor><fr:addr
-type="user">zzhaoe-000S</fr:addr><fr:route>zzhaoe-000S.xml</fr:route><fr:title
-text="Received the NSF Graduate Research Fellowship!">Received the NSF Graduate Research Fellowship!</fr:title><fr:taxon>News</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>4</fr:month></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Honored to receive an <fr:link
-type="external"
-href="https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp">NSF Graduate Research Fellowship</fr:link>. Enormous thanks to my advisor <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link>, <fr:link
-type="local"
-href="maxsnew.xml"
-addr="maxsnew"
-title="Max S. New">Max S. New</fr:link>, <fr:link
-type="local"
-href="ayakasogabe.xml"
-addr="ayakasogabe"
-title="Ayaka Sogabe">Ayaka Sogabe</fr:link>, and many other supporters!</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1096</fr:anchor><fr:addr
-type="user">zzhaoe-0010</fr:addr><fr:route>zzhaoe-0010.xml</fr:route><fr:title
-text="EECS 490: Programming Languages (F23, W24)">EECS 490: Programming Languages (F23, W24)</fr:title><fr:taxon>Course</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2023</fr:year></fr:date><fr:authors /><fr:meta
-name="institution"><fr:link
-type="local"
-href="umich.xml"
-addr="umich"
-title="The University of Michigan">The University of Michigan</fr:link></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>I was the undergraduate teaching assistant for EECS 490 for the 2023-2024 year.</fr:p><fr:blockquote><fr:p>Programming languages are rich mathematical structures and powerful user interfaces. This course covers the design and use of modern programming languages. We will build up systematically from formal first principles while considering human factors in language design, language prototyping, and techniques for reasoning precisely about program behavior throughout the course.</fr:p>
-
-  <fr:p>The goal is to change the way you think about programming and programming language design in ways that will remain relevant across the many technology hype cycles that you will encounter over the course of your careers.</fr:p></fr:blockquote><fr:p>The course was lectured by <fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link>; <fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link> and <fr:link
-type="local"
-href="davidmoon.xml"
-addr="davidmoon"
-title="David Moon">David Moon</fr:link> were the graduate teaching assistants in F23 and W24, respectively.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Related">Related</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1097</fr:anchor><fr:addr
-type="user">umich</fr:addr><fr:route>umich.xml</fr:route><fr:title
-text="The University of Michigan">The University of Michigan</fr:title><fr:taxon>Institution</fr:taxon><fr:authors /><fr:meta
-name="homepage">https://umich.edu</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Contributions">Contributions</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1098</fr:anchor><fr:addr
-type="user">adams-et-al-2025</fr:addr><fr:route>adams-et-al-2025.xml</fr:route><fr:title
-text="Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus">Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="michaeladams.xml"
-addr="michaeladams"
-title="Michael D. Adams">Michael D. Adams</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericgriffis.xml"
-addr="ericgriffis"
-title="Eric Griffis">Eric Griffis</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="thomasporter.xml"
-addr="thomasporter"
-title="Thomas J. Porter">Thomas J. Porter</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="vishnusatish.xml"
-addr="vishnusatish"
-title="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
-name="venue"><fr:link
-type="local"
-href="popl-2025.xml"
-addr="popl-2025"
-title="POPL 2025">POPL 2025</fr:link></fr:meta><fr:meta
-name="doi">10.1145/3704909</fr:meta><fr:meta
-name="artifact">zzhaoe-000Q</fr:meta><fr:meta
-name="bibtex"><![CDATA[@article{adams_2025a,
+  <fr:p>The goal is to change the way you think about programming and programming language design in ways that will remain relevant across the many technology hype cycles that you will encounter over the course of your careers.</fr:p></fr:blockquote>
+            <fr:p>The course was lectured by <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>; <fr:link type="local" href="andrewblinn.xml" addr="andrewblinn" title="Andrew Blinn">Andrew Blinn</fr:link> and <fr:link type="local" href="davidmoon.xml" addr="davidmoon" title="David Moon">David Moon</fr:link> were the graduate teaching assistants in F23 and W24, respectively.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1633</fr:anchor>
+            <fr:addr type="user">zzhaoe-0036</fr:addr>
+            <fr:route>zzhaoe-0036.xml</fr:route>
+            <fr:title text="Received a FLAS">Received a FLAS</fr:title>
+            <fr:taxon>News</fr:taxon>
+            <fr:date>
+              <fr:year>2023</fr:year>
+              <fr:month>3</fr:month>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>I'm honored to receive a Department of Education <fr:link type="external" href="https://www.ed.gov/grants-and-programs/grants-higher-education/ifle/foreign-language-and-area-studies-program">Foreign Language and Area Studies</fr:link> in Japanese language for this summer! Thanks so much to <fr:link type="local" href="ayakasogabe.xml" addr="ayakasogabe" title="Ayaka Sogabe">Ayaka Sogabe</fr:link> for her brilliant teaching and heroic recommendation letter-writing. Thanks also to <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link> for his support!</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1635</fr:anchor>
+            <fr:addr type="user">umich</fr:addr>
+            <fr:route>umich.xml</fr:route>
+            <fr:title text="The University of Michigan">The University of Michigan</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:authors />
+            <fr:meta name="homepage">https://umich.edu</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1636</fr:anchor>
+            <fr:addr type="user">adams-et-al-2025</fr:addr>
+            <fr:route>adams-et-al-2025.xml</fr:route>
+            <fr:title text="Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus">Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>9</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="michaeladams.xml" addr="michaeladams" title="Michael D. Adams">Michael D. Adams</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericgriffis.xml" addr="ericgriffis" title="Eric Griffis">Eric Griffis</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="thomasporter.xml" addr="thomasporter" title="Thomas J. Porter">Thomas J. Porter</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="vishnusatish.xml" addr="vishnusatish" title="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="venue">
+              <fr:link type="local" href="popl-2025.xml" addr="popl-2025" title="POPL 2025">POPL 2025</fr:link>
+            </fr:meta>
+            <fr:meta name="doi">10.1145/3704909</fr:meta>
+            <fr:meta name="artifact">zzhaoe-000Q</fr:meta>
+            <fr:meta name="pdf">adams-et-al-2025/preprint.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{adams2025a,
   author = {Adams, Michael D. and Griffis, Eric and Porter, Thomas J. and Satish, Sundara Vishnu and Zhao, Eric and Omar, Cyrus},
   title = {Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus},
   year = {2025},
@@ -265,82 +214,89 @@ name="bibtex"><![CDATA[@article{adams_2025a,
   articleno = {73},
   numpages = {29},
   keywords = {CRDTs, collaborative editing, gradual typing, version control systems}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:addr
-type="machine">#245</fr:addr><fr:route>unstable-245.xml</fr:route><fr:title
-text="Abstract">Abstract</fr:title><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>9</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="michaeladams.xml"
-addr="michaeladams"
-title="Michael D. Adams">Michael D. Adams</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericgriffis.xml"
-addr="ericgriffis"
-title="Eric Griffis">Eric Griffis</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="thomasporter.xml"
-addr="thomasporter"
-title="Thomas J. Porter">Thomas J. Porter</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="vishnusatish.xml"
-addr="vishnusatish"
-title="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Version control systems typically rely on a patch language, heuristic patch synthesis algorithms like diff, and three-way merge algorithms. Standard patch languages and merge algorithms often fail to identify conflicts correctly when there are multiple edits to one line of code or code is relocated. This paper introduces Grove, a collaborative structure editor calculus that eliminates patch synthesis and three-way merge algorithms entirely. Instead, patches are derived directly from the log of the developer’s edit actions and all edits commute, i.e. the repository state forms a commutative replicated data type (CmRDT). To handle conflicts that can arise due to code relocation, the core datatype in Grove is a labeled directed multi-graph with uniquely identified vertices and edges. All edits amount to edge insertion and deletion, with deletion being permanent. To support tree-based editing, we define a decomposition from graphs into groves, which are a set of syntax trees with conflicts—including local, relocation, and unicyclic relocation conflicts—represented explicitly using holes and references between trees. Finally, we define a type error localization system for groves that enjoys a totality property, i.e. all editor states in Grove are statically meaningful, so developers can use standard editor services while working to resolve these explicitly represented conflicts. The static semantics is defined as a bidirectional marking system in line with recent work, with gradual typing employed to handle situations where errors and conflicts prevent type determination. We then layer on a unification-based type inference system to opportunistically fill type holes and fail gracefully when no solution exists. We mechanize the metatheory of Grove using the Agda theorem prover. We implement these ideas as the Grove Workbench, which generates the necessary data structures and algorithms in OCaml given a syntax tree specification.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1105</fr:anchor><fr:addr
-type="user">zhao-et-al-2024</fr:addr><fr:route>zhao-et-al-2024.xml</fr:route><fr:title
-text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="raefmaroof.xml"
-addr="raefmaroof"
-title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ananddukkipati.xml"
-addr="ananddukkipati"
-title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="zhiyipan.xml"
-addr="zhiyipan"
-title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
-name="doi">10.1145/3632910</fr:meta><fr:meta
-name="venue"><fr:link
-type="local"
-href="popl-2024.xml"
-addr="popl-2024"
-title="POPL 2024">POPL 2024</fr:link></fr:meta><fr:meta
-name="slides">zhao-et-al-2024/slides.pdf</fr:meta><fr:meta
-name="artifact">zzhaoe-000B</fr:meta><fr:meta
-name="bibtex"><![CDATA[@article{zhao_2024,
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>598</fr:anchor>
+                <fr:addr type="machine">#242</fr:addr>
+                <fr:route>unstable-242.xml</fr:route>
+                <fr:title text="Abstract">Abstract</fr:title>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>9</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="michaeladams.xml" addr="michaeladams" title="Michael D. Adams">Michael D. Adams</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="ericgriffis.xml" addr="ericgriffis" title="Eric Griffis">Eric Griffis</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="thomasporter.xml" addr="thomasporter" title="Thomas J. Porter">Thomas J. Porter</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="vishnusatish.xml" addr="vishnusatish" title="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Version control systems typically rely on a patch language, heuristic patch synthesis algorithms like diff, and three-way merge algorithms. Standard patch languages and merge algorithms often fail to identify conflicts correctly when there are multiple edits to one line of code or code is relocated. This paper introduces Grove, a collaborative structure editor calculus that eliminates patch synthesis and three-way merge algorithms entirely. Instead, patches are derived directly from the log of the developer’s edit actions and all edits commute, i.e. the repository state forms a commutative replicated data type (CmRDT). To handle conflicts that can arise due to code relocation, the core datatype in Grove is a labeled directed multi-graph with uniquely identified vertices and edges. All edits amount to edge insertion and deletion, with deletion being permanent. To support tree-based editing, we define a decomposition from graphs into groves, which are a set of syntax trees with conflicts—including local, relocation, and unicyclic relocation conflicts—represented explicitly using holes and references between trees. Finally, we define a type error localization system for groves that enjoys a totality property, i.e. all editor states in Grove are statically meaningful, so developers can use standard editor services while working to resolve these explicitly represented conflicts. The static semantics is defined as a bidirectional marking system in line with recent work, with gradual typing employed to handle situations where errors and conflicts prevent type determination. We then layer on a unification-based type inference system to opportunistically fill type holes and fail gracefully when no solution exists. We mechanize the metatheory of Grove using the Agda theorem prover. We implement these ideas as the Grove Workbench, which generates the necessary data structures and algorithms in OCaml given a syntax tree specification.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1643</fr:anchor>
+            <fr:addr type="user">zhao-et-al-2024</fr:addr>
+            <fr:route>zhao-et-al-2024.xml</fr:route>
+            <fr:title text="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="raefmaroof.xml" addr="raefmaroof" title="Raef Maroof">Raef Maroof</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ananddukkipati.xml" addr="ananddukkipati" title="Anand Dukkipati">Anand Dukkipati</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="andrewblinn.xml" addr="andrewblinn" title="Andrew Blinn">Andrew Blinn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="zhiyipan.xml" addr="zhiyipan" title="Zhiyi Pan">Zhiyi Pan</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1145/3632910</fr:meta>
+            <fr:meta name="venue">
+              <fr:link type="local" href="popl-2024.xml" addr="popl-2024" title="POPL 2024">POPL 2024</fr:link>
+            </fr:meta>
+            <fr:meta name="pdf">zhao-et-al-2024/preprint.pdf</fr:meta>
+            <fr:meta name="slides">zhao-et-al-2024/slides.pdf</fr:meta>
+            <fr:meta name="artifact">zzhaoe-000B</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{zhao2024,
   title={Total Type Error Localization and Recovery with Holes},
   volume={8},
   issn={2475-1421},
@@ -352,163 +308,170 @@ name="bibtex"><![CDATA[@article{zhao_2024,
   month={Jan},
   pages={2041–2068},
   language={en}
-}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>493</fr:anchor><fr:addr
-type="machine">#247</fr:addr><fr:route>unstable-247.xml</fr:route><fr:title
-text="Abstract">Abstract</fr:title><fr:date><fr:year>2024</fr:year><fr:month>1</fr:month><fr:day>5</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="raefmaroof.xml"
-addr="raefmaroof"
-title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ananddukkipati.xml"
-addr="ananddukkipati"
-title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="zhiyipan.xml"
-addr="zhiyipan"
-title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link
-type="local"
-href="zzhaoe-000A.xml"
-addr="zzhaoe-000A"
-title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p><fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link
-type="local"
-href="zzhaoe-000A.xml"
-addr="zzhaoe-000A"
-title="Hazel">Hazel</fr:link>.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1112</fr:anchor><fr:addr
-type="user">zzhaoe-000Q</fr:addr><fr:route>zzhaoe-000Q.xml</fr:route><fr:title
-text="Grove (Agda)">Grove (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="michaeladams.xml"
-addr="michaeladams"
-title="Michael D. Adams">Michael D. Adams</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericgriffis.xml"
-addr="ericgriffis"
-title="Eric Griffis">Eric Griffis</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="thomasporter.xml"
-addr="thomasporter"
-title="Thomas J. Porter">Thomas J. Porter</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="vishnusatish.xml"
-addr="vishnusatish"
-title="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
-name="doi">10.5281/zenodo.14026532</fr:meta><fr:meta
-name="venue"><fr:link
-type="local"
-href="popl-2025.xml"
-addr="popl-2025"
-title="POPL 2025">POPL 2025</fr:link></fr:meta><fr:meta
-name="github">fplab/grove-agda</fr:meta><fr:meta
-name="bibtex"><![CDATA[@software{adams_2025b,
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>847</fr:anchor>
+                <fr:addr type="machine">#249</fr:addr>
+                <fr:route>unstable-249.xml</fr:route>
+                <fr:title text="Abstract">Abstract</fr:title>
+                <fr:date>
+                  <fr:year>2024</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="raefmaroof.xml" addr="raefmaroof" title="Raef Maroof">Raef Maroof</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="ananddukkipati.xml" addr="ananddukkipati" title="Anand Dukkipati">Anand Dukkipati</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="andrewblinn.xml" addr="andrewblinn" title="Andrew Blinn">Andrew Blinn</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="zhiyipan.xml" addr="zhiyipan" title="Zhiyi Pan">Zhiyi Pan</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Type systems typically only define the conditions under which an expression is well-typed, leaving ill-typed expressions formally meaningless. This approach is insufficient as the basis for language servers driving modern programming environments, which are expected to recover from simultaneously localized errors and continue to provide a variety of downstream semantic services. This paper addresses this problem, contributing the first comprehensive formal account of total type error localization and recovery: the marked lambda calculus. In particular, we define a gradual type system for expressions with marked errors, which operate as non-empty holes, together with a total procedure for marking arbitrary unmarked expressions. We mechanize the metatheory of the marked lambda calculus in Agda and implement it, scaled up, as the new basis for <fr:link type="local" href="zzhaoe-000A.xml" addr="zzhaoe-000A" title="Hazel">Hazel</fr:link>, a full-scale live functional programming environment with, uniquely, no meaningless editor states.</fr:p>
+                <fr:p>The marked lambda calculus is bidirectionally typed, so localization decisions are systematically predictable based on a local flow of typing information. Constraint-based type inference can bring more distant information to bear in discovering inconsistencies but this notoriously complicates error localization. We approach this problem by deploying constraint solving as a type-hole-filling layer atop this gradual bidirectionally typed core. Errors arising from inconsistent unification constraints are localized exclusively to type and expression holes, i.e. the system identifies unfillable holes using a system of traced provenances, rather than localized in an ad hoc manner to particular expressions. The user can then interactively shift these errors to particular downstream expressions by selecting from suggested partially consistent type hole fillings, which returns control back to the bidirectional system. We implement this type hole inference system in <fr:link type="local" href="zzhaoe-000A.xml" addr="zzhaoe-000A" title="Hazel">Hazel</fr:link>.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1650</fr:anchor>
+            <fr:addr type="user">zzhaoe-000Q</fr:addr>
+            <fr:route>zzhaoe-000Q.xml</fr:route>
+            <fr:title text="Grove (Agda)">Grove (Agda)</fr:title>
+            <fr:taxon>Software</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="michaeladams.xml" addr="michaeladams" title="Michael D. Adams">Michael D. Adams</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericgriffis.xml" addr="ericgriffis" title="Eric Griffis">Eric Griffis</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="thomasporter.xml" addr="thomasporter" title="Thomas J. Porter">Thomas J. Porter</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="vishnusatish.xml" addr="vishnusatish" title="Sundara Vishnu Satish">Sundara Vishnu Satish</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.5281/zenodo.14026532</fr:meta>
+            <fr:meta name="venue">
+              <fr:link type="local" href="popl-2025.xml" addr="popl-2025" title="POPL 2025">POPL 2025</fr:link>
+            </fr:meta>
+            <fr:meta name="github">fplab/grove-agda</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@software{adams_2025b,
   author = {Adams, Michael D. and Griffis, Eric and Porter, Thomas J. and Satish, Sundara Vishnu and Zhao, Eric and Omar, Cyrus},
   title = {Artifact for Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus},
   year = {2025},
   publisher = {Association for Computing Machinery},
   url = {https://doi.org/10.5281/zenodo.14026532},
-},]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>An Agda mechanization of the Grove collaborative structure editor calculus described in "<fr:link
-type="local"
-href="adams-et-al-2025.xml"
-addr="adams-et-al-2025"
-title="Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus">Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus</fr:link>".</fr:p></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1119</fr:anchor><fr:addr
-type="user">zzhaoe-000A</fr:addr><fr:route>zzhaoe-000A.xml</fr:route><fr:title
-text="Hazel">Hazel</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2024</fr:year></fr:date><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author>many, many others</fr:author></fr:authors><fr:meta
-name="homepage">https://hazel.org</fr:meta><fr:meta
-name="github">hazelgrove/hazel</fr:meta></fr:frontmatter><fr:mainmatter><fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1124</fr:anchor><fr:addr
-type="user">zzhaoe-000B</fr:addr><fr:route>zzhaoe-000B.xml</fr:route><fr:title
-text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2023</fr:year></fr:date><fr:date><fr:year>2022</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="raefmaroof.xml"
-addr="raefmaroof"
-title="Raef Maroof">Raef Maroof</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="ananddukkipati.xml"
-addr="ananddukkipati"
-title="Anand Dukkipati">Anand Dukkipati</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="andrewblinn.xml"
-addr="andrewblinn"
-title="Andrew Blinn">Andrew Blinn</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="zhiyipan.xml"
-addr="zhiyipan"
-title="Zhiyi Pan">Zhiyi Pan</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="cyrusomar.xml"
-addr="cyrusomar"
-title="Cyrus Omar">Cyrus Omar</fr:link></fr:author></fr:authors><fr:meta
-name="doi">10.5281/zenodo.10129703</fr:meta><fr:meta
-name="venue"><fr:link
-type="local"
-href="popl-2024.xml"
-addr="popl-2024"
-title="POPL 2024">POPL 2024</fr:link></fr:meta><fr:meta
-name="github">hazelgrove/error-localization-agda</fr:meta><fr:meta
-name="bibtex"><![CDATA[@software{zhao_2023,
+},]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>An Agda mechanization of the Grove collaborative structure editor calculus described in "<fr:link type="local" href="adams-et-al-2025.xml" addr="adams-et-al-2025" title="Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus">Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus</fr:link>".</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1657</fr:anchor>
+            <fr:addr type="user">zzhaoe-000A</fr:addr>
+            <fr:route>zzhaoe-000A.xml</fr:route>
+            <fr:title text="Hazel">Hazel</fr:title>
+            <fr:taxon>Software</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="andrewblinn.xml" addr="andrewblinn" title="Andrew Blinn">Andrew Blinn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>many, many others</fr:author>
+            </fr:authors>
+            <fr:meta name="homepage">https://hazel.org</fr:meta>
+            <fr:meta name="github">hazelgrove/hazel</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:blockquote>Hazel is a live functional programming environment that is able to typecheck, manipulate, and even run incomplete programs, i.e. programs with holes. There are no meaningless editor states.</fr:blockquote>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1662</fr:anchor>
+            <fr:addr type="user">zzhaoe-000B</fr:addr>
+            <fr:route>zzhaoe-000B.xml</fr:route>
+            <fr:title text="Total Type Error Localization and Recovery with Holes (Agda)">Total Type Error Localization and Recovery with Holes (Agda)</fr:title>
+            <fr:taxon>Software</fr:taxon>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="raefmaroof.xml" addr="raefmaroof" title="Raef Maroof">Raef Maroof</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="ananddukkipati.xml" addr="ananddukkipati" title="Anand Dukkipati">Anand Dukkipati</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="andrewblinn.xml" addr="andrewblinn" title="Andrew Blinn">Andrew Blinn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="zhiyipan.xml" addr="zhiyipan" title="Zhiyi Pan">Zhiyi Pan</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="cyrusomar.xml" addr="cyrusomar" title="Cyrus Omar">Cyrus Omar</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.5281/zenodo.10129703</fr:meta>
+            <fr:meta name="venue">
+              <fr:link type="local" href="popl-2024.xml" addr="popl-2024" title="POPL 2024">POPL 2024</fr:link>
+            </fr:meta>
+            <fr:meta name="github">hazelgrove/error-localization-agda</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@software{zhao_2023,
   title = {Artifact for Total Type Error Localization and Recovery with Holes},
   url = {https://doi.org/10.5281/zenodo.10129703},
   version = {1.0},
@@ -516,8 +479,15 @@ name="bibtex"><![CDATA[@software{zhao_2023,
   author = {Zhao, Eric and Maroof, Raef and Dukkipati, Anand and Blinn, Andrew and Pan, Zhiyi and Omar, Cyrus},
   date = {2023-11},
   doi = {10.5281/zenodo.10129703},
-}]]></fr:meta></fr:frontmatter><fr:mainmatter><fr:p>An Agda mechanization of the marked lambda calculus, a judgmental framework for bidirectional type error localization and recovery described in "<fr:link
-type="local"
-href="zhao-et-al-2024.xml"
-addr="zhao-et-al-2024"
-title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link>".</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>An Agda mechanization of the marked lambda calculus, a judgmental framework for bidirectional type error localization and recovery described in "<fr:link type="local" href="zhao-et-al-2024.xml" addr="zhao-et-al-2024" title="Total Type Error Localization and Recovery with Holes">Total Type Error Localization and Recovery with Holes</fr:link>".</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,59 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1372</fr:anchor><fr:addr
-type="user">mhacks-2021</fr:addr><fr:route>mhacks-2021.xml</fr:route><fr:title
-text="MHacks 14">MHacks 14</fr:title><fr:taxon>Venue</fr:taxon><fr:authors /><fr:meta
-name="homepage">https://web.archive.org/web/20211021115903/https://mhacks.org/</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>1373</fr:anchor><fr:addr
-type="user">zzhaoe-0013</fr:addr><fr:route>zzhaoe-0013.xml</fr:route><fr:title
-text="Mm">Mm</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2021</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author><fr:author><fr:link
-type="local"
-href="marcusgozon.xml"
-addr="marcusgozon"
-title="Marcus Gozon">Marcus Gozon</fr:link></fr:author></fr:authors><fr:meta
-name="homepage">https://mirryi.github.io/mm</fr:meta><fr:meta
-name="github">mirryi/mm</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>It's like Desmos but equations become musical scores. <fr:link
-type="local"
-href="marcusgozon.xml"
-addr="marcusgozon"
-title="Marcus Gozon">Marcus Gozon</fr:link> and I made this for <fr:link
-type="local"
-href="mhacks-2021.xml"
-addr="mhacks-2021"
-title="MHacks 14">MHacks 14</fr:link>. My good friend <fr:link
-type="local"
-href="ericyzhao.xml"
-addr="ericyzhao"
-title="Eric Y. Zhao">Eric</fr:link><html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">Not me but a much smarter and more industrious fellow.</html:span></html:span>
- contributed the (rather astounding) third demo.<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">To play it, click (1) <fr:code>D-III</fr:code>, (2) the refresh button, and (3) the play button. On mobile, the refresh button is the squashed one directly left of the dividing vertical bar. It's easy, no doubt, that this is a lousy hackathon piece. </html:span></html:span></fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>2034</fr:anchor>
+    <fr:addr type="user">mhacks-2021</fr:addr>
+    <fr:route>mhacks-2021.xml</fr:route>
+    <fr:title text="MHacks 14">MHacks 14</fr:title>
+    <fr:taxon>Venue</fr:taxon>
+    <fr:authors />
+    <fr:meta name="homepage">https://web.archive.org/web/20211021115903/https://mhacks.org/</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>2035</fr:anchor>
+            <fr:addr type="user">zzhaoe-0013</fr:addr>
+            <fr:route>zzhaoe-0013.xml</fr:route>
+            <fr:title text="Mm">Mm</fr:title>
+            <fr:taxon>Software</fr:taxon>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="marcusgozon.xml" addr="marcusgozon" title="Marcus Gozon">Marcus Gozon</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="homepage">https://mirryi.github.io/mm</fr:meta>
+            <fr:meta name="github">mirryi/mm</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>It's like Desmos but equations become musical scores. <fr:link type="local" href="marcusgozon.xml" addr="marcusgozon" title="Marcus Gozon">Marcus Gozon</fr:link> and I made this for <fr:link type="local" href="mhacks-2021.xml" addr="mhacks-2021" title="MHacks 14">MHacks 14</fr:link>. My good friend <fr:link type="local" href="ericyzhao.xml" addr="ericyzhao" title="Eric Y. Zhao">Eric</fr:link><html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Not me but a much smarter and more industrious fellow.</html:span></html:span></html:span> contributed the (rather astounding) third demo.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">To play it, click (1) <fr:code>D-III</fr:code>, (2) the refresh button, and (3) the play button. On mobile, the refresh button is the squashed one directly left of the dividing vertical bar. It's easy, no doubt, that this is a lousy hackathon piece. </html:span></html:span></html:span></fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

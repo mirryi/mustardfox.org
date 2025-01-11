@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>866</fr:anchor><fr:addr
-type="user">zzhaoe-0008</fr:addr><fr:route>zzhaoe-0008.xml</fr:route><fr:title
-text="Wikichan">Wikichan</fr:title><fr:taxon>Software</fr:taxon><fr:date><fr:year>2022</fr:year></fr:date><fr:date><fr:year>2018</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors><fr:meta
-name="github">mirryi/wikichan</fr:meta></fr:frontmatter><fr:mainmatter><fr:p>Wikichan is a browser extension that displays a popup with information from Wikipedia and other sources when hovering over text on any page. Its development (2018 – 2020?) was mainly during high school (and therefore a bloody mess) and is on indefinite hiatus. I'd like to return to it at some point, however.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1316</fr:anchor>
+    <fr:addr type="user">zzhaoe-0008</fr:addr>
+    <fr:route>zzhaoe-0008.xml</fr:route>
+    <fr:title text="Wikichan">Wikichan</fr:title>
+    <fr:taxon>Software</fr:taxon>
+    <fr:date>
+      <fr:year>2022</fr:year>
+    </fr:date>
+    <fr:date>
+      <fr:year>2018</fr:year>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:meta name="github">mirryi/wikichan</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>Wikichan is a browser extension that displays a popup with information from Wikipedia and other sources when hovering over text on any page. Its development (2018 – 2020?) was mainly during high school (and therefore a bloody mess) and is on indefinite hiatus. I'd like to return to it at some point, however.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter />
+</fr:tree>

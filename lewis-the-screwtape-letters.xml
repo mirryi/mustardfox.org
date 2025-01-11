@@ -1,64 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>902</fr:anchor><fr:addr
-type="user">lewis-the-screwtape-letters</fr:addr><fr:route>lewis-the-screwtape-letters.xml</fr:route><fr:title
-text="The Screwtape Letters">The Screwtape Letters</fr:title><fr:taxon>Reference</fr:taxon><fr:date><fr:year>2015</fr:year></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="cslewis.xml"
-addr="cslewis"
-title="C.S. Lewis">C.S. Lewis</fr:link></fr:author></fr:authors><fr:meta
-name="isbn">978-0-060-65293-7</fr:meta></fr:frontmatter><fr:mainmatter /><fr:backmatter><fr:tree
-toc="false"
-numbered="false"
-show-heading="true"
-show-metadata="false"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:title
-text="Backlinks">Backlinks</fr:title><fr:authors /></fr:frontmatter><fr:mainmatter><fr:tree
-toc="true"
-numbered="false"
-show-heading="true"
-show-metadata="true"
-expanded="false"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>904</fr:anchor><fr:addr
-type="user">zzhaoe-002A</fr:addr><fr:route>zzhaoe-002A.xml</fr:route><fr:title
-text="We murder to dissect">We murder to dissect</fr:title><fr:taxon>Musings</fr:taxon><fr:date><fr:year>2025</fr:year><fr:month>1</fr:month><fr:day>8</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:p>The word <fr:em>religion</fr:em> is troublesome precisely because it is rather useless—nay, even destructive. It suggests, for one, that those awfully disparate things which commonly suffer from such a label are in some way very alike, that one may speak of them as a meaningful collective. The adherents of these—say, Christianity, or Buddhism, or Hellenic paganism—the <fr:em>religious</fr:em>—are to be held in contrast with those so-called <fr:em>irreligious</fr:em>, as though those of the latter crowd do not also possess worldviews by which they derive the God or the gods whose character commands their lives. What people really imagine when they call something a <fr:em>religion</fr:em> is, I suppose, some very confined set of notions, such as a personal divine, and practices, like meditation at an altar. But the man whose attention is fixed on God is in no way thinking about <fr:em>religion</fr:em>, for to consider <fr:em>religion</fr:em> at all his attention must be diverted; as <fr:link
-type="local"
-href="cslewis.xml"
-addr="cslewis"
-title="C.S. Lewis">Lewis</fr:link> puts it, "he hasn't the time."<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">"Lilies that Fester", which I have as it is reprinted in <fr:em><fr:link
-type="local"
-href="lewis-the-worlds-last-night-and-other-essays.xml"
-addr="lewis-the-worlds-last-night-and-other-essays"
-title="The World's Last Night and Other Essays">The World's Last Night and Other Essays</fr:link></fr:em> (p. 32).</html:span></html:span>
- The word has only a chance to be meaningful (alas it isn't) from the outside.</fr:p><fr:p>The same, he says, seems to be true of <fr:em>cultured</fr:em>, which should surely mean a man who is possessed of "deep and genuine enjoyment of literature and the other arts." The man whose present attention is occupied by <fr:em>culture</fr:em>, like the <fr:em>religious</fr:em> man, must not be considering <fr:em>culture</fr:em> one bit, else his enjoyment would be thoroughly ruined. Rightly writes Lewis that "the talk is inimical to the thing talked of, likely to spoil it where it exists and to prevent its birth where it is unborn."<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">p. 33</html:span></html:span></fr:p><fr:p>The "whole trouble", as perhaps Charlie Brown would say, is that the focus of the mind has begun to wonder in the "abstract", so to speak, about <fr:em>religion</fr:em> or <fr:em>culture</fr:em> and therefore ceased in the activity itself. For any "meta-thinking" must by necessity kill the object of its study; the chef cannot butcher a duck in flight. A mortician would have much trouble to autopsy a squirming cadaver. I am often, in a rather foolish, self-aggrandizing fashion (I do not know if others can relate), found wondering if the present moment, when it is dramatic or astonishing or otherwise appears significant, will mark some critical point by which all that came afterwards began to change—if the pen has just been lifted, poised now to begin a new chapter. Yet in its very appraisal the drama has fled the scene; by pondering its future implications I have left it in the past. Probably, I suppose, the moment impressed sufficiently to meet some threshold of dramaticism yet inadequately to hold captive my mind. Empty yet cluttered, tedium has driven it to (probably fruitless) reflection.</fr:p><fr:p>I am led to see the same in other attitudes: <fr:em>humility</fr:em>, as a classic example. For <fr:em>humility</fr:em> is by definition embodied by self-forgetfulness. The moment I wonder if I am indeed being very humble, far from <fr:em>forgetting</fr:em> the self, I have <fr:em>remembered</fr:em> it and altogether ceased in <fr:em>humility</fr:em>, if ever I really was; in fact, it is more fair to say that the proof has come out that I was decidedly not—there is none clearer. In humans, the great inquisition of such meta-thinking leaves no door unopened, no table unturned, no chest unbroken; one wonders who it was that injudiciously issued the warrant. Far from allowing humility to continue on its innocent way, it possesses a unquenchable desire to make of it something rather nasty. For one is likely to feel rather proud of one's supposed humility. Indeed, it would seem that only pride was ever present. It has packed the courts with its own lackeys, and the agenda is set against virtues. I am prone to suppose, not without some satisfaction, that I have been rather <fr:em>charitable</fr:em> to the ill-to-do or very <fr:em>patient</fr:em> with that nagging in-law; pride has practically won the day with just this. I say that I have merely "realized" the extent of my charity or my patience—and perhaps I really have been so, but I have also propped up some shadowy caricature of the real things and set them upon a platter for Screwtape. Already the ravenous ringing of his smacking lips echo from the lower echelons of Hell.</fr:p><fr:p>Yet it seems that surely not all "meta-thinking" is undesirable. Surely it is a good thing to wonder about the purpose for which one is pursuing their career or giving their money away, or why one is reading that book or writing to the present journal. Indeed, such self-examination is the way by which one perceives their sins and therefore may even begin to move toward contrition. Conviction of sins is impossible and meaningless without contemplation for the activities in which they manifest. After the morning has been wasted away on frivolous articles<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote">Or, as it were, adding sidenotes to the website.</html:span></html:span>
- or the loss in some competition has provoked a sullen mood, only when I realize that I have been slothful or covetous can I begin to seek contrition. These are, Screwtape reminds Wormwood, exactly the sorts of considerations whose entry into the patient's mind he ought to <fr:em>prevent</fr:em>:<html:span
-xmlns:html="http://www.w3.org/1999/xhtml"
-class="sidenote-number"><html:span
-class="sidenote"><fr:em><fr:link
-type="local"
-href="lewis-the-screwtape-letters.xml"
-addr="lewis-the-screwtape-letters"
-title="The Screwtape Letters">The Screwtape Letters</fr:link></fr:em>, letter 6.</html:span></html:span></fr:p><fr:blockquote>Let an insult or a woman's body so fix his attention outward that he does not reflect "I am now entering into the state called Anger-or the state called Lust". Contrariwise let the reflection "My feelings are now growing more devout, or more charitable" so fix his attention inward that he no longer looks beyond himself to see our Enemy or his own neighbours.</fr:blockquote><fr:p>I find, unfortunately, that even such profitable reflection can rather easily and quietly turn into the wicked, inward-looking sort. The human mind is an unreasonable breed, that in regrettably natural manner it manages to unearth some way to be prideful even about contrition. I am rather eager to give myself a pat on the back for my arrival at a realization of sin; and very soon one finds himself back in the realm of such undesirable meta-thinking. Then on reels a cycle of morbid introspection: at once I might recognize anew the meddling head of pride and grope for a mallet of repentance—until again I think myself rather well for the meta-meta-realization. Though one may go on unwrapping the onion, the core shall hardly come in sight. I can only throw up my hands in exhaustion, confidence in my capacity for humility utterly spent—there is something ironic in the statement. No matter; the dirt of its remains is not too bland for the palate of the insatiable human vanity.</fr:p><fr:p>Perhaps the vanity of the meta-meta-meta—<fr:em>ad infinitum</fr:em>—variety is mostly innocuous; yet by it we may recognize a reeking foulness of the human heart as it comes to the surface. All that we do is tainted by natural self-absorption, and it is unquenchable. How can one be self-aware, to self-examine, without pride? The <fr:em>whole</fr:em> trouble, indeed, as Charlie Brown would no doubt assent, is Original Sin. Alas, I have little hope for myself in this regard; I do not suppose that I can cast out the wicked and self-serving tendencies of my heart. Then it should be hopeless—if there is only myself, for evil cannot banish evil; every city or house divided against itself shall not stand. But I may take comfort in the knowledge that God who is almighty can—and would. Perhaps therein lies something close to the answer: as much as wayward man should desire to deceive himself, any degree of self-awareness is, like all profitable things, a merciful gift from God. It would do well for the self-examining will to remember that and by it recall its chief end: to turn the mind toward God, toward his grace and his ultimate gift, Christ.</fr:p></fr:mainmatter><fr:backmatter /></fr:tree></fr:mainmatter><fr:backmatter /></fr:tree></fr:backmatter></fr:tree>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1363</fr:anchor>
+    <fr:addr type="user">lewis-the-screwtape-letters</fr:addr>
+    <fr:route>lewis-the-screwtape-letters.xml</fr:route>
+    <fr:title text="The Screwtape Letters">The Screwtape Letters</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:date>
+      <fr:year>2015</fr:year>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="cslewis.xml" addr="cslewis" title="C.S. Lewis">C.S. Lewis</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:meta name="isbn">978-0-060-65293-7</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1365</fr:anchor>
+            <fr:addr type="user">zzhaoe-002A</fr:addr>
+            <fr:route>zzhaoe-002A.xml</fr:route>
+            <fr:title text="We murder to dissect">We murder to dissect</fr:title>
+            <fr:taxon>Musings</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>8</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>The word <fr:em>religion</fr:em> is troublesome precisely because it is rather useless—nay, even destructive. It suggests, for one, that those awfully disparate things which commonly suffer from such a label are in some way very alike, that one may speak of them as a meaningful collective. The adherents of these—say, Christianity, or Buddhism, or Hellenic paganism—the <fr:em>religious</fr:em>—are to be held in contrast with those so-called <fr:em>irreligious</fr:em>, as though those of the latter crowd do not also possess worldviews by which they derive the God or the gods whose character commands their lives. What people really imagine when they call something a <fr:em>religion</fr:em> is, I suppose, some very confined set of notions, such as a personal divine, and practices, like meditation at an altar. But the man whose attention is fixed on God is in no way thinking about <fr:em>religion</fr:em>, for to consider <fr:em>religion</fr:em> at all his attention must be diverted; as <fr:link type="local" href="cslewis.xml" addr="cslewis" title="C.S. Lewis">Lewis</fr:link> puts it, "he hasn't the time."<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">"Lilies that Fester", which I have as it is reprinted in <fr:em><fr:link type="local" href="lewis-the-worlds-last-night-and-other-essays.xml" addr="lewis-the-worlds-last-night-and-other-essays" title="The World's Last Night and Other Essays">The World's Last Night and Other Essays</fr:link></fr:em> (p. 32).</html:span></html:span></html:span> The word has only a chance to be meaningful (alas it isn't) from the outside.</fr:p>
+            <fr:p>The same, he says, seems to be true of <fr:em>cultured</fr:em>, which should surely mean a man who is possessed of "deep and genuine enjoyment of literature and the other arts." The man whose present attention is occupied by <fr:em>culture</fr:em>, like the <fr:em>religious</fr:em> man, must not be considering <fr:em>culture</fr:em> one bit, else his enjoyment would be thoroughly ruined. Rightly writes Lewis that "the talk is inimical to the thing talked of, likely to spoil it where it exists and to prevent its birth where it is unborn."<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">p. 33</html:span></html:span></html:span></fr:p>
+            <fr:p>The "whole trouble", as perhaps Charlie Brown would say, is that the focus of the mind has begun to wonder in the "abstract", so to speak, about <fr:em>religion</fr:em> or <fr:em>culture</fr:em> and therefore ceased in the activity itself. For any "meta-thinking" must by necessity kill the object of its study; the chef cannot butcher a duck in flight. A mortician would have much trouble to autopsy a squirming cadaver. I am often, in a rather foolish, self-aggrandizing fashion (I do not know if others can relate), found wondering if the present moment, when it is dramatic or astonishing or otherwise appears significant, will mark some critical point by which all that came afterwards began to change—if the pen has just been lifted, poised now to begin a new chapter. Yet in its very appraisal the drama has fled the scene; by pondering its future implications I have left it in the past. Probably, I suppose, the moment impressed sufficiently to meet some threshold of dramaticism yet inadequately to hold captive my mind. Empty yet cluttered, tedium has driven it to (probably fruitless) reflection.</fr:p>
+            <fr:p>I am led to see the same in other attitudes: <fr:em>humility</fr:em>, as an obvious example. For <fr:em>humility</fr:em> is by definition embodied by self-forgetfulness. The moment I wonder if I am indeed being very humble, far from <fr:em>forgetting</fr:em> the self, I have <fr:em>remembered</fr:em> it and altogether ceased in <fr:em>humility</fr:em>, if ever I really was; in fact, it is more fair to say that the proof has come out that I was decidedly not—there is none clearer. In humans, the great inquisition of such meta-thinking leaves no door unopened, no table unturned, no chest unbroken; one wonders who it was that injudiciously issued the warrant. Far from allowing humility to continue on its innocent way, it possesses a unquenchable desire to make of it something rather nasty. For one is likely to feel rather proud of one's supposed humility. Indeed, it would seem that only pride was ever present. It has packed the courts with its own lackeys, and the agenda is set against virtues. I am prone to suppose, not without some satisfaction, that I have been rather <fr:em>charitable</fr:em> to the ill-to-do or very <fr:em>patient</fr:em> with that nagging in-law; pride has practically won the day with just this. I say that I have merely "realized" the extent of my charity or my patience—and perhaps I really have been so, but I have also propped up some shadowy caricature of the real things and set them upon a platter for Screwtape. Already the ravenous ringing of his smacking lips echo from the lower echelons of Hell.</fr:p>
+            <fr:p>Yet it seems that surely not all "meta-thinking" is undesirable. Surely it is a good thing to wonder about the purpose for which one is pursuing their career or giving their money away, or why one is reading that book or writing to the present journal. Indeed, such self-examination is the way by which one perceives their sins and therefore may even begin to move toward contrition. Conviction of sins is impossible and meaningless without contemplation for the activities in which they manifest. After the morning has been wasted away on frivolous articles<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Or, as it were, adding sidenotes to the website.</html:span></html:span></html:span> or the loss in some competition has provoked a sullen mood, only when I realize that I have been slothful or covetous can I begin to seek contrition. These are, Screwtape reminds Wormwood, exactly the sorts of considerations whose entry into the patient's mind he ought to <fr:em>prevent</fr:em>:<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote"><fr:em><fr:link type="local" href="lewis-the-screwtape-letters.xml" addr="lewis-the-screwtape-letters" title="The Screwtape Letters">The Screwtape Letters</fr:link></fr:em>, letter 6.</html:span></html:span></html:span></fr:p>
+            <fr:blockquote>Let an insult or a woman's body so fix his attention outward that he does not reflect "I am now entering into the state called Anger-or the state called Lust". Contrariwise let the reflection "My feelings are now growing more devout, or more charitable" so fix his attention inward that he no longer looks beyond himself to see our Enemy or his own neighbours.</fr:blockquote>
+            <fr:p>I find, unfortunately, that even such profitable reflection can rather easily and quietly turn into the wicked, inward-looking sort. The human mind is an unreasonable breed, that in regrettably natural manner it manages to unearth some way to be prideful even about contrition. I am rather eager to give myself a pat on the back for my arrival at a realization of sin; and very soon one finds himself back in the realm of such undesirable meta-thinking. Then on reels a cycle of morbid introspection: at once I might recognize anew the meddling head of pride and grope for a mallet of repentance—until again I think myself rather well for the meta-meta-realization. Though one may go on unwrapping the onion, the core shall hardly come in sight. I can only throw up my hands in exhaustion, confidence in my capacity for humility utterly spent—there is something ironic in the statement. No matter; the dirt of its remains is not too bland for the palate of the insatiable human vanity.</fr:p>
+            <fr:p>Perhaps the vanity of the meta-meta-meta—<fr:em>ad infinitum</fr:em>—variety is mostly innocuous; yet by it we may recognize a reeking foulness of the human heart as it comes to the surface. All that we do is tainted by natural self-absorption, and it is unquenchable. How can one be self-aware, to self-examine, without pride? The <fr:em>whole</fr:em> trouble, indeed, as Charlie Brown would no doubt <fr:link type="local" href="short-the-gospel-according-to-peanuts.xml" addr="short-the-gospel-according-to-peanuts" title="The Gospel According to Peanuts">assent</fr:link>, is Original Sin. Alas, I have little hope for myself in this regard; I do not suppose that I can cast out the wicked and self-serving tendencies of my heart. Then it should be hopeless—if there is only myself, for evil cannot banish evil; every city or house divided against itself shall not stand. But I may take comfort in the knowledge that God who is almighty can—and would. Perhaps therein lies something close to the answer: as much as wayward man should desire to deceive himself, any degree of self-awareness is, like all profitable things, a merciful gift from God. It would do well for the self-examining will to remember that and by it recall its chief end: to turn the mind toward God, toward his grace and his ultimate gift, Christ.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

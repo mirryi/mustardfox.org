@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1874</fr:anchor>
+    <fr:addr type="user">frankpfenning</fr:addr>
+    <fr:route>frankpfenning.xml</fr:route>
+    <fr:title text="Frank Pfenning">Frank Pfenning</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1875</fr:anchor>
+            <fr:addr type="user">nanevski-et-al-2008</fr:addr>
+            <fr:route>nanevski-et-al-2008.xml</fr:route>
+            <fr:title text="Contextual modal type theory">Contextual modal type theory</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2008</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="aleksandarnanevski.xml" addr="aleksandarnanevski" title="Aleksandar Nanevski">Aleksandar Nanevski</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="frankpfenning.xml" addr="frankpfenning" title="Frank Pfenning">Frank Pfenning</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="brigittepientka.xml" addr="brigittepientka" title="Brigitte Pientka">Brigitte Pientka</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1145/1352582.1352591</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

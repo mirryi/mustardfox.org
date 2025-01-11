@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>550</fr:anchor>
+    <fr:addr type="user">zzhaoe-002I</fr:addr>
+    <fr:route>zzhaoe-002I.xml</fr:route>
+    <fr:title text="On Tom Bombadil as unfallen Adam">On Tom Bombadil as unfallen Adam</fr:title>
+    <fr:taxon>Musings</fr:taxon>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>1</fr:month>
+      <fr:day>14</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>The <fr:link type="local" href="mallorn-65.xml" addr="mallorn-65" title="Mallorn: Issue 65, Winter 2024">latest issue of <fr:em>Mallorn</fr:em></fr:link> has a nice <fr:link type="local" href="joy-2024.xml" addr="joy-2024" title="Adam Unfallen: Cracking the Bombadil Enigma">article</fr:link> positing that Tom Bombadil represents Tolkien's conception of an unfallen Adam.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">Any article claiming to have 'cracked' the enigma of Tom Bombadil is inevitably met with a wary feeling; it's like seeing an arXiv paper claiming to have solved <fr:tex display="inline"><![CDATA[P = NP]]></fr:tex>.</html:span></html:span></html:span> As the author mentions, the idea of an Adamic identity is not new, having appeared, apparently, in obscure fanzines from the 1970s, in <fr:link type="local" href="tomshippey.xml" addr="tomshippey" title="Tom Shippey">Shippey</fr:link>'s <fr:link type="local" href="shippey-the-road-to-middle-earth.xml" addr="shippey-the-road-to-middle-earth" title="The Road to Middle-Earth"><fr:em>The Road to Middle-Earth</fr:em></fr:link>, and in a <fr:link type="local" href="beal-2018.xml" addr="beal-2018" title="Who is Tom Bombadil?: Interpreting the Light in Frodo Baggins and Tom Bombadil's Role in the Healing of Traumatic Memory in J.R.R. Tolkien's Lord of the Rings">2018 article</fr:link> by <fr:link type="local" href="janebeal.xml" addr="janebeal" title="Jane Beal">Jane Beal</fr:link>.<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote">A quick search also pulls up a number of pages with similar ideas. This <fr:link type="external" href="https://reddit.com/r/tolkienfans/comments/bkdk9r/tom_bombadil_theory/">reddit post</fr:link> summarizes the important points rather well.</html:span></html:span></html:span> But the author argues that Tom is not identical to Adam nor prelapsarian, as he doesn't appear to be the progenitor of all man-kind and betrays none of Adam's weakness; he embodies, instead, "an alternative Adam who never fell," that is, "what <fr:em>would have happened</fr:em> had the serpent... failed".<html:span xmlns:html="http://www.w3.org/1999/xhtml" lang="en"><html:span class="sidenote-box"><html:span class="sidenote-number" /><html:span class="sidenote"><fr:link type="local" href="joy-2024.xml" addr="joy-2024" title="Adam Unfallen: Cracking the Bombadil Enigma">Joy 2024</fr:link>, p. 26, emphasis original.</html:span></html:span></html:span> I suppose I would wonder, then, why Tom has no progeny; this is the one point that seems incongruent with the divine command in Genesis 1:28: "And God said to them, 'Be fruitful and multiply and fill the earth,'" it says. Perhaps he just hasn't yet gotten around to it.</fr:p>
+    <fr:p>Otherwise, the issue contains three other research articles. I passed over the two about elements of horror in <fr:em><fr:link type="local" href="tolkien-the-lord-of-the-rings.xml" addr="tolkien-the-lord-of-the-rings" title="The Lord of the Rings">The Lord of the Rings</fr:link></fr:em> (specifically, the use of 'gaps and indeterminacies') and about renunciations of immortality. The <fr:link type="local" href="harrison-2024.xml" addr="harrison-2024" title="On Nothing: Tolkien, Ungoliant, and Anselmian Thought">last</fr:link> discusses the <fr:em>ex nihilo</fr:em> nature of Ungoliant herself and her ability to create Unlight; such notions have disturbing implications for the Tolkienian cosmology. It was interesting but could, I think, have been about half the length.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="References">References</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>552</fr:anchor>
+            <fr:addr type="user">joy-2024</fr:addr>
+            <fr:route>joy-2024.xml</fr:route>
+            <fr:title text="Adam Unfallen: Cracking the Bombadil Enigma">Adam Unfallen: Cracking the Bombadil Enigma</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="stephenjoy.xml" addr="stephenjoy" title="Stephen Joy">Stephen Joy</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="journal">
+              <fr:link type="local" href="mallorn-65.xml" addr="mallorn-65" title="Mallorn: Issue 65, Winter 2024">Mallorn: Issue 65, Winter 2024</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>554</fr:anchor>
+            <fr:addr type="user">mallorn-65</fr:addr>
+            <fr:route>mallorn-65.xml</fr:route>
+            <fr:title text="Mallorn: Issue 65, Winter 2024">Mallorn: Issue 65, Winter 2024</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:authors />
+            <fr:meta name="issn">0308-6674</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>555</fr:anchor>
+            <fr:addr type="user">harrison-2024</fr:addr>
+            <fr:route>harrison-2024.xml</fr:route>
+            <fr:title text="On Nothing: Tolkien, Ungoliant, and Anselmian Thought">On Nothing: Tolkien, Ungoliant, and Anselmian Thought</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="perryneilharrison.xml" addr="perryneilharrison" title="Perry Neil Harrison">Perry Neil Harrison</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="journal">
+              <fr:link type="local" href="mallorn-65.xml" addr="mallorn-65" title="Mallorn: Issue 65, Winter 2024">Mallorn: Issue 65, Winter 2024</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>557</fr:anchor>
+            <fr:addr type="user">beal-2018</fr:addr>
+            <fr:route>beal-2018.xml</fr:route>
+            <fr:title text="Who is Tom Bombadil?: Interpreting the Light in Frodo Baggins and Tom Bombadil's Role in the Healing of Traumatic Memory in J.R.R. Tolkien's Lord of the Rings">Who is Tom Bombadil?: Interpreting the Light in Frodo Baggins and Tom Bombadil's Role in the Healing of Traumatic Memory in <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>'s <fr:link type="local" href="tolkien-the-lord-of-the-rings.xml" addr="tolkien-the-lord-of-the-rings" title="The Lord of the Rings"><fr:em>Lord of the Rings</fr:em></fr:link></fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="janebeal.xml" addr="janebeal" title="Jane Beal">Jane Beal</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="external">https://scholar.valpo.edu/journaloftolkienresearch/vol6/iss1/1/</fr:meta>
+            <fr:meta name="journal">
+              <fr:link type="local" href="journal-of-tolkien-research-6-1.xml" addr="journal-of-tolkien-research-6-1" title="Journal of Tolkien Research: Vol. 6: Iss. 1">Journal of Tolkien Research: Vol. 6: Iss. 1</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>559</fr:anchor>
+            <fr:addr type="user">shippey-the-road-to-middle-earth</fr:addr>
+            <fr:route>shippey-the-road-to-middle-earth.xml</fr:route>
+            <fr:title text="The Road to Middle-Earth">The Road to Middle-Earth</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1982</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="tomshippey.xml" addr="tomshippey" title="Tom Shippey">Tom Shippey</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>561</fr:anchor>
+            <fr:addr type="user">tolkien-the-lord-of-the-rings</fr:addr>
+            <fr:route>tolkien-the-lord-of-the-rings.xml</fr:route>
+            <fr:title text="The Lord of the Rings">The Lord of the Rings</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>1955</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>1954</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>563</fr:anchor>
+            <fr:addr type="user">janebeal</fr:addr>
+            <fr:route>janebeal.xml</fr:route>
+            <fr:title text="Jane Beal">Jane Beal</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:authors />
+            <fr:meta name="position">Professor of English</fr:meta>
+            <fr:meta name="institution">
+              <fr:link type="local" href="ulaverne.xml" addr="ulaverne" title="University of La Verne">University of La Verne</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>564</fr:anchor>
+            <fr:addr type="user">tomshippey</fr:addr>
+            <fr:route>tomshippey.xml</fr:route>
+            <fr:title text="Tom Shippey">Tom Shippey</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:authors />
+            <fr:meta name="homepage">https://tomshippey.com/</fr:meta>
+            <fr:meta name="position">Professor Emeritus</fr:meta>
+            <fr:meta name="institution">
+              <fr:link type="local" href="stlouisuniversity.xml" addr="stlouisuniversity" title="Saint Louis University">Saint Louis University</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

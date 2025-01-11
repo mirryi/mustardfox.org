@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<fr:tree
-toc="true"
-numbered="true"
-show-heading="true"
-show-metadata="true"
-expanded="true"
-root="false"
-xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"><fr:frontmatter><fr:anchor>835</fr:anchor><fr:addr
-type="user">zzhaoe-000I</fr:addr><fr:route>zzhaoe-000I.xml</fr:route><fr:title
-text="The Wise One of the Mud">The Wise One of the Mud</fr:title><fr:taxon>Poem</fr:taxon><fr:date><fr:year>2023</fr:year><fr:month>2</fr:month><fr:day>15</fr:day></fr:date><fr:authors><fr:author><fr:link
-type="local"
-href="ericczhao.xml"
-addr="ericczhao"
-title="Eric Zhao">Eric Zhao</fr:link></fr:author></fr:authors></fr:frontmatter><fr:mainmatter><fr:blockquote>What little knew those men in dark 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1278</fr:anchor>
+    <fr:addr type="user">zzhaoe-000I</fr:addr>
+    <fr:route>zzhaoe-000I.xml</fr:route>
+    <fr:title text="The Wise One of the Mud">The Wise One of the Mud</fr:title>
+    <fr:taxon>Poem</fr:taxon>
+    <fr:date>
+      <fr:year>2023</fr:year>
+      <fr:month>2</fr:month>
+      <fr:day>15</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:blockquote>What little knew those men in dark 
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   atread upon that grove bespoke. 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   They hearkened not the eldest lark 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   yet sentinel for broken yoke: 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   incarnate fen, though incorporeal, 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   soft the firm made stifling mire 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
   writhing drew a hymn primordial 
-  <html:br
-xmlns:html="http://www.w3.org/1999/xhtml" />
+  <html:br xmlns:html="http://www.w3.org/1999/xhtml" />
 
-  groaning past in willow shire.</fr:blockquote></fr:mainmatter><fr:backmatter /></fr:tree>
+  groaning past in willow shire.</fr:blockquote>
+  </fr:mainmatter>
+  <fr:backmatter />
+</fr:tree>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1340</fr:anchor>
+    <fr:addr type="user">journal-of-tolkien-research-6-1</fr:addr>
+    <fr:route>journal-of-tolkien-research-6-1.xml</fr:route>
+    <fr:title text="Journal of Tolkien Research: Vol. 6: Iss. 1">Journal of Tolkien Research: Vol. 6: Iss. 1</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:date>
+      <fr:year>2018</fr:year>
+    </fr:date>
+    <fr:authors />
+    <fr:meta name="issn">2471-934X</fr:meta>
+    <fr:meta name="external">https://scholar.valpo.edu/journaloftolkienresearch/vol6/iss1/</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1341</fr:anchor>
+            <fr:addr type="user">beal-2018</fr:addr>
+            <fr:route>beal-2018.xml</fr:route>
+            <fr:title text="Who is Tom Bombadil?: Interpreting the Light in Frodo Baggins and Tom Bombadil's Role in the Healing of Traumatic Memory in J.R.R. Tolkien's Lord of the Rings">Who is Tom Bombadil?: Interpreting the Light in Frodo Baggins and Tom Bombadil's Role in the Healing of Traumatic Memory in <fr:link type="local" href="jrrtolkien.xml" addr="jrrtolkien" title="J.R.R. Tolkien">J.R.R. Tolkien</fr:link>'s <fr:link type="local" href="tolkien-the-lord-of-the-rings.xml" addr="tolkien-the-lord-of-the-rings" title="The Lord of the Rings"><fr:em>Lord of the Rings</fr:em></fr:link></fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="janebeal.xml" addr="janebeal" title="Jane Beal">Jane Beal</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="external">https://scholar.valpo.edu/journaloftolkienresearch/vol6/iss1/1/</fr:meta>
+            <fr:meta name="journal">
+              <fr:link type="local" href="journal-of-tolkien-research-6-1.xml" addr="journal-of-tolkien-research-6-1" title="Journal of Tolkien Research: Vol. 6: Iss. 1">Journal of Tolkien Research: Vol. 6: Iss. 1</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>1030</fr:anchor>
+    <fr:addr type="user">zzhaoe-0033</fr:addr>
+    <fr:route>zzhaoe-0033.xml</fr:route>
+    <fr:title text="Started my PhD">Started my PhD</fr:title>
+    <fr:taxon>News</fr:taxon>
+    <fr:date>
+      <fr:year>2024</fr:year>
+      <fr:month>8</fr:month>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>Starting my PhD at the end of this month in programming languages and formal methods with <fr:link type="local" href="robertlewis.xml" addr="robertlewis" title="Robert Lewis">Rob Lewis</fr:link> and <fr:link type="local" href="nikosvasilakis.xml" addr="nikosvasilakis" title="Nikos Vasilakis">Nikos Vasilakis</fr:link>.</fr:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1032</fr:anchor>
+            <fr:addr type="user">zzhaoe-0034</fr:addr>
+            <fr:route>zzhaoe-0034.xml</fr:route>
+            <fr:title text="News › chronological"><fr:link type="local" href="zzhaoe-0004.xml" addr="zzhaoe-0004" title="News">News</fr:link> › chronological</fr:title>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="ericczhao.xml" addr="ericczhao" title="Eric Zhao">Eric Zhao</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:table xmlns:html="http://www.w3.org/1999/xhtml">
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0038.xml" addr="zzhaoe-0038" title="At OPLSS 2025">jun. '25</fr:link>:</fr:strong> will be at <fr:link type="local" href="oplss-2025.xml" addr="oplss-2025" title="OPLSS 2025">OPLSS</fr:link> at the end of the month. 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0037.xml" addr="zzhaoe-0037" title="At HotOS XX">may. '25</fr:link>:</fr:strong> will be at <fr:link type="local" href="hotos-2025.xml" addr="hotos-2025" title="HotOS XX">HotOS XX</fr:link> later this month! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0029.xml" addr="zzhaoe-0029" title="Kakehashi!">feb. '25</fr:link>:</fr:strong> invited to participate in the <fr:link type="external" href="https://www.mofa.go.jp/mofaj/area/page25_000243.html"><fr:em>Kakehashi Project</fr:em></fr:link> between Feb. 4–11! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-003A.xml" addr="zzhaoe-003A" title="Grove published at POPL 2025">jan. '25</fr:link>:</fr:strong> our paper on Grove is published at POPL! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0026.xml" addr="zzhaoe-0026" title="Presented at NJPLS">dec. '24</fr:link>:</fr:strong> gave a talk at <fr:link type="local" href="njpls-2024-12.xml" addr="njpls-2024-12" title="NJPLS December 2024">NJPLS</fr:link> on symbolic reasoning for file system effects. 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0033.xml" addr="zzhaoe-0033" title="Started my PhD">aug. '24</fr:link>:</fr:strong> starting my PhD at <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown</fr:link> in PL and formal methods. 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0032.xml" addr="zzhaoe-0032" title="Participated in the UniMath summer school">jul. '24</fr:link>:</fr:strong> participated to the 2024 <fr:link type="external" href="https://unimath.github.io/minneapolis2024/">School on Univalent Mathematics</fr:link>! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-000S.xml" addr="zzhaoe-000S" title="Received the NSF Graduate Research Fellowship!">apr. '24</fr:link>:</fr:strong> honored to receive an <fr:link type="external" href="https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp">NSF GRFP</fr:link>! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-000T.xml" addr="zzhaoe-000T" title="Passed the JLPT N1!">mar. '24</fr:link>:</fr:strong> passed the <fr:link type="external" href="https://www.jlpt.jp/e/">JLPT N1</fr:link>! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0031.xml" addr="zzhaoe-0031" title="ミシガンの日本語スピーチコンテストで勝利しました">feb. '24</fr:link>:</fr:strong> won the <fr:link type="external" href="https://jtamsensei.wixsite.com/home/speech-contest">Michigan Japanese Speech Contest</fr:link> with a very shoddy speech. 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-000R.xml" addr="zzhaoe-000R" title="Presenting at POPL 2024!">jan. '24</fr:link>:</fr:strong> presenting our paper on type error localization at POPL! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-003B.xml" addr="zzhaoe-003B" title="TA'ing EECS 490 this year">aug. '23</fr:link>:</fr:strong> assisting with <fr:link type="local" href="zzhaoe-0010.xml" addr="zzhaoe-0010" title="EECS 490: Programming Languages (F23, W24)">EECS 490</fr:link> this year. 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0035.xml" addr="zzhaoe-0035" title="Study abroad">jun. '23</fr:link>:</fr:strong> abroad in Osaka, Japan for advanced intensive Japanese language study! 
+  <html:br />
+
+
+
+  
+  <fr:strong><fr:link type="local" href="zzhaoe-0036.xml" addr="zzhaoe-0036" title="Received a FLAS">mar. '23</fr:link>:</fr:strong> honored to receive a <fr:link type="external" href="https://www.ed.gov/grants-and-programs/grants-higher-education/ifle/foreign-language-and-area-studies-program">FLAS</fr:link>! 
+  <html:br />
+
+
+  </html:table>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1034</fr:anchor>
+            <fr:addr type="user">nikosvasilakis</fr:addr>
+            <fr:route>nikosvasilakis.xml</fr:route>
+            <fr:title text="Nikos Vasilakis">Nikos Vasilakis</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:authors />
+            <fr:meta name="position">Assistant Professor of Computer Science</fr:meta>
+            <fr:meta name="institution">
+              <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>
+            </fr:meta>
+            <fr:meta name="homepage">https://nikos.vasilak.is</fr:meta>
+            <fr:meta name="orcid">0000-0001-7347-298X</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:blockquote>I am an Assistant Professor of Computer Science at Brown University. My research encompasses systems, programming languages, and security—focusing on automatically enhancing software systems with new capabilities. This enhancement forms a transition path towards secure distributed environments targeting multiple scales.</fr:blockquote>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>1035</fr:anchor>
+            <fr:addr type="user">robertlewis</fr:addr>
+            <fr:route>robertlewis.xml</fr:route>
+            <fr:title text="Robert Lewis">Robert Lewis</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:authors />
+            <fr:meta name="position">Lecturer of Computer Science</fr:meta>
+            <fr:meta name="institution">
+              <fr:link type="local" href="brownuniversity.xml" addr="brownuniversity" title="Brown University">Brown University</fr:link>
+            </fr:meta>
+            <fr:meta name="homepage">https://robertylewis.com</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:blockquote>Hi, I’m Robert Y. Lewis. I’m a lecturer in the Department of Computer Science at Brown University. My interests revolve around formal methods and verification, logic, and the foundations of mathematics, and the use of these in computer science and mathematics education. I work on interactive theorem proving, automated reasoning, and type theory.</fr:blockquote>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
